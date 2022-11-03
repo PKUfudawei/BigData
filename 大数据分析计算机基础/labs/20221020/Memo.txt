@@ -1,0 +1,12 @@
+http://www.iciba.com/word?w=computer
+上证指数：
+http://quotes.money.163.com/trade/lsjysj_zhishu_000001.html?year=2019&season=3
+
+iterable:迭代类型
+https://www.runoob.com/python3/python-requests.html
+
+登录式数据爬取
+https://blog.csdn.net/sinat_16643223/article/details/120198325
+
+关于Session和cookies的网页
+https://blog.csdn.net/alwaysrun/article/details/114854450
