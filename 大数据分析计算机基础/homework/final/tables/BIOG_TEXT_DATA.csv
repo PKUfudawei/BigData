@@ -1,4 +1,4 @@
-index,tts_sysno,c_textid,c_personid,c_role_id,c_year,c_nh_code,c_nh_year,c_range_code,c_source,c_pages,c_secondary_source_author,c_notes,c_created_by,c_created_date,c_modified_by,c_modified_date
+,tts_sysno,c_textid,c_personid,c_role_id,c_year,c_nh_code,c_nh_year,c_range_code,c_source,c_pages,c_secondary_source_author,c_notes,c_created_by,c_created_date,c_modified_by,c_modified_date
 0,114.0,2031,0,0,-1.0,0.0,-1.0,0.0,,0000000,,,TTS,20070312,HUWHS,20140106
 1,116.0,2032,0,0,-1.0,0.0,-1.0,0.0,,0000000,,,TTS,20070312,,
 2,117.0,2033,0,0,-1.0,0.0,-1.0,0.0,,0000000,,,TTS,20070312,,

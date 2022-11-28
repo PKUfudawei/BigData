@@ -1,4 +1,4 @@
-index,c_household_status_code,c_household_status_desc,c_household_status_desc_chn
+,c_household_status_code,c_household_status_desc,c_household_status_desc_chn
 0,0,Unknown,未詳
 1,1,Civilian household,民戶
 2,2,Military household,軍戶

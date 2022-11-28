@@ -1,4 +1,4 @@
-index,RowNum,DumpTblNm,DumpFldNm,AccessTblNm,AccessFldNm,IndexOnField,DataFormat,NULL_allowed,ForeignKey,ForeignKeyBaseField
+,RowNum,DumpTblNm,DumpFldNm,AccessTblNm,AccessFldNm,IndexOnField,DataFormat,NULL_allowed,ForeignKey,ForeignKeyBaseField
 0,,,,ADDR_BELONGS_DATA,c_addr_id,Primary Key,Long,0,ADDR_CODES,c_addr_id
 1,,,,ADDR_BELONGS_DATA,c_belongs_to,Primary Key,Long,0,ADDR_CODES,c_addr_id
 2,,,,ADDR_BELONGS_DATA,c_first_year,,Integer,1,,

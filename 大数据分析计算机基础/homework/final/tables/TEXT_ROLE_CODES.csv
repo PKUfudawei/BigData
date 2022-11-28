@@ -1,4 +1,4 @@
-index,c_role_id,c_role_desc,c_role_desc_chn
+,c_role_id,c_role_desc,c_role_desc_chn
 0,0,unknown,未詳
 1,1,author,撰著者
 2,2,editor,編輯者

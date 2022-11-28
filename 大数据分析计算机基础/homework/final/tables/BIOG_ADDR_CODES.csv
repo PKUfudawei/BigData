@@ -1,4 +1,4 @@
-index,c_addr_type,c_addr_desc,c_addr_desc_chn,c_addr_note,c_index_addr_rank,c_index_addr_default_rank
+,c_addr_type,c_addr_desc,c_addr_desc_chn,c_addr_note,c_index_addr_rank,c_index_addr_default_rank
 0,-1,[Missing Data],[缺乏信息],,100,100
 1,0,unknown,未詳,,100,100
 2,1,Basic Affiliation,籍貫(基本地址),This field is different from the other fields. It assigns a person to a single place for indexing purposes. This field requires judgment based on information in the other fields. There should only be one entry.,1,1

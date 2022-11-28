@@ -1,4 +1,4 @@
-index,AccessTblNm,AccessFldNm,ForeignKey,ForeignKeyBaseField,FKString,FKName,skip,IndexOnField,DataFormat,NULL_allowed
+,AccessTblNm,AccessFldNm,ForeignKey,ForeignKeyBaseField,FKString,FKName,skip,IndexOnField,DataFormat,NULL_allowed
 0,ADDR_BELONGS_DATA,c_addr_id,ADDR_CODES,c_addr_id,c_addr_id,ADDR_BELONGS_ADDR_ID,1,Primary Key,Long,0
 1,ADDR_BELONGS_DATA,c_belongs_to,ADDR_CODES,c_addr_id,c_addr_id,ADDR_BELONGS_BELONG_ID,1,Primary Key,Long,0
 2,ADDR_BELONGS_DATA,c_source,TEXT_CODES,c_textid,c_textid,ADDR_BELONGS_TEXT_CODE,1,,Long,1

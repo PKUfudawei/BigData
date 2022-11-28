@@ -1,4 +1,4 @@
-index,c_person_id,c_db_id,c_db_sys_id
+,c_person_id,c_db_id,c_db_sys_id
 0,256,2,1801
 1,268,2,1842
 2,602,2,3784

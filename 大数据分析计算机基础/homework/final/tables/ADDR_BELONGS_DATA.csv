@@ -1,4 +1,4 @@
-index,c_addr_id,c_belongs_to,c_firstyear,c_lastyear,c_source,c_pages,c_secondary_source_author,c_notes
+,c_addr_id,c_belongs_to,c_firstyear,c_lastyear,c_source,c_pages,c_secondary_source_author,c_notes
 0,1,0,1949,2005,0.0,,,
 1,2,1,1949,2005,0.0,,,
 2,3,1,1949,2005,0.0,,,

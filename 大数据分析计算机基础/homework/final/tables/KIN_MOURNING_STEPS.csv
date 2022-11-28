@@ -1,4 +1,4 @@
-index,c_kinrel,c_upstep,c_dwnstep,c_marstep,c_colstep
+,c_kinrel,c_upstep,c_dwnstep,c_marstep,c_colstep
 0,B,0,0,0,1
 1,BD,0,1,0,1
 2,BS,0,1,0,1

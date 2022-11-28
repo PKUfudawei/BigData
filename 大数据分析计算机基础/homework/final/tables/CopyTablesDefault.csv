@@ -1,4 +1,4 @@
-index,ID,TableName
+,ID,TableName
 0,1,ADDR_BELONGS_DATA
 1,2,ADDR_CODES
 2,3,ALTNAME_CODES

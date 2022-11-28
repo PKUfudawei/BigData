@@ -1,4 +1,4 @@
-index,c_office_id,c_office_type_id,c_office_tree_id,c_office_type_type_code,c_office_l1,c_office_l2,c_office_l3,c_office_l4,c_office_l5
+,c_office_id,c_office_type_id,c_office_tree_id,c_office_type_type_code,c_office_l1,c_office_l2,c_office_l3,c_office_l4,c_office_l5
 0,3,011070600,15060106,0,0,0,0,0,0
 1,7,011030500,15030105,0,0,0,0,0,0
 2,8,011030500,15030105,0,0,0,0,0,0

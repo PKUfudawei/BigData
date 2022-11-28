@@ -1,4 +1,4 @@
-index,c_assoc_code,c_assoc_pair,c_assoc_pair2,c_assoc_desc,c_assoc_desc_chn,c_assoc_role_type,c_sortorder,c_example
+,c_assoc_code,c_assoc_pair,c_assoc_pair2,c_assoc_desc,c_assoc_desc_chn,c_assoc_role_type,c_sortorder,c_example
 0,-1,-1,,[Missing Data],[缺乏信息],,,
 1,0,0,,[Undefined],未詳,,1.0,
 2,4,5,,Patron of (= Client was),是Y的恩主,A,98.0,

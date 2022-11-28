@@ -1,4 +1,4 @@
-index,c_topic_code,c_topic_desc,c_topic_desc_chn,c_topic_type_code,c_topic_type_desc,c_topic_type_desc_chn,c_sortorder
+,c_topic_code,c_topic_desc,c_topic_desc_chn,c_topic_type_code,c_topic_type_desc,c_topic_type_desc_chn,c_sortorder
 0,0,unknown,未詳,0,,,1
 1,1,Classics,經,1,學科,Disciplines,2
 2,2,The Way (dao),道,1,學科,Disciplines,3

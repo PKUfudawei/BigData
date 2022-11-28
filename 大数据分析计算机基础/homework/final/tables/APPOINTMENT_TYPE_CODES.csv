@@ -1,4 +1,4 @@
-index,c_appt_type_code,c_appt_type_desc_chn,c_appt_type_desc,c_appt_type_desc_chn_alt,c_appt_type_desc_alt,check
+,c_appt_type_code,c_appt_type_desc_chn,c_appt_type_desc,c_appt_type_desc_chn_alt,c_appt_type_desc_alt,check
 0,0,正授,Regular Appointment,,,
 1,1,權,Provisional Appointment,,,
 2,2,行,Lower Acting Appointment,,,

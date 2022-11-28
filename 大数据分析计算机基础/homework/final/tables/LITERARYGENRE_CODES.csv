@@ -1,4 +1,4 @@
-index,c_lit_genre_code,c_lit_genre_desc,c_lit_genre_desc_chn,c_sortorder
+,c_lit_genre_code,c_lit_genre_desc,c_lit_genre_desc_chn,c_sortorder
 0,0,unknown,未詳,1
 1,1,poem,詩,2
 2,2,lyric,詞,8

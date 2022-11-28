@@ -1,4 +1,4 @@
-index,c_status_type_code,c_status_type_desc,c_status_type_chn,c_status_type_parent_code
+,c_status_type_code,c_status_type_desc,c_status_type_chn,c_status_type_parent_code
 0,00,[Unknown],[未詳],
 1,01,Occupation,事業,
 2,02,Scholarship,學術,

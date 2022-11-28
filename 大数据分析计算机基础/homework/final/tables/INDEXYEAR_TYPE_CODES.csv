@@ -1,4 +1,4 @@
-index,c_index_year_type_code,c_index_year_type_desc,c_index_year_type_hz,c_notes
+,c_index_year_type_code,c_index_year_type_desc,c_index_year_type_hz,c_notes
 0,01,Based on Birth Year,據生年,not derived:  no rule
 1,02,Based on Death Year - Death Age + 1,據卒年 - 享年 + 1,old Rule 2
 2,03,Based on Husband's Birth Year + 3,據其夫生年 + 3,old Rule 4W

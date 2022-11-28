@@ -1,4 +1,4 @@
-index,c_personid,c_sequence,c_event_record_id,c_event_code,c_role,c_year,c_nh_code,c_nh_year,c_yr_range,c_intercalary,c_month,c_day,c_day_ganzhi,c_addr_id,c_source,c_pages,c_secondary_source_author,c_event,c_notes,tts_sysno,c_created_by,c_created_date,c_modified_by,c_modified_date
+,c_personid,c_sequence,c_event_record_id,c_event_code,c_role,c_year,c_nh_code,c_nh_year,c_yr_range,c_intercalary,c_month,c_day,c_day_ganzhi,c_addr_id,c_source,c_pages,c_secondary_source_author,c_event,c_notes,tts_sysno,c_created_by,c_created_date,c_modified_by,c_modified_date
 0,44955,,9.0,59.0,與金人戰於明州城下，殉難。,,,,,0,,,,101095.0,,,,,,370,BDGSX,20080607,TTS,20080916
 1,44960,,10.0,59.0,金人圍安陸，游騎至漢川，仲昇逆戰，斬其先鋒，焚其戰艦，復刼金寨，殺千餘人，中流矢死。,,,,,0,,,,,,,,,,371,BDGSX,20080607,TTS,20080916
 2,25044,,11.0,51.0,韓忠彥入相，紹聖黨與以次斥去，惟蔡京結宦寺為助，徽宗未有逐京意。徐勣與諫官陳瓘、任伯雨同論蔡京之罪，,,,,,0,,,,,,,,,,372,BDLYH,20080607,TTS,20080916

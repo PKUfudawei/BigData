@@ -1,4 +1,4 @@
-index,c_parental_status_code,c_parental_status_desc,c_parental_status_desc_chn
+,c_parental_status_code,c_parental_status_desc,c_parental_status_desc_chn
 0,0,[Unknown],[未詳]
 1,1,Both parent alive,具慶;雙侍;重侍
 2,2,Both parent died,永感

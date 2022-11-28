@@ -1,4 +1,4 @@
-index,c_office_category_id,c_category_desc,c_category_desc_chn,c_notes
+,c_office_category_id,c_category_desc,c_category_desc_chn,c_notes
 0,0,unknown,未詳,
 1,1,Classification title,階官,"from Kracke, ""Translation of Sung Civil Service Titles"""
 2,2,Commission,差遣,"Used in the Song before 1080, from Kracke, ""Translation of Sung Civil Service Titles"""

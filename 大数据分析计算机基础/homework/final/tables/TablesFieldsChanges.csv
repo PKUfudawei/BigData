@@ -1,4 +1,4 @@
-index,TableName,FieldName,Change,ChangeDate,ChangeNotes
+,TableName,FieldName,Change,ChangeDate,ChangeNotes
 0,ADDR_BELONGS_DATA,All,new table,2011/07/24,not new to TTS
 1,ADDR_BELONGS_DATA,c_addr_cbd,added,2011/07/24,new table
 2,ADDR_BELONGS_DATA,c_addr_id,added,2011/07/24,new table

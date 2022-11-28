@@ -1,4 +1,4 @@
-index,c_text_type_code,c_text_type_desc,c_text_type_desc_chn,c_text_type_parent_id,c_text_type_level,c_text_type_sortorder
+,c_text_type_code,c_text_type_desc,c_text_type_desc_chn,c_text_type_parent_id,c_text_type_level,c_text_type_sortorder
 0,01,Primary Texts,古書原文,0,0,1
 1,0101,Classics Branch,經部,01,1,2
 2,010101,Book of Change and associated works,易類,0101,2,3

@@ -1,4 +1,4 @@
-index,c_inst_name_code,c_inst_code,c_inst_addr_type_code,c_inst_addr_begin_year,c_inst_addr_end_year,c_inst_addr_id,inst_xcoord,inst_ycoord,c_source,c_pages,c_notes,c_secondary_source_author
+,c_inst_name_code,c_inst_code,c_inst_addr_type_code,c_inst_addr_begin_year,c_inst_addr_end_year,c_inst_addr_id,inst_xcoord,inst_ycoord,c_source,c_pages,c_notes,c_secondary_source_author
 0,0,0,1,0.0,0.0,0,0.0,0.0,0.0,,,
 1,1,1,1,,,18278,0.0,0.0,9599.0,5461,"from L.Walton: YR II.1317; II,1954; Lao, p.122",
 2,1,2,1,,,17561,0.0,0.0,9599.0,6140,from L.Walton: 大明一統志 12.8a,

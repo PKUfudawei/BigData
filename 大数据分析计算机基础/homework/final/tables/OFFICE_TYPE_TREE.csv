@@ -1,4 +1,4 @@
-index,c_office_type_node_id,c_tts_node_id,c_office_type_desc,c_office_type_desc_chn,c_parent_id
+,c_office_type_node_id,c_tts_node_id,c_office_type_desc,c_office_type_desc_chn,c_parent_id
 0,0,0,All Offices Categories,所有門類,0
 1,06,06,Tang Dynasty,唐朝,0
 2,0601,0601,Imperial Family ,帝后制度類,06

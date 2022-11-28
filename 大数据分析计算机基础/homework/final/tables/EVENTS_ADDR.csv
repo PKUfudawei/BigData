@@ -1,4 +1,4 @@
-index,c_event_record_id,c_personid,c_addr_id,c_year,c_nh_code,c_nh_year,c_yr_range,c_intercalary,c_month,c_day,c_day_ganzhi
+,c_event_record_id,c_personid,c_addr_id,c_year,c_nh_code,c_nh_year,c_yr_range,c_intercalary,c_month,c_day,c_day_ganzhi
 0,2,44872,12603,0.0,0.0,0.0,,0,0.0,0.0,0.0
 1,9,44955,101095,0.0,0.0,0.0,,0,0.0,0.0,0.0
 2,74,444855,0,,,,,0,,,

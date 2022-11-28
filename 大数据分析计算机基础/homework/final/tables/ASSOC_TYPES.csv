@@ -1,4 +1,4 @@
-index,c_assoc_type_id,c_assoc_type_desc,c_assoc_type_desc_chn,c_assoc_type_parent_id,c_assoc_type_level,c_assoc_type_sortorder,c_assoc_type_short_desc
+,c_assoc_type_id,c_assoc_type_desc,c_assoc_type_desc_chn,c_assoc_type_parent_id,c_assoc_type_level,c_assoc_type_sortorder,c_assoc_type_short_desc
 0,01,Associations (General),社會關係（籠統）,0,0,1,Association
 1,0101,Associations (General),社會關係（籠統）,01,1,1,Association
 2,0102,Association through common membership,同為……之成員,01,1,2,Membership

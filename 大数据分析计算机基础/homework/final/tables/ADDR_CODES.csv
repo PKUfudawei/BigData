@@ -1,4 +1,4 @@
-index,c_addr_id,c_name,c_name_chn,c_firstyear,c_lastyear,c_admin_type,x_coord,y_coord,CHGIS_PT_ID,c_notes,c_alt_names
+,c_addr_id,c_name,c_name_chn,c_firstyear,c_lastyear,c_admin_type,x_coord,y_coord,CHGIS_PT_ID,c_notes,c_alt_names
 0,-1,[Missing Data],[信息缺乏],,,[Unknown],,,,,
 1,0,[Unknown],[未詳],,,[Unknown],,,,,
 2,1,People's Republic of China,中華人民共和國,1949.0,2005.0,PRC,,,,,

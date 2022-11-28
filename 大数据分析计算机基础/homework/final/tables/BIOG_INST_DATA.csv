@@ -1,4 +1,4 @@
-index,c_personid,c_inst_name_code,c_inst_code,c_bi_role_code,c_bi_begin_year,c_bi_by_nh_code,c_bi_by_nh_year,c_bi_by_range,c_bi_end_year,c_bi_ey_nh_code,c_bi_ey_nh_year,c_bi_ey_range,c_source,c_pages,c_secondary_source_author,c_notes,c_created_by,c_created_date,c_modified_by,c_modified_date,tts_sysno
+,c_personid,c_inst_name_code,c_inst_code,c_bi_role_code,c_bi_begin_year,c_bi_by_nh_code,c_bi_by_nh_year,c_bi_by_range,c_bi_end_year,c_bi_ey_nh_code,c_bi_ey_nh_year,c_bi_ey_range,c_source,c_pages,c_secondary_source_author,c_notes,c_created_by,c_created_date,c_modified_by,c_modified_date,tts_sysno
 0,10722,13,15,19,1320.0,628.0,,,,,,,,,,出處：全元文，第30冊 P408-410。全元文第55冊 page: 629,load,20170419,load,20170829,1.0
 1,10724,301,3441,19,,18.0,,,,,,,,,,出處：全元文，第30冊 P395-397。,load,20170419,,,2.0
 2,27852,397,3885,0,,18.0,,,,,,,,,,出處：全元文，第25冊 P420。直學,load,20170419,,,3.0

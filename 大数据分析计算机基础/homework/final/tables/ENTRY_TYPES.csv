@@ -1,4 +1,4 @@
-index,c_entry_type,c_entry_type_desc,c_entry_type_desc_chn,c_entry_type_parent_id,c_entry_type_level,c_entry_type_sortorder
+,c_entry_type,c_entry_type_desc,c_entry_type_desc_chn,c_entry_type_parent_id,c_entry_type_level,c_entry_type_sortorder
 0,00,Unknown Method of Entry,未知入仕途徑,0,0.0,1.0
 1,01,Palace,宮廷門,0,0.0,2.0
 2,02,Kinship,血親門,0,0.0,3.0
