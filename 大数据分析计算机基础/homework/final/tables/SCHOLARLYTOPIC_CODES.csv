@@ -1,0 +1,33 @@
+index,c_topic_code,c_topic_desc,c_topic_desc_chn,c_topic_type_code,c_topic_type_desc,c_topic_type_desc_chn,c_sortorder
+0,0,unknown,未詳,0,,,1
+1,1,Classics,經,1,學科,Disciplines,2
+2,2,The Way (dao),道,1,學科,Disciplines,3
+3,3,Neo-Confucian Principle (li),理,1,學科,Disciplines,4
+4,4,History,史,1,學科,Disciplines,5
+5,5,Military affairs,兵,1,學科,Disciplines,6
+6,6,Poetry and prose  composition,詩文,1,學科,Disciplines,7
+7,7,Poetry,詩,1,學科,Disciplines,8
+8,8,Literary composition,文,1,學科,Disciplines,9
+9,9,Painting,畫,1,學科,Disciplines,10
+10,10,Calligraphy,書法,1,學科,Disciplines,11
+11,100,Four Books,四書,1,學科,Disciplines,12
+12,101,Great Learning,《大學》,2,文本,Texts,13
+13,102,Analects,《論語》,2,文本,Texts,14
+14,103,Doctrine of the Mean,《中庸》,2,文本,Texts,15
+15,104,Mencius,《孟子》,2,文本,Texts,16
+16,105,Classic of Filial Piety,《孝經》,2,文本,Texts,17
+17,106,Er ya,《爾雅》,2,文本,Texts,18
+18,107,Book of Odes,《詩經》,2,文本,Texts,19
+19,108,Mao Commentary on the Book of Odes,《毛詩》,2,文本,Texts,20
+20,109,Book of Documents,《尚書》,2,文本,Texts,21
+21,110,Three Ritual Classics,三禮,2,文本,Texts,22
+22,111,Record of Rites,《禮記》,2,文本,Texts,23
+23,112,Greater Dai Record of Rites,《大戴禮記》,2,文本,Texts,24
+24,113,Ceremonies and Rites,《儀禮》,2,文本,Texts,25
+25,114,Rites of Zhou,《周禮》,2,文本,Texts,26
+26,115,Book of Change,《易經》,2,文本,Texts,27
+27,116,Spring and Autumn Annals,《春秋》,2,文本,Texts,28
+28,117,Three Commentaries on the Spring and Autumn Annals,春秋三傳,2,文本,Texts,29
+29,118,Spring and Autumn Annals: Gongyang Commentary,春秋公羊傳,2,文本,Texts,30
+30,119,Spring and Autumn Annals: Guliang Commentary,春秋穀梁傳,2,文本,Texts,31
+31,120,Spring and Autumn Annals: Zuo Commentary,春秋左氏傳,2,文本,Texts,32

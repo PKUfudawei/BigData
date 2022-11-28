@@ -1,0 +1,120 @@
+index,c_text_type_code,c_text_type_desc,c_text_type_desc_chn,c_text_type_parent_id,c_text_type_level,c_text_type_sortorder
+0,01,Primary Texts,古書原文,0,0,1
+1,0101,Classics Branch,經部,01,1,2
+2,010101,Book of Change and associated works,易類,0101,2,3
+3,010102,Book of Documents and associated works,尚書類,0101,2,4
+4,010103,Book of Odes and associated works,詩經類,0101,2,5
+5,010104,Ritual Classics and associated works,禮類,0101,2,6
+6,01010401,Rites of Zhou,禮類：周禮類,010104,3,7
+7,01010402,Ceremonial Rites,禮類：儀禮類,010104,3,8
+8,01010403,Record of Rites,禮類：禮記類,010104,3,9
+9,01010404,Greater Dai Record of Rites,禮類：大戴禮記類,010104,3,10
+10,01010405,General Interpretation of Ritual Classics,禮類：三禮總義類,010104,3,11
+11,010105,Music,樂類,0101,2,12
+12,010106,Spring and autumn annals and associated works,春秋類,0101,2,13
+13,01010601,Spring and autumn annals: Zuo Commentary,春秋左傳類,010106,3,14
+14,01010602,Spring and autumn annals: Gongyang Commentary,春秋公羊傳類,010106,3,15
+15,01010603,Spring and autumn annals: Guliang Commentary,春秋穀梁傳類,010106,3,16
+16,01010604,General Interpretation of Spring and autumn annals,春秋總義類,010106,3,17
+17,010107,Four Books and associated works,四書類,0101,2,18
+18,01010701,Great Learning,大學之屬,010107,3,19
+19,01010702,Doctrine of the Mean,中庸之屬,010107,3,20
+20,01010703,analects,論語之屬,010107,3,21
+21,01010704,Mencius,孟子之屬,010107,3,22
+22,01010705,General Interpretation of Four Books,合刻總義之屬,010107,3,23
+23,010108,Classics of Filial Piety,孝經類,0101,2,24
+24,010109,Er Ya,爾雅類,0101,2,25
+25,010110,General Interpretation of Classics,羣經總義類,0101,2,26
+26,010111,Philology,小學類,0101,2,27
+27,01011101,Shuowen and associated works,說文之屬,010111,3,28
+28,01011102,Study of Chinese scripts? Palaeography and etymology?,字書之屬,010111,3,29
+29,01011103,Phonology,音韻之屬,010111,3,30
+30,01011104,Semantics,訓詁之屬,010111,3,31
+31,010112,apocrypha,讖緯類,0101,2,32
+32,0102,History Branch,史部,01,1,33
+33,010201,Official Histories,正史類,0102,2,34
+34,010202,Unofficial Histories,别史類,0102,2,35
+35,010203,Chronicles,編年類（含實錄）,0102,2,36
+36,010204,Chronologies of Events,紀事本末類,0102,2,37
+37,010205,Historical Miscellanies,雜史類,0102,2,38
+38,010206,History of Local Regimes,載記類,0102,2,39
+39,010207,Historical Tables,史表類,0102,2,40
+40,010208,Selections from Histories,史鈔類,0102,2,41
+41,010209,Criticism of History,史評類,0102,2,42
+42,010210,Biographies,傳記類,0102,2,43
+43,01021001,Specialized biography and  the combined biography,專傳合傳之屬,010210,3,44
+44,01021002,Genealogies,譜牒之屬,010210,3,45
+45,01021003,Chronological Biographies,年譜之屬,010210,3,46
+46,01021004,Diaries,日記之屬,010210,3,47
+47,01021005,Biographical dictionaries,人名辭典之屬,010210,3,48
+48,010211,State Documents,政書類,0102,2,49
+49,01021101,General Records of State Documents,通制之屬,010211,3,50
+50,01021102,Ceremonial Specifications,儀制之屬,010211,3,51
+51,01021103,Offices,職官之屬,010211,3,52
+52,01021104,Government Policies,邦計之屬,010211,3,53
+53,01021105,Diplomacy,邦交之屬,010211,3,54
+54,01021106,Military and Border Security,軍政之屬,010211,3,55
+55,01021107,Law and Punishments,刑法之屬,010211,3,56
+56,01021108,"architecture, Industry and Transportation",考工之屬,010211,3,57
+57,01021109,Edicts,詔令之屬,010211,3,58
+58,01021110,Memorials,奏議之屬,010211,3,59
+59,01021111,Offical Documents,公牘之屬,010211,3,60
+60,010212,Seasonal regulations,時令類,0102,2,61
+61,010213,Geographies,地理類,0102,2,62
+62,01021301,National Geographies,總志之屬,010213,3,63
+63,01021302,Local Histories,方志之屬,010213,3,64
+64,01021303,Local History Miscellanies,雜志之屬,010213,3,65
+65,01021304,Local History Topics,專志之屬,010213,3,66
+66,01021305,Mountains and Rivers,山水之屬,010213,3,67
+67,01021306,Travel Diaries,遊記之屬,010213,3,68
+68,010214,Catalogues,目錄類,0102,2,69
+69,010215,Stele Inscriptions,金石類,0102,2,70
+70,01021501,General records of Stele Inscriptions,總志之屬,010215,3,71
+71,01021502,Metals,金之屬,010215,3,72
+72,01021503,Currency,錢幣之屬,010215,3,73
+73,01021504,Seals,璽印之屬,010215,3,74
+74,01021505,Lithoglyphs,石之屬,010215,3,75
+75,01021506,Jades,玉之屬,010215,3,76
+76,01021507,Oracles,甲骨之屬,010215,3,77
+77,01021508,Potteries,匋之屬,010215,3,78
+78,01021509,Bamboo and Wood Slips ,竹木之屬,010215,3,79
+79,01021510,Regional Stele Inscriptions,郡邑之屬,010215,3,80
+80,0103,Masters Branch,子部,01,1,81
+81,010301,Masters in Zhou and Qin Dynasties,周秦諸子類,0103,2,82
+82,01030101,General Discussions on Masters in Zhou and Qin Dynasties,總論之屬,010301,3,83
+83,01030102,Confucians,儒家之屬,010301,3,84
+84,01030103,Daoists,道家之屬,010301,3,85
+85,01030104,Legalists,法家之屬,010301,3,86
+86,01030105,School of Names,名家之屬,010301,3,87
+87,01030106,Moists,墨家之屬,010301,3,88
+88,01030107,Rhetoricians,縱橫家之屬,010301,3,89
+89,01030108,Eclectics,雜家之屬,010301,3,90
+90,01030109,agriculturalists,農家之屬,010301,3,91
+91,01030110,Masters of Minor Talks,小說家之屬,010301,3,92
+92,010302,Confucianism,儒學類,0103,2,93
+93,01030201,Statecraft,經濟之屬,010302,3,94
+94,01030202,Nature and Principle,性理之屬,010302,3,95
+95,01030203,Rituals and Instructions,禮教之屬,010302,3,96
+96,010303,Military Books,兵書類,0103,2,97
+97,010304,Agricultural Books,農家類,0103,2,98
+98,010305,Craftsmanship,工藝類,0103,2,99
+99,010306,Medicine,醫家類,0103,2,100
+100,010307,Calendrical Calculations,曆算類,0103,2,101
+101,01030701,Astronomy and calendrical calculations,天文曆法之屬,010307,3,102
+102,01030702,Mathematics,算書之屬,010307,3,103
+103,010308,Arts of Divination,術數類,0103,2,104
+104,010309,Arts,藝術類,0103,2,105
+105,010310,Catalogs of miscellaneous things,譜錄類,0103,2,106
+106,010311,Miscellaneous Treatises,雜學類,0103,2,107
+107,010312,Precedents (Encyclopediae included),類書類,0103,2,108
+108,010313,Anecdotes,小說類,0103,2,109
+109,010314,Daoists,道教類,0103,2,110
+110,010315,Buddhists,佛教類,0103,2,111
+111,010316,Other Religions,其他宗教類,0103,2,112
+112,0104,Collections Branch,集部,01,1,113
+113,010401,Chu Ci,楚辭類,0104,2,114
+114,010402,Individual Literary Collections,别集類,0104,2,115
+115,010403,Literary anthologies,總集類,0104,2,116
+116,010404,Literary History and Criticisms,詩文評類,0104,2,117
+117,010405,Lyrics and Operas,詞曲類,0104,2,118
+118,0105,Collectanea,叢書,01,1,119

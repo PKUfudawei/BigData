@@ -1,0 +1,13 @@
+index,c_role_id,c_role_desc,c_role_desc_chn
+0,0,unknown,未詳
+1,1,author,撰著者
+2,2,editor,編輯者
+3,3,compiler,編纂者
+4,4,publisher,出版者
+5,5,donor,捐助者
+6,7,translator,翻譯者
+7,8,annotator,註疏者
+8,9,commentator,註釋者(含評點者)
+9,10,proofreader,校對者
+10,11,work included in,收入Y集
+11,12,Editorial Associate,編輯助理

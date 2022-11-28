@@ -1,0 +1,2520 @@
+index,c_inst_name_code,c_inst_name_hz,c_inst_name_py
+0,0,[未詳],[Unknown]
+1,1,安定書院,Anding shuyuan
+2,2,安定寺,Andingsi
+3,3,安國禪寺,Anguochansi
+4,4,安湖書院,Anhu shuyuan
+5,5,安靈寺,Anlingsi
+6,6,鰲川書院,Aochuan shuyuan
+7,7,鰲峰書院,Aofeng shuyuan
+8,8,鰲溪書院,Aoxi shuyuan
+9,9,鼇溪書院,Aoxi shuyuan
+10,10,白鷲洲書院,Baijiuzhou shuyuan
+11,11,白蓮寺,Bailiansi
+12,12,白鹿書院,Bailu shuyuan
+13,13,白鹿洞書院,Bailudong shuyuan
+14,14,白鷺洲]書院,Bailuzhou shuyuan
+15,15,白沙書院,Baisha shuyuan
+16,16,白社書院,Baishe shuyuan
+17,17,白石書院,Baishi shuyuan
+18,18,百丈溪書院,Baizhangxi shuyuan
+19,19,般若寺,Boresi
+20,20,報恩光孝禪寺,Baoenguangxiaochansi
+21,21,報恩寺,Baoensi
+22,22,報國寺,Baoguosi
+23,23,寳華禪寺,Baohuachansi
+24,24,寳集寺,Baojisi
+25,25,寳林禪寺,Baolinchansi
+26,26,寶林寺,Baolinsi
+27,27,保寧寺,Baoningsi
+28,28,寶寧寺,Baoningsi
+29,29,包山書院,Baoshan shuyuan
+30,30,寳雲,Baoyun
+31,31,褒忠衍福寺,Baozhongyanfusi
+32,32,北禪寺,Beichansi
+33,33,北山書院,Beishan shuyuan
+34,34,璧里書院,Bili shuyuan
+35,35,屏山書院,Bingshan shuyuan
+36,36,采石書院,Caishi shuyuan
+37,37,蒼山寺,Cangshansi
+38,38,草廬書院,Caolu shuyuan
+39,39,草堂書院,Caotang shuyuan
+40,40,長庚書院,Changgeng shuyuan
+41,41,長慶寺,Changqingsi
+42,42,長薌書院,Changxiang shuyuan
+43,43,朝元宮,Chaoyuangong
+44,44,澄江書院,Chengjiang shuyuan
+45,45,城南書院,Chengnan shuyuan
+46,46,承天寺,Chengtiansi
+47,47,崇恩寺,Chongensi
+48,48,崇恩演福教寺,Chongenyanfujiaosi
+49,49,崇福寺,Chongfusi
+50,50,崇福永樂寺,Chongfuyonglesi
+51,51,崇囯寺,Chongguosi
+52,52,崇寧萬壽寺,Chongningwanshousi
+53,53,崇聖書院,Chongsheng shuyuan
+54,54,崇義書院,Chongyi shuyuan
+55,55,初庵書院,Chuan shuyuan
+56,56,傳貽書院,Chuanyi shuyuan
+57,57,垂雲書院,Chuiyun shuyuan
+58,58,慈湖書院,Cihu shuyuan
+59,59,慈修護聖禪院,Cixiuhushengchanyuan
+60,60,慈雲寺,Ciyunsi
+61,61,大德寺,Dadesi
+62,62,大弘教寺,Dahongjiaosi
+63,63,大洪濟寺,Dahongjisi
+64,64,大護國仁王寺,Dahuguorenwangsi
+65,65,岱山書院,Daishan shuyuan
+66,66,大開元寺,Dakaiyuansi
+67,67,大龍翔集慶寺,Dalongxiangjiqingsi
+68,68,大梅寺,Dameisi
+69,69,大明禪院,Damingchanyuan
+70,70,丹山書院,Danshan shuyuan
+71,71,丹陽書院,Danyang shuyuan
+72,72,道一書院,Daoyi shuyuan
+73,73,道源書院,Daoyuan shuyuan
+74,74,大慶壽寺,Daqingshousi
+75,75,大天界寺,Datianjiesi
+76,76,大同書院,Datong shuyuan
+77,77,大瀛海道院,Dayinghai daoyuan
+78,78,大雲寺,Dayunsi
+79,79,德藏寺,Decangsi
+80,80,登贏書院,Dengying shuyuan
+81,81,澱山寺,Dianshansi
+82,82,釣臺書院,Diaotai shuyuan
+83,83,疊山書院,Dieshan shuyuan
+84,84,定慧禪寺,Dinghuichansi
+85,85,定惠寺,Dinghuisi
+86,86,定水院,Dingshuiyuan
+87,87,東庵書院,Dong'An shuyuan
+88,88,東川書院,Dongchuan shuyuan
+89,89,東岡書院,Dong'Gang shuyuan
+90,90,東湖書院,Donghu shuyuan
+91,91,東坡書院,Dongpo shuyuan
+92,92,東波書院,Dongpo shuyuan
+93,93,董澤書院,Dongze shuyuan
+94,94,斗山書院,Doushan shuyuan
+95,95,端明書院,Duanming shuyuan
+96,96,獨峯書院,Dufeng shuyuan
+97,97,杜洲書院,Duzhou shuyuan
+98,98,二戴書院,Erdai shuyuan
+99,99,法輪院,Falunyuan
+100,100,番江書院,Fanjiang shuyuan
+101,101,法喜寺,Faxisi
+102,102,封崇寺,Fengchongsi
+103,103,奉恩寺,Fengensi
+104,104,封龍山書院,Fenglongshan shuyuan
+105,105,鳳山書院,Fengshan shuyuan
+106,106,佛嚴寺,Foyansi
+107,107,佛巖寺,Foyansi
+108,108,甫里書院,Fuli shuyuan
+109,109,福林院,Fulinyuan
+110,110,福勝院,Fushengyuan
+111,111,福嚴精舍,Fuyanjingshe
+112,112,福嚴寺,Fuyansi
+113,113,福源寺,Fuyuansi
+114,114,甘州山寺,Ganzhoushansi
+115,115,高峯書院,Gaofeng shuyuan
+116,116,高峰書院,Gaofeng shuyuan
+117,117,高節書院,Gaojie shuyuan
+118,118,高麗寺,Gaolisi
+119,119,共山書院,Gongshan shuyuan
+120,120,緱山書院,Goushan shuyuan
+121,121,廣愛寺,Guangaisi
+122,122,廣寒院,Guanghanyuan
+123,123,廣化寺,Guanghuasi
+124,124,廣利禪寺,Guanglichansi
+125,125,廣平書院,Guangping shuyuan
+126,126,廣信書院,Guangxin shuyuan
+127,127,龜山書院,Guishan shuyuan
+128,128,古靈書院,Guling shuyuan
+129,129,海門寺,Haimensi
+130,130,海雲精舍,Haiyunjingshe
+131,131,涵江書院,Hanjiang shuyuan
+132,132,韓山書院,Hanshan shuyuan
+133,133,和靖書院,Hejing shuyuan
+134,134,鶴林寺,Helinsi
+135,135,河南書院,Henan shuyuan
+136,136,鶴山書院,Heshan shuyuan
+137,137,何山禪寺,Heshanchansi
+138,138,洪福寺,Hongfusi
+139,139,鴻福寺,Hongfusi
+140,140,懷德書院,Huaide shuyuan
+141,141,淮海書院,Huaihai shuyuan
+142,142,化龍書院,Hualong shuyuan
+143,143,黃崗書院,Huanggang shuyuan
+144,144,皇岡書院,Huang'Gang shuyuan
+145,145,華嚴寺,Huayansi
+146,146,晦菴書院,Huian shuyuan
+147,147,慧日寺,Huirisi
+148,148,惠山寺,Huishansi
+149,149,慧因寺,Huiyinsi
+150,150,建安書院,Jian'An shuyuan
+151,151,薦福寺,Jianfusi
+152,152,江東書院,Jiangdong shuyuan
+153,153,江心寺,Jiangxinsi
+154,154,薦嚴寺,Jianyansi
+155,155,覺照寺,Jiaozhaosi
+156,156,稼軒書院,Jiaxuan shuyuan
+157,157,極樂寺,Jilesi
+158,158,靜安寺,Jingansi
+159,159,淨慈寺,Jingcisi
+160,160,景德禪寺,Jingdechansi
+161,161,旌德教寺,Jingdejiaosi
+162,162,景德寺,Jingdesi
+163,163,景德院,Jingdeyuan
+164,164,景福寺,Jingfusi
+165,165,淨居寺,Jingjusi
+166,166,徑山寺,Jingshansi
+167,167,淨土禪寺,Jingtuchansi
+168,168,淨土寺,Jingtusi
+169,169,景賢書院,Jingxian shuyuan
+170,170,景星書院,Jingxing shuyuan
+171,171,淨性寺,Jingxingsi
+172,172,靜修書院,Jingxiu shuyuan
+173,173,靖忠書院,Jingzhong shuyuan
+174,174,金華書院,Jinhua shuyuan
+175,175,金仙寺,Jinxiansi
+176,176,錦沿書院,Jinyan shuyuan
+177,177,集慶寺,Jiqingsi
+178,178,稽山書院,Jishan shuyuan
+179,179,九功寺,Jiugongsi
+180,180,寂照院,Jizhaoyuan
+181,181,吉州書院,Jizhou shuyuan
+182,182,開元寺,Kaiyuansi
+183,183,考亭書院,Kaoting shuyuan
+184,184,柯山書院,Keshan shuyuan
+185,185,藍山書院,Lanshan shuyuan
+186,186,蘭亭書院,Lanting shuyuan
+187,187,蘭玉書院,Lanyu shuyuan
+188,188,老泉書院,Laochuan shuyuan
+189,189,楞伽寺,Lenggasi
+190,190,廉溪書院,Lianxi shuyuan
+191,191,濂溪書院,Lianxi shuyuan
+192,192,靈谷書院,Linggu shuyuan
+193,193,靈巖禪寺,Lingyanchansi
+194,194,靈巖寺,Lingyansi
+195,195,靈隱寺,Lingyinsi
+196,196,靈雲寺,Lingyunsi
+197,197,臨汝書院,Linru shuyuan
+198,198,臨汀書院,Linting shuyuan
+199,199,歷山書院,Lishan shuyuan
+200,200,李氏山房書院,Lishishanfang shuyuan
+201,201,柳塘書院,Liutang shuyuan
+202,202,麗澤書院,Lize shuyuan
+203,203,龍池寺,Longchisi
+204,204,龍川書院,Longchuan shuyuan
+205,205,隆恩寺,Longensi
+206,206,龍崗書院,Long'Gang shuyuan
+207,207,龍華寺,Longhuasi
+208,208,龍江書院,Longjiang shuyuan
+209,209,龍眠書院,Longmian shuyuan
+210,210,龍泉寺,Longquansi
+211,211,隆壽教寺,Longshoujiaosi
+212,212,龍溪書院,Longxi shuyuan
+213,213,龍翔寺,Longxiangsi
+214,214,龍興寺,Longxingsi
+215,215,龍澤書院,Longze shuyuan
+216,216,落西書院,Luoxi shuyuan
+217,217,陸宣公書院,Luxuangong shuyuan
+218,218,魯齋書院,Luzhai shuyuan
+219,219,瑪瑙寺,Manaosi
+220,220,茅山書院,Maoshan shuyuan
+221,221,鄮山書院,Maoshan shuyuan
+222,222,馬洲書院,Mazhou shuyuan
+223,223,美化書院,Meihua shuyuan
+224,224,梅江書院,Meijiang shuyuan
+225,225,蒙山書院,Mengshan shuyuan
+226,226,蒙齋書院,Mengzhai shuyuan
+227,227,勉齋書院,Mianzhai shuyuan
+228,228,妙果寺,Miaoguosi
+229,229,妙善寺,Miaoshansi
+230,230,明道書院,Mingdao shuyuan
+231,231,明經書院,Mingjing shuyuan
+232,232,明善書院,Mingshan shuyuan
+233,233,明正書院,Mingzheng shuyuan
+234,234,明真寺,Mingzhensi
+235,235,南禪寺,Nanchansi
+236,236,南豐書院,Nanfeng shuyuan
+237,237,南湖書院,Nanhu shuyuan
+238,238,南溪書院,Nanxi shuyuan
+239,239,南軒書院,Nanxuan shuyuan
+240,240,南陽書院,Nanyang shuyuan
+241,241,南嶽書院,Nanyue shuyuan
+242,242,能仁寺,Nengrensi
+243,243,尼山書院,Nishan shuyuan
+244,244,藕澤書院,Ouze shuyuan
+245,245,盤阿書院,Pana shuyuan
+246,246,盤龍寺,Panlongsi
+247,247,平湖書院,Pinghu shuyuan
+248,248,平江書院,Pingjiang shuyuan
+249,249,鄱江書院,Pojiang shuyuan
+250,250,鄱陽書院,Poyang shuyuan
+251,251,普安寺,Puansi
+252,252,普濟寺,Pujisi
+253,253,普明寺,Pumingsi
+254,254,普寧寺,Puningsi
+255,255,普慶寺,Puqingsi
+256,256,朴山書院,Pushan shuyuan
+257,257,普向院,Puxiangyuan
+258,258,普照寺,Puzhaosi
+259,259,喬江書院,Qiaojiang shuyuan
+260,260,巧江書院,Qiaojiang shuyuan
+261,261,樵溪書院,Qiaoxi shuyuan
+262,262,琴道書院,Qindao shuyuan
+263,263,情節書院,Qingjie shuyuan
+264,264,清涼寺,Qingliangsi
+265,265,慶壽寺,Qingshousi
+266,266,青田書院,Qingtian shuyuan
+267,267,青溪書院,Qingxi shuyuan
+268,268,清獻書院,Qingxian shuyuan
+269,269,清湘書院,Qingxiang shuyuan
+270,270,清忠書院,Qingzhong shuyuan
+271,271,慶洲書院,Qingzhou shuyuan
+272,272,齊山書院,Qishan shuyuan
+273,273,磧沙寺,Qishasi
+274,274,棲隱寺,Qiyinsi
+275,275,棲真教寺,Qizhenjiaosi
+276,276,泉山書院,Quanshan shuyuan
+277,277,柔川書院,Rouchuan shuyuan
+278,278,瑞光寺,Ruiguangsi
+279,279,三茅書院,Sanmao shuyuan
+280,280,三山書院,Sanshan shuyuan
+281,281,三聖院,Sanshengyuan
+282,282,三塔景德寺,Santajingdesi
+283,283,上蔡書院,Shangcai shuyuan
+284,284,上天竺寺,Shangtianzhusi
+285,285,上雲峯寺,Shangyunfengsi
+286,286,善眾寺,Shanzhongsi
+287,287,邵庵書院,Shao'An shuyuan
+288,288,聖安寺,Shengansi
+289,289,聖果寺,Shengguosi
+290,290,聖壽寺,Shengshousi
+291,291,石洞書院,Shidong shuyuan
+292,292,石佛寺,Shifosi
+293,293,石鼓書院,Shigu shuyuan
+294,294,石林書院,Shilin shuyuan
+295,295,石鹿書院,Shilu shuyuan
+296,296,石門書院,Shimen shuyuan
+297,297,石門洞書院,Shimendong shuyuan
+298,298,石丘書院,Shiqiu shuyuan
+299,299,師山書院,Shishan shuyuan
+300,300,石室書院,Shishi shuyuan
+301,301,石峽書院,Shixia shuyuan
+302,302,獅子院,Shiziyuan
+303,303,壽光寺,Shouguangsi
+304,304,壽聖寺,Shoushengsi
+305,305,首陽書院,Shouyang shuyuan
+306,306,雙峰書院,Shuangfeng shuyuan
+307,307,雙塔寺,Shuangtasi
+308,308,雙溪書院,Shuangxi shuyuan
+309,309,雙谿書院,Shuangxi shuyuan
+310,310,水西寺,Shuixisi
+311,311,殊勝寺,Shushengsi
+312,312,嵩高書院,Songgao shuyuan
+313,313,太極書院,Taiji shuyuan
+314,314,太平興國寺,Taipingxingguosi
+315,315,太行書院,Taixing shuyuan
+316,316,潭州喬江,Tanzhouqiaojiang shuyuan
+317,317,陶山修竹書院,Taoshanxiuzhu shuyuan
+318,318,桃源書院,Taoyuan shuyuan
+319,319,天寶宮,Tianbaogong
+320,320,天長書院,Tianchang shuyuan
+321,321,天華寺,Tianhuasi
+322,322,天界寺,Tianjiesi
+323,323,天曆永祚寺,Tianliyongzuosi
+324,324,天門書院,Tianmen shuyuan
+325,325,天寧禪寺,Tianningchansi
+326,326,天寧寺,Tianningsi
+327,327,天慶寺,Tianqingsi
+328,328,天童寺,Tiantongsi
+329,329,天章寺,Tianzhangsi
+330,330,桐江書院,Tongjiang shuyuan
+331,331,萬安禪院,Wananchanyuan
+332,332,万壽寺,Wanshousi
+333,333,萬壽寺,Wanshousi
+334,334,峗山書院,Weishan shuyuan
+335,335,文定書院,Wending shuyuan
+336,336,文公/龍津書院,Wengong shuyuan
+337,337,翁洲書院,Wengzhou shuyuan
+338,338,文靖書院,Wenjing shuyuan
+339,339,文殊寺,Wenshusi
+340,340,文學書院,Wenxue shuyuan
+341,341,文正書院,Wenzheng shuyuan
+342,342,武城書院,Wucheng shuyuan
+343,343,烏囘寺,Wuhuisi
+344,344,浯溪書院,Wuxi shuyuan
+345,345,武夷書院,Wuyi shuyuan
+346,346,顯慈集慶教寺,Xiancijiqingjiaosi
+347,347,顯道書院,Xiandao shuyuan
+348,348,祥符寺,Xiangfusi
+349,349,象山書院,Xiangshan shuyuan
+350,350,仙林寺,Xianlinsi
+351,351,先賢書院,Xianxian shuyuan
+352,352,顯嚴教寺,Xianyanjiaosi
+353,353,孝思禪院,Xiaosichanyuan
+354,354,西禪寺,Xichansi
+355,355,西湖書院,Xihu shuyuan
+356,356,西澗書院,Xijian shuyuan
+357,357,興福寺,Xingfusi
+358,358,興教禪寺,Xingjiaochansi
+359,359,興龍禪寺,Xinglongchansi
+360,360,西山書院,Xishan shuyuan
+361,361,修禪寺,Xiuchansi
+362,362,西巖書院,Xiyan shuyuan
+363,363,西隱寺,Xiyinsi
+364,364,宣成書院,Xuancheng shuyuan
+365,365,宣公書院,Xuangong shuyuan
+366,366,玄元道院,Xuanyuan daoyuan
+367,367,學道書院,Xuedao shuyuan
+368,368,雪竇寺,Xuedousi
+369,369,學古書院,Xuegu shuyuan
+370,370,雪江書院,Xuejiang shuyuan
+371,371,雪齋書院,Xuezhai shuyuan
+372,372,旴江書院,Xujiang shuyuan
+373,373,延昌寺,Yanchangsi
+374,374,陽豐書院,Yangfeng shuyuan
+375,375,延慶寺,Yanqingsi
+376,376,延壽寺,Yanshousi
+377,377,耶律文正書院,Yeluwenzheng shuyuan
+378,378,伊川書院,Yichuan shuyuan
+379,379,穎昌書院,Yingchang shuyuan
+380,380,鄞江書院,Yinjiang shuyuan
+381,381,倚山書院,Yishan shuyuan
+382,382,義善寺,Yishansi
+383,383,甬東書院,Yongdong shuyuan
+384,384,永懷報德寺,Yonghuaibaodesi
+385,385,永嘉書院,Yongjia shuyuan
+386,386,永明尼寺,Yongmingnisi
+387,387,湧泉寺,Yongquansi
+388,388,永祚寺,Yongzuosi
+389,389,祐國寺,Youguosi
+390,390,源池書院,Yuanchi shuyuan
+391,391,圓覺寺,Yuanjiaosi
+392,392,玉案山寺,Yuanshansi
+393,393,圓通寺,Yuantongsi
+394,394,沅陽書院,Yuanyang shuyuan
+395,395,岳林寺,Yuelinsi
+396,396,嶽麓書院,Yuelu shuyuan
+397,397,月泉書院,Yuequan shuyuan
+398,398,雲峯寺,Yunfengsi
+399,399,雲居庵,Yunjuan
+400,400,雲巖書院,Yunyan shuyuan
+401,401,雲莊書院,Yunzhuang shuyuan
+402,402,玉泉山寺,Yuquanshansi
+403,403,育王廣利禪寺,Yuwangguanglichansi
+404,404,澤山書院,Zeshan shuyuan
+405,405,章教寺,Zhangjiaosi
+406,406,張岩書院,Zhangyan shuyuan
+407,407,樟隱書院,Zhangyin shuyuan
+408,408,湛廬書院,Zhanlu shuyuan
+409,409,昭慶寺,Zhaoqingsi
+410,410,正德書院,Zhengde shuyuan
+411,411,鄭山書院,Zhengshan shuyuan
+412,412,真如寺,Zhenrusi
+413,413,貞文書院,Zhenwen shuyuan
+414,414,柘澤寺,Zhezesi
+415,415,智門寺,Zhimensi
+416,416,治平寺,Zhipingsi
+417,417,至元寺,Zhiyuansi
+418,418,智者禪寺,Zhizhechansi
+419,419,智者寺,Zhizhesi
+420,420,中和書院,Zhonghe shuyuan
+421,421,中山書院,Zhongshan shuyuan
+422,422,主一書院,Zhuyi shuyuan
+423,423,資福寺,Zifusi
+424,424,資聖寺,Zishengsi
+425,425,資壽寺,Zishousi
+426,426,紫薇書院,Ziwei shuyuan
+427,427,紫巖書院,Ziyan shuyuan
+428,428,紫陽書院,Ziyang shuyuan
+429,429,紫雲寺,Ziyunsi
+430,430,宗晦書院,Zonghui shuyuan
+431,431,宗濂書院,Zonglian shuyuan
+432,432,宗文書院,Zongwen shuyuan
+433,433,凌雲寺,Lingyun Si
+434,434,凝壽寺,Ningshou Si
+435,435,列峰寺,Liefeng Si
+436,436,功德寺,Gongde Si
+437,437,包山寺,Baoshan Si
+438,438,化城寺,Huacheng Si
+439,439,化度寺,Huadu Si
+440,440,化樂寺,Huale Si
+441,441,北台寺,Beitai Si
+442,442,北塔寺,Beita Si
+443,443,北山寺,Beishan Si
+444,444,北岩寺,Beiyan Si
+445,445,北景德寺,Beijingde Si
+446,446,北泉寺,Beiquan Si
+447,447,北蘭寺,Beilan Si
+448,448,匡教寺,Kuanjiao Si
+449,449,匯宗寺,Huizong Si
+450,450,千佛寺,Qianfo Si
+451,451,千峰寺,Qianfeng Si
+452,452,千相寺,Qianxiang Si
+453,453,千福寺,Qianfu Si
+454,454,半山寺,Banshan Si
+455,455,南塔院,Nanta Yuan
+456,456,南壽寺,Nanshou Si
+457,457,南山寺,Nanshan Si
+458,458,南峰寺,Nanfeng Si
+459,459,南明寺,Nanming Si
+460,460,南汰寺,Nantai Si
+461,461,南泉寺,Nanquan Si
+462,462,南湖寺,Nanhu Si
+463,463,南源寺,Nanyuan Si
+464,464,南禪顯聖寺,Nanchanxiansheng Si
+465,465,南竺壽寺,Nanzhushou Si
+466,466,南華寺,Nanhua Si
+467,467,博山寺,Boshan Si
+468,468,博石庵,Boshi Si
+469,469,即心庵,Jixin An
+470,470,厚田寺,Houtian Si
+471,471,可野寺,Keye Si
+472,472,台頭寺,Taitou Si
+473,473,台鹿寺,Tailu Si
+474,474,合符寺,Hefu Si
+475,475,吉祥寺,Jixiang Si
+476,476,吉祥庵,Jixiang An
+477,477,吉祥院,Jixiang Yuan
+478,478,同天寺,Tongtian Si
+479,479,同慶寺,Tongqing Si
+480,480,同泰寺,Tongtai Si
+481,481,后黃寺,Houhuang Si
+482,482,君山寺,Junshan Si
+483,483,含雲寺,Hanyun Si
+484,484,听松庵,Tingsong An
+485,485,吳封寺,Wufeng Si
+486,486,吳山寺,Wushan Si
+487,487,咸平寺,Xianping Si
+488,488,唐寧寺,Tangning Si
+489,489,唐德寺,Tangde Si
+490,490,唐興寺,Tangxing Si
+491,491,喀木諸廟,Kamuzhumiao
+492,492,善化寺,Shanhua Si
+493,493,善卷寺,Shanjuan Si
+494,494,善因寺,Shanyin si
+495,495,善惠寺,Shanhui Si
+496,496,善業寺,Shanye Si
+497,497,善法寺,Shanfa Si
+498,498,善現寺,Shanxian Si
+499,499,善罪寺,Shanzui Si
+500,500,善覺寺,Shanjue Si
+501,501,善護寺,Shanhu Si
+502,502,嘉祐寺,Jiayou Si
+503,503,嘉祐禪寺,Jiayou Chansi
+504,504,嘉福寺,Jiafu Si
+505,505,嘛哈噶廟,Mahaga Miao
+506,506,噶爾丹廟,Ge'erdan Miao
+507,507,四祖寺,Sizu Si
+508,508,回瀾寺,Huilan Si
+509,509,回鑾寺,Huiluan Si
+510,510,回龍寺,Huilong Si
+511,511,國清寺,Guoqing Si
+512,512,圓教寺,Yuanjia Si
+513,513,圓明寺,Yuanming Si
+514,514,圓果寺,Gangguo Si
+515,515,圓照寺,Yuanzhao Si
+516,516,圖銘寺,Tuming Si
+517,517,圭山寺,Guishan Si
+518,518,地藏寺,Dizang Si
+519,519,均慶寺,Junqing Si
+520,520,城山寺,Chengshan Si
+521,521,堤城寺,Dicheng Si
+522,522,堯蜂寺,Raofen Si
+523,523,報本寺,Baoben Si
+524,524,塔山寺,Tashan Si
+525,525,塔河院,Tahe Yuan
+526,526,增壽寺,Zengshou Si
+527,527,壽佛寺,Shoufo Si
+528,528,壽安寺,Shou'an Si
+529,529,壽寧寺,Shouning Si
+530,530,壽峰寺,Shoufeng Si
+531,531,壽昌寺,Shouchang Si
+532,532,壽星院,Shouxing Yuan
+533,533,壽福寺,Shoufu Si
+534,534,壽聖廣福寺,Shoushengguangfu Si
+535,535,壽量寺,Shouliang Si
+536,536,壽隆寺,Shoulong Si
+537,537,壽龍寺,Shoulong Si
+538,538,复覽寺,Fulan Si
+539,539,多吉寺,Duoji Si
+540,540,多寶寺,Duobao Si
+541,541,多慶寺,Duoqing Si
+542,542,多福寺,Duofu Si
+543,543,大中祥符寺,Dazhongxiangfu Si
+544,544,大中禹跡寺,Dazhongyuji Si
+545,545,大丰寺,Dafeng Si
+546,546,大乘寺,Dacheng Si
+547,547,大乙寺,Dayi Si
+548,548,大佛寺,Dafo Si
+549,549,大像寺,Daxiang Si
+550,550,大光明殿,Daguangming Dian
+551,551,大力寺,Dali Si
+552,552,大十方院,Dashifang Yuan
+553,553,大吉寺,Daji Si
+554,554,大同寺,Datong Si
+555,555,大善寺,Dashan Si
+556,556,大嚴寺,Dayan Si
+557,557,大報思延壽寺,Dabao Si  Yanshou Si
+558,558,大報恩寺,Dabao'en Si
+559,559,大威寺,Dawei Si
+560,560,大安寺,Da'an Si
+561,561,大定寺,Dading Si
+562,562,大寧寺,Daning Si
+563,563,大岳慶福寺,Dayueqingfu Si
+564,564,大平寺,Daping Si
+565,565,大廣濟寺,Daguangji Si
+566,566,大延壽日露寺,Dayanshourilu Si
+567,567,大德護國寺,Dadehuguo Si
+568,568,大忠寺,Dazhong Si
+569,569,大悲寺,Dabei Si
+570,570,大悲閣,Dabeige
+571,571,大慈塔院,Dacitayuan
+572,572,大慈寺,Daci Si
+573,573,大慧寺,Dahui Si
+574,574,大施寺,Dashi Si
+575,575,大明寺,Daming Si
+576,576,大望海寺,Dawanghai Si
+577,577,大果寺,Daguo Si
+578,578,大梵寺,Dafan Si
+579,579,大泉寺,Daquan Si
+580,580,大法寺,Dafa Si
+581,581,大相國寺,Daxiangguo Si
+582,582,大羅寺,Daluo Si
+583,583,大聖寺,Dasheng Si
+584,584,大興國寺,Daxingguo Si
+585,585,大興寺,Daxing Si
+586,586,大興福寺,Daxingfu Si
+587,587,大藏寺,Dazang Si
+588,588,大覺寺,Dajue Si
+589,589,大通寺,Datong Si
+590,590,大金佛寺,Dajinfo Si
+591,591,大鑑寺,Dajian Si
+592,592,大雄寺,Daxiong Si
+593,593,大雄教寺,Daxiongjiao Si
+594,594,大雲禪寺,Dayuncan Si
+595,595,天井寺,Tianjing Si
+596,596,天台寺,Tiantai Si
+597,597,天地寺,Tiandi Si
+598,598,天堂寺,Tiantang Si
+599,599,天壽聖恩寺,Tianshousheng'en Si
+600,600,天宮寺,Tiangong Si
+601,601,天寧光孝寺,Tianningguangxiao Si
+602,602,天寧萬壽寺,Tianningwanshou Si
+603,603,天寶塔,Tianbao Ta
+604,604,天封寺,Tianfeng Si
+605,605,天平寺,Tianping Si
+606,606,天應寺,Tianying Si
+607,607,天成寺,Tiancheng Si
+608,608,天柱寺,Tianzhu Si
+609,609,天樂寺,Tianle Si
+610,610,天王寺,Tianwang Si
+611,611,天王院,Tianwang Yuan
+612,612,天皇寺,Tianhuang Si
+613,613,天竺寺,Tianzhu Si
+614,614,天聖寺,Tiansheng Si
+615,615,天衣寺,Tianyi Si
+616,616,天長淨心寺,Tianchangjingxin Si
+617,617,天門寺,Tianmen Si
+618,618,天龍寺,Tianlong Si
+619,619,太子寺,Taizi Si
+620,620,太平羅漢寺,Taipingluohan Si
+621,621,太平興國院,Taipingxingguo Yuan
+622,622,太華寺,Taihua Si
+623,623,太陽寺,Taiyang Si
+624,624,奉先寺,Fengxian SI
+625,625,奉國寺,Fengguo Si
+626,626,奉思寺,Fengsi Si
+627,627,奉慈寺,Fengci Si
+628,628,奉聖寺,Fengsheng Si
+629,629,如意寺,Ruyi Si
+630,630,妙光寺,Miaoguang Si
+631,631,妙喜寺,Miaoxi Si
+632,632,妙峰寺,Miaofeng Si
+633,633,妙德庵,Miaode An
+634,634,妙應寺,Miaoying Si
+635,635,妙樂寺,Miaole Si
+636,636,妙相寺,Miaoxiang Si
+637,637,妙蓮寺,Miaolian Si
+638,638,妙覺寺,Miaojue Si
+639,639,妙高寺,Miaogao Si
+640,640,姜山寺,Jianshan Si
+641,641,娑婆寺,Suopo Si
+642,642,婆羅寺,Poluo Si
+643,643,孝嚴寺,Xiaoyan Si
+644,644,孝親寺,Xiaoqin Si
+645,645,孟寨寺,Mengzhai Si
+646,646,孤雲寺,Guyun Si
+647,647,安國寺,Anguo Si
+648,648,安禪寺,Anchan Si
+649,649,安隱寺,Anyin Si
+650,650,安靖寺,Anjing Si
+651,651,宏慈寺,Hongci Si
+652,652,宏法寺,Hongfa Si
+653,653,宏聖寺,Hongsheng Si
+654,654,宗善寺,Zongshan Si
+655,655,宗說寺,Zongshuo Si
+656,656,宗鏡大師廟,Zongjing Dashi Miao
+657,657,宗鏡寺,Zongjing Si
+658,658,定光寺,Dingguang Si
+659,659,定國寺,Dingguo Si
+660,660,定惠院,Dinghui Yuan
+661,661,定慧寺,Dinghui Si
+662,662,定林寺,Dinglin Si
+663,663,定洲寺,Dingzhou Si
+664,664,宣妙寺,Xuanmiao Si
+665,665,宴石寺,Yanshi Si
+666,666,寂照寺,Jizhao Si
+667,667,密印寺,Miyin Si
+668,668,寒山寺,Hanshan Si
+669,669,寒岩寺,Hanyan Si
+670,670,寒溪寺,Hanxi Si
+671,671,實相寺,Shixiang Si
+672,672,實胜寺,Shisheng Si
+673,673,實際寺,Shiji Si
+674,674,寧副寺,Ningfu Si
+675,675,寧國寺,Ningguo Si
+676,676,寧境寺,Ningjing Si
+677,677,寧境華嚴寺,Ningjinghuayan Si
+678,678,寶乘寺,Baocheng Si
+679,679,寶光寺,Baoguang Si
+680,680,寶嚴寺,Baoyan Si
+681,681,寶坊寺,Baofang Si
+682,682,寶塔寺,Baota Si
+683,683,寶塔院,Baota Yuan
+684,684,寶山寺,Baoshan Si
+685,685,寶峰寺,Baofeng Si
+686,686,寶慶寺,Baoqing Si
+687,687,寶應寺,Baoying Si
+688,688,寶月寺,Baoyue Si
+689,689,寶泉寺,Baoquan Si
+690,690,寶界寺,Baojie Si
+691,691,寶相寺,Baoxiang Si
+692,692,寶積寺,Baoji Si
+693,693,寶筏寺,Baofa Si
+694,694,寶胜寺,Baosheng Si
+695,695,寶興寺,Baoxing Si
+696,696,寶華寺,Baohua Si
+697,697,寶覺寺,Baojue Si
+698,698,寶諦寺,Baodi Si
+699,699,寶象寺,Baoxiang Si
+700,700,寶輪寺,Baolun Si
+701,701,寶通寺,Baotong Si
+702,702,寶雲寺,Baoyun Si
+703,703,寶頂寺,Baoding Si
+704,704,封禪寺,Fengchan Si
+705,705,將軍寺,Jiangjun Si
+706,706,尊胜寺,Zunsheng Si
+707,707,小溈山寺,Xiaoweishan Si
+708,708,少林寺,Shaolin Si
+709,709,尖化寺,Jianhua Si
+710,710,居德寺,Jude Si
+711,711,山光寺,Shanguang Si
+712,712,山前寺,Shanqian Si
+713,713,山谷寺,Shangu Si
+714,714,岫雲寺,Xiuyun Si
+715,715,岳麓寺,Yuelu Si
+716,716,峭壁寺,Qiaobi Si
+717,717,峴山寺,Xianshan Si
+718,718,峽山寺,Xiashan Si
+719,719,崇信寺,Chongxin Si
+720,720,崇善寺,Chongshan Si
+721,721,崇因寺,Chongyin Si
+722,722,崇國寺,Chongguo Si
+723,723,崇壽寺,Chongshou Si
+724,724,崇安寺,Chong'an Si
+725,725,崇寧寺,Chongning Si
+726,726,崇慶寺,Chongqing Si
+727,727,崇教寺,Chongjiao Si
+728,728,崇明寺,Chongming Si
+729,729,崇果寺,Chongguo Si
+730,730,崇法寺,Chongfa Si
+731,731,崇皇寺,Chonghuang Si
+732,732,崇福瑜珈寺,Chongfuyujia Si
+733,733,崇聖寺,Chongsheng Si
+734,734,崇胜寺,Chongsheng Si
+735,735,崇興寺,Chongxing Si
+736,736,崇隆寺,Chonglong Si
+737,737,崛崛寺,Juejue Si
+738,738,嵩嶽寺,Songyue Si
+739,739,嵩祝寺,Songzhu Si
+740,740,川主寺,Chuanzhu Si
+741,741,川雲寺,Chuanyun Si
+742,742,左龍寺,Zuolong Si
+743,743,巴漢招廟,Bahanzhao Miao
+744,744,布達拉廟,Budala Miao
+745,745,布雷峰廟,Buleifeng Miao
+746,746,常樂寺,Changle Si
+747,747,平南寺,Pingnan Si
+748,748,平西庵,Pingxi Si
+749,749,幽居寺,Youju Si
+750,750,幽犧寺,Youxi Si
+751,751,幽靜寺,Youjing Si
+752,752,庄嚴寺,Zhuangyan Si
+753,753,廣仁寺,Guangren Si
+754,754,廣佑寺,Guangyou Si
+755,755,廣佛寺,Guangfo Si
+756,756,廣固寺,Guanggu Si
+757,757,廣壽寺,Guangshou Si
+758,758,廣安寺,Guang'an Si
+759,759,廣宗寺,Guangzong Si
+760,760,廣德寺,Guangde Si
+761,761,廣恩寺,Guang'en Si
+762,762,廣惠寺,Guanghui Si
+763,763,廣慈寺,Guangci Si
+764,764,廣慶寺,Guangqing Si
+765,765,廣教寺,Guangjiao Si
+766,766,廣法寺,Guangfa Si
+767,767,廣濟寺,Guangji Si
+768,768,廣濟院,Guangji Yuan
+769,769,廣福寺,Guangfu Si
+770,770,廣聖寺,Guangsheng Si
+771,771,廣胜寺,Guangsheng Si
+772,772,廣通寺,Guangtong Si
+773,773,延唐寺,Yantang Si
+774,774,延恩寺,Yan'en Si
+775,775,延祥寺,Yanxiang Si
+776,776,延福寺,Yanfu Si
+777,777,建初寺,Jianchu Si
+778,778,建善寺,Jianshan Si
+779,779,建安寺,Jian'an Si
+780,780,建福寺,Jianfu Si
+781,781,弘仁寺,Hongren Si
+782,782,弘恩寺,Hong'en Si
+783,783,弘法寺,Hongfa Si
+784,784,彌勒寺,Mile Si
+785,785,彌陀寺,Mituo Si
+786,786,御題寺,Yuti Si
+787,787,徵賢寺,Zhengxian Si
+788,788,德壽寺,Deshou Si
+789,789,忠孝寺,Zhongxiao Si
+790,790,思益寺,Siyi Si
+791,791,恩佑寺,Enyou Shi
+792,792,悟法寺,Wufa Si
+793,793,悲庄寺,Beizhuang Si
+794,794,惠因寺,Huiyin Si
+795,795,惠安寺,Hui'an Si
+796,796,惠感寺,Huigan Si
+797,797,惠海寺,Huihai Si
+798,798,惠照寺,Huizhao Si
+799,799,惠雲寺,Huiyun Si
+800,800,愛敬寺,Aijing Si
+801,801,感化寺,Ganhua Si
+802,802,感通寺,Gantong Si
+803,803,慈仁寺,Ciren Si
+804,804,慈修寺,Cixiu Si
+805,805,慈化寺,Cihua Si
+806,806,慈善寺,Cishan Si
+807,807,慈壽寺,Cishou Si
+808,808,慈德寺,Cide Si
+809,809,慈恩寺,Ci'en Si
+810,810,慈慧寺,Cihui Si
+811,811,慈應寺,Ciying Si
+812,812,慈朗寺,Cilang Si
+813,813,慈氏寺,Cishi Si
+814,814,慈濟寺,Ciji Si
+815,815,慈獻寺,Cixian Si
+816,816,慈禪寺,Cichan Si
+817,817,慈聖禪寺,Cisheng Chansi
+818,818,慈育院,Ciyu Yuan
+819,819,慈航寺,Cihang Si
+820,820,慈音寺,Ciyin Si
+821,821,慧力寺,Huili Si
+822,822,慧居寺,Huiju Si
+823,823,慧徹寺,Huiche Si
+824,824,慧明寺,Huiming Si
+825,825,慧炬寺,Huiju Si
+826,826,慧福寺,Huifu Si
+827,827,慧聚寺,Huiju Si
+828,828,慧辨寺,Huibian Si
+829,829,慶善寺,Qingshan Si
+830,830,慶安寺,Qing'an Si
+831,831,慶成寺,Qingcheng Si
+832,832,慶苑寺,Qingyuan Si
+833,833,慶雲寺,Qingyun Si
+834,834,應城寺,Yingcheng Si
+835,835,應天寺,Yingtian Si
+836,836,應天禪寺,Yitian Chansi
+837,837,應聖寺,Yingsheng Si
+838,838,懸空寺,Xuankong Si
+839,839,戒壇寺,Jietan Si
+840,840,戒珠寺,Jiezhu Si
+841,841,承天能仁寺,Chengtiannengren Si
+842,842,承禧寺,Chengxi Si
+843,843,拈花寺,Nianhua Si
+844,844,拉里廟,Laili Miao
+845,845,招德寺,Zhaode Si
+846,846,招提寺,Zhaoti Si
+847,847,招隱寺,Zhaoyin Si
+848,848,指林寺,Zhilin Si
+849,849,摩訶庵,Moke An
+850,850,支提寺,Zhiti Si
+851,851,支硎寺,Zhixing Si
+852,852,放光寺,Fangguang Si
+853,853,敦煌寺,Dunhuang Si
+854,854,文塔寺,Wenta Si
+855,855,文明寺,Wenming Si
+856,856,文珠寺,Wenzhu Si
+857,857,新安寺,Xin'an Si
+858,858,新渡寺,Xindu Si
+859,859,新羅寺,Xinluo Si
+860,860,新開寺,Xinkai Si
+861,861,方廣寺,Fangguang Si
+862,862,旃林寺,Zhanlin Si
+863,863,旃檀寺,Zhantan Si
+864,864,旌善院,Jingshan Yuan
+865,865,旌忠寺,Jingzhong Si
+866,866,昆山塔院,Kunshantayuan
+867,867,昌國寺,Changguo Si
+868,868,明光寺,Mingguang Si
+869,869,明因寺,Mingyin Si
+870,870,明心院,Mingxin Yuan
+871,871,明教寺,Mingjiao Si
+872,872,明教禪院,Mingjiao Chanyuan
+873,873,明水寺,Mingshui Si
+874,874,明蘭寺,Minglan Si
+875,875,明行寺,Mingxing Si
+876,876,明覺寺,Mingjue Si
+877,877,明院寺,Mingyuan Si
+878,878,星龕岩寺,Xingkanyan Si
+879,879,昭仁寺,Zhaoren si
+880,880,昭光寺,Zhaoguang Si
+881,881,昭化寺,Zhaohua Si
+882,882,昭患院,Zhaohuan Yuan
+883,883,昭明寺,Zhaoming Si
+884,884,昭聖寺,Zhaosheng Si
+885,885,昭覺寺,Zhaojue Si
+886,886,普佑寺,Puyou Si
+887,887,普光寺,Puguang Si
+888,888,普勸寺,Puquan Si
+889,889,普化寺,Puhua Si
+890,890,普和寺,Puhe Si
+891,891,普因寺,Puyin Si
+892,892,普恩寺,Puen Si
+893,893,普惠寺,Puhui Si
+894,894,普慈寺,Puci Si
+895,895,普慧寺,Puhui Si
+896,896,普應寺,Puying Si
+897,897,普救寺,Pujiu Si
+898,898,普樂寺,Pule Si
+899,899,普洞寺,Pudong Si
+900,900,普清禪寺,Puqing Chansi
+901,901,普濟庵,Puji An
+902,902,普胜寺,Pusheng Si
+903,903,普覺寺,Pujue Si
+904,904,普觀寺,Puguan Si
+905,905,普賢寺,Puxian Si
+906,906,普門寺,Pumen Si
+907,907,普陀宗乘廟,Putuozongcheng Miao
+908,908,普陀寺,Putuo Si
+909,909,普雲寺,Puyun Si
+910,910,普靜寺,Pujing Si
+911,911,景佑寺,Jingyou Si
+912,912,景慧寺,Jinghui Si
+913,913,景星寺,Jingxing Si
+914,914,景淨寺,Jingjing Si
+915,915,智慶寺,Zhiqiang Si
+916,916,智林寺,Zhilin Si
+917,917,智果寺,Zhiguo Si
+918,918,智珠寺,Zhizhu Si
+919,919,智矩寺,Zhiju Si
+920,920,曉峰寺,Xiaofeng Si
+921,921,曉真寺,Xiaozhen Si
+922,922,書堂寺,Shutang Yuan
+923,923,曹光寺,Caoguang Si
+924,924,曹溪寺,Caoxi Si
+925,925,曾國寺,Zengguo Si
+926,926,會善寺,Huizhe Si
+927,927,會胜寺,Huisheng Si
+928,928,月宮寺,Yuegong Si
+929,929,月山寺,Yueshan Si
+930,930,月潭寺,Yuetan Si
+931,931,月燈寺,Yuedeng Si
+932,932,月珠寺,Yuezhu Si
+933,933,望合寺,Wanghe Si
+934,934,望海寺,Wanghai Si
+935,935,朝陽寺,Chaoyang Si
+936,936,木佛寺,Mufo Si
+937,937,木蘭寺,Mulan Si
+938,938,未鳳寺,Weifeng Si
+939,939,本覺寺,Benjue Si
+940,940,札什倫布廟,Zhashilunbu Miao
+941,941,朱明寺,Zhuming Si
+942,942,東塔寺,Dongta Si
+943,943,東寺,Dong Si
+944,944,東小湖寺,Dongxiaohu Si
+945,945,東山寺,Dongshan Si
+946,946,東山祥符寺,Dongshanxiangfu Si
+947,947,東明庵,Dongming An
+948,948,東昏寺,Donghun Si
+949,949,東會寺,Donghui Si
+950,950,東林寺,Donglin Si
+951,951,東泉寺,Dongquan Si
+952,952,東溪寺,Dongxi Si
+953,953,東禪寺,Dongchan Si
+954,954,東竺寺,Dongzhu Si
+955,955,東華庵,Donghua An
+956,956,東陵寺,Dongling Si
+957,957,松隱寺,Songyin Si
+958,958,林泉禪寺,Linquanchan Si
+959,959,柏塔寺,Bota Si
+960,960,柏山寺,Boshan Si
+961,961,柏林寺,Bolin Si
+962,962,柏泉寺,Boquan Si
+963,963,栟櫚寺,Binglu Si
+964,964,梅庵,Mei An
+965,965,梅林寺,Meilin Si
+966,966,梨花庵,Lihua An
+967,967,梵天寺,Fantian Si
+968,968,梵安寺,Fan'an Si
+969,969,梵宗寺,Fanzong Si
+970,970,梵行寺,Fanxing Si
+971,971,梵覺寺,Fanjue Sil
+972,972,梵雲寺,Fanyun Si
+973,973,梵香寺,Fanxiang Si
+974,974,棲嚴寺,Qiyan Si
+975,975,棲心寺,Qixin Si
+976,976,棲林寺,Qilin Si
+977,977,棲禪寺,Qichan Si
+978,978,棲賢寺,Qixian Si
+979,979,棲雲寺,Qiyun Si
+980,980,棲霞寺,Qixia Si
+981,981,楞岩寺,Lenyan Si
+982,982,極果寺,Jiguo Si
+983,983,樓煩寺,Loufan Si
+984,984,標楞寺,Biaoleng Si
+985,985,樵隱庵,Qiaoyin An
+986,986,橫龍寺,Henglong Si
+987,987,橿木庵,Jiangmu Si
+988,988,欽山寺,Qishan Si
+989,989,正峰寺,Zhengfeng Si
+990,990,正法寺,Zhengfa Si
+991,991,正續寺,Zhengxu Si
+992,992,正覺寺,Zhengjue Si
+993,993,正識寺,Zhengshi Si
+994,994,殊像寺,Shuxiang Si
+995,995,殊胜寺,Shusheng Si
+996,996,毗廬閣,Pilu Ge
+997,997,水井寺,Shuijing Si
+998,998,水府寺,Shuifu Si
+999,999,水月寺,Shuiyue Si
+1000,1000,水月庵,Shuiyue An
+1001,1001,水月院,Shuiyue Yuan
+1002,1002,永丰寺,Yongfeng Si
+1003,1003,永佑寺,Yongyou Si
+1004,1004,永利寺,Yongli Si
+1005,1005,永壽寺,Yongshou Si
+1006,1006,永安寺,Yongan Si
+1007,1007,永定寺,Yongding Si
+1008,1008,永寧寺,Yongning Si
+1009,1009,永平寺,Yongping Si
+1010,1010,永慕寺,Yongyou Si
+1011,1011,永慶寺,Yongqing Si
+1012,1012,永樂寺,Yongle Si
+1013,1013,永泰寺,Yongtai Si
+1014,1014,永洪寺,Yonghong Si
+1015,1015,永清寺,Yongqing Si
+1016,1016,永濟寺,Yongji Si
+1017,1017,永福寺,Yongfu Si
+1018,1018,永興寺,Yongxing Si
+1019,1019,汎山寺,Fanshan Si
+1020,1020,江天寺,Jiangtian Si
+1021,1021,江頭寺,Jiangtou Si
+1022,1022,沙嚴寺,Shayan Si
+1023,1023,沙家寺,Shajia Si
+1024,1024,河沙寺,Hesha Si
+1025,1025,沸水寺,Feishui Si
+1026,1026,泐潭寺,Letan Si
+1027,1027,法寶寺,Fabao Si
+1028,1028,法忍寺,Faren Sil
+1029,1029,法性寺,Faxing Si
+1030,1030,法慶寺,Faqing Si
+1031,1031,法明寺,Faming Si
+1032,1032,法會寺,Fahui Si
+1033,1033,法林寺,Falin Si
+1034,1034,法果寺,Faguo Si
+1035,1035,法水寺,Fashui Si
+1036,1036,法海寺,Fahai Si
+1037,1037,法淨寺,Fajing Si
+1038,1038,法源寺,Fayuan Si
+1039,1039,法濟寺,Faji Si
+1040,1040,法照寺,Fazhao Sil
+1041,1041,法王寺,Fawang Si
+1042,1042,法界寺,Fajie Si
+1043,1043,法相寺,Faxiang Si
+1044,1044,法華寺,Fahua Si
+1045,1045,法藏寺,Fazang Si
+1046,1046,法螺寺,Faluo Si
+1047,1047,法輪寺,Falun Si
+1048,1048,法門寺,Famen Si
+1049,1049,法隆寺,Falong Si
+1050,1050,法雨寺,Fayu Si
+1051,1051,法雲寺,Fayun Si
+1052,1052,法雷寺,Falei Si
+1053,1053,泗州寺,Sizhou Si
+1054,1054,泰寧寺,Taining Si
+1055,1055,洞山寺,Dongshan Si
+1056,1056,洪光寺,Hongguang Si
+1057,1057,洪山寺,Hongshan Si
+1058,1058,洪崖寺,Hongya Si
+1059,1059,洪濟寺,Hongji Si
+1060,1060,洪音寺,Hongyin Si
+1061,1061,浦峰寺,Pufeng Si
+1062,1062,海光寺,Haiguang Si
+1063,1063,海寧寺,Haining Si
+1064,1064,海慧院,Haihui Si
+1065,1065,海昭寺,Haizhao Si
+1066,1066,海會寺,Haihui Si
+1067,1067,海朝寺,Haizhao Si
+1068,1068,海源寺,Haiyuan Si
+1069,1069,海潮寺,Haichao Si
+1070,1070,涌泉寺,Yongquan Si
+1071,1071,涌泉院,Yongquan Si
+1072,1072,涌金寺,Yongjing Si
+1073,1073,涼馬寺,Liangma Si
+1074,1074,淨因寺,Jingyin Si
+1075,1075,淨慧寺,Jinghui Si
+1076,1076,淨戒寺,Jingjie Si
+1077,1077,淨照寺,Jingzhao Si
+1078,1078,淨眾寺,Jingzhong Si
+1079,1079,淨行院,Jingxing Yuan
+1080,1080,淨覺寺,Jingjue Si
+1081,1081,淨覺院,Jingjue Yuan
+1082,1082,淯溪寺,Yuxi Si
+1083,1083,淳熙寺,Chunxi Si
+1084,1084,清安寺,Qing'an Si
+1085,1085,清峰寺,Qingfeng Si
+1086,1086,清戒寺,Qingjie Si
+1087,1087,清明寺,Qingming Si
+1088,1088,清梵寺,Qingfan Si
+1089,1089,清河寺,Qinghe Si
+1090,1090,清泉寺,Qingquan Si
+1091,1091,清泉庵,Qingquan An
+1092,1092,清源寺,Qingyuan Si
+1093,1093,清漣寺,Qinglian Si
+1094,1094,清行寺,Qingxing Si
+1095,1095,清遠寺,Qingyuan Si
+1096,1096,渭源寺,Weiyuan Si
+1097,1097,湖光庵,Huguang An
+1098,1098,湘宮寺,Xianggong Si
+1099,1099,湘山寺,Xiangshan Si
+1100,1100,湛盧庵,Zhanlu Si
+1101,1101,湛真寺,Zhanzhen Si
+1102,1102,溥仁寺,Puren Si
+1103,1103,溥善寺,Pushan Si
+1104,1104,漁仙寺,Yuxian Si
+1105,1105,漆泉寺,Qiquan Si
+1106,1106,演教寺,Yanjiao Si
+1107,1107,演法寺,Yanfa Si
+1108,1108,潛台寺,Qiantai Si
+1109,1109,潛山寺,Qianshan Si
+1110,1110,潤國寺,Yunguo Si
+1111,1111,潮遠庵,Chaoyuan An
+1112,1112,潮音寺,Chaoyin Si
+1113,1113,潮鳴寺,Chaoming Si
+1114,1114,瀘源寺,Luyuan Si
+1115,1115,瀴源寺,Yingyuan Si
+1116,1116,灄口寺,Shekou Si
+1117,1117,烏石寺,Wushi Si
+1118,1118,烏龍寺,Wulong Si
+1119,1119,無夏寺,Wuxia Si
+1120,1120,無為寺,Wuwei Si
+1121,1121,無礙寺,Wuai Si
+1122,1122,無等院,Wudeng Yuan
+1123,1123,無量寺,Wuliang Si
+1124,1124,熙寧寺,Xining Si
+1125,1125,燃燈寺,Randeng Si
+1126,1126,牛頭寺,Niutou Si
+1127,1127,獅子庵,Shizi An
+1128,1128,獅子林,Shizi Lin
+1129,1129,獅山寺,Shishan Si
+1130,1130,獨樂寺,Dule Si
+1131,1131,玉兔寺,Yutu Si
+1132,1132,玉台寺,Yutai Si
+1133,1133,玉林寺,Yulin Si
+1134,1134,玉泉寺,Yuquan Si
+1135,1135,玉泉庵,Yuquan An
+1136,1136,玉溪寺,Yuxi Si
+1137,1137,玉田寺,Yutian Si
+1138,1138,玉龍庵,Yulong An
+1139,1139,王孟寺,Wangmeng Si
+1140,1140,珍珠寺,Zhenzhu Si
+1141,1141,珠源寺,Zhuyuan Si
+1142,1142,理安寺,Li'an Si
+1143,1143,琦玕寺,Qigan Si
+1144,1144,瑞峰寺,Ruifeng Si
+1145,1145,瑞應寺,Ruiying Si
+1146,1146,瑞相寺,Ruixiang Si
+1147,1147,瑞竹寺,Ruizhu Si
+1148,1148,瑞雪寺,Ruixue Si
+1149,1149,瓦堂寺,Watang Si
+1150,1150,甘泉寺,Ganquan Si
+1151,1151,甘露寺,Ganlu Si
+1152,1152,留村寺,Liucun Si
+1153,1153,疎山寺,Shushan Si
+1154,1154,登雲寺,Dengyun Si
+1155,1155,發塔寺,Fata Si
+1156,1156,發祥寺,Faxiang Si
+1157,1157,白土寺,Baitu Si
+1158,1158,白塔,Baita
+1159,1159,白塔寺,Baita Si
+1160,1160,白楊寺,Baiyang Si
+1161,1161,白池寺,Baichi Si
+1162,1162,白牙寺,Baiya Si
+1163,1163,白犢寺,Baidu Si
+1164,1164,白胜寺,Baisheng Si
+1165,1165,白草寺,Baicao Si
+1166,1166,白蓮花寺,Bailianhua Si
+1167,1167,白衣寺,Baiyi Si
+1168,1168,白衣庵,Baiyi An
+1169,1169,白雲寺,Baiyun Si
+1170,1170,白雲崇梵寺,Baiyunchongfan Si
+1171,1171,白雲庵,Baiyun An
+1172,1172,白馬寺,Baima Si
+1173,1173,白鶴寺,Baihe Si
+1174,1174,白鹿寺,Bailu Si
+1175,1175,白龍寺,Bailong Si
+1176,1176,白龍禪寺,Bailonchan Si
+1177,1177,百丈寺,Baizhang Si
+1178,1178,百塔寺,Baita Si
+1179,1179,百法寺,Baifa Si
+1180,1180,百福寺,Baifu Si
+1181,1181,百谷寺,Baigu Si
+1182,1182,皇亭寺,Huangting Si
+1183,1183,皇林寺,Huanglin Si
+1184,1184,皇業寺,Huangye Si
+1185,1185,皇澤寺,Huangze Si
+1186,1186,皇舅寺,Huangjiu Si
+1187,1187,皇覺寺,Huangjue Si
+1188,1188,皈依寺,Guiyi Si
+1189,1189,皈元寺,Guiyuan Si
+1190,1190,皈化寺,Guihua Si
+1191,1191,皈起寺,Banqi Si
+1192,1192,皈龍寺,Banlong Si
+1193,1193,益壽庵,Yishou An
+1194,1194,盤石寺,Panshi Si
+1195,1195,盤谷寺,Pangu Si
+1196,1196,盱眙山寺,Xuyushan Si
+1197,1197,相國寺,Xiangguo Si
+1198,1198,相山寺,Xiangshan SI
+1199,1199,看經寺,Kanjing Si
+1200,1200,真定寺,Zhending Si
+1201,1201,真慧寺,Zhenhui Si
+1202,1202,真覺寺,Zhenjue Si
+1203,1203,眾香寺,Zhongxiang Si
+1204,1204,瞻雲寺,Zhanyun Si
+1205,1205,矣保山塔,Yibaoshanta
+1206,1206,石亭觀音院,Shitingguanyin Yuan
+1207,1207,石佛妙相寺,Shifomiaoxiang Si
+1208,1208,石台寺,Shitai Si
+1209,1209,石城寺,Shicheng Si
+1210,1210,石塔寺,Shita Si
+1211,1211,石梘寺,Shijian Si
+1212,1212,石泉寺,Shiquan Si
+1213,1213,石泓寺,Shihong Si
+1214,1214,石溪寺,Shixi Si
+1215,1215,石窟寺,Shiku Si
+1216,1216,石鐘寺,Shizhong Si
+1217,1217,石門寺,Shimen Si
+1218,1218,石龍古寺,Shilonggu Si
+1219,1219,石龍寺,Shilong Si
+1220,1220,硃砂寺,Zhusha Si
+1221,1221,硤石寺,Xiashi Si
+1222,1222,碧山寺,Bishan Si
+1223,1223,碧峰寺,Bifeng Si
+1224,1224,碧沼寺,Bizhao Si
+1225,1225,碧雲寺,Biyun Si
+1226,1226,祈山寺,Qishan Si
+1227,1227,祖印寺,Zuyin Si
+1228,1228,祇園寺,Qiyuan Si
+1229,1229,祝聖寺,Zhusheng Si
+1230,1230,神山寺,Shenshan Si
+1231,1231,神通寺,Shentong Si
+1232,1232,祥光寺,Xiangguang Si
+1233,1233,祥窟院,Xiangku Yuan
+1234,1234,祥靈寺,Xiangling Si
+1235,1235,福仁寺,Furen Si
+1236,1236,福佑寺,Fuyou Si
+1237,1237,福光寺,Fuguang Si
+1238,1238,福國寺,Fuguo Si
+1239,1239,福壽寺,Fushou Si
+1240,1240,福山寺,Fushan Si
+1241,1241,福慶寺,Fuqing Si
+1242,1242,福昌寺,Fuchang Si
+1243,1243,福泉寺,Fuquan Si
+1244,1244,福田寺,Futian Si
+1245,1245,福綠禪林,Fulu Chanlin
+1246,1246,福聖寺,Fusheng Si
+1247,1247,福聖院,Fusheng Yuan
+1248,1248,福聚寺,Fuju Si
+1249,1249,福胜寺,Fusheng Si
+1250,1250,禪定寺,Chanding Si
+1251,1251,禪房寺,Chanfang Si
+1252,1252,禪會寺,Chanhui Si
+1253,1253,禪林寺,Chanlin Si
+1254,1254,禪果寺,Changuo Si
+1255,1255,禪源寺,Chanyuan Si
+1256,1256,禪窟寺,Chanku Si
+1257,1257,禪興寺,Chanxing Si
+1258,1258,禪那寺,Channa Si
+1259,1259,禹門寺,Yumen Si
+1260,1260,离相寺,Lixiang Si
+1261,1261,禾山寺,Heshang Si
+1262,1262,秀峰寺,Xiufeng si
+1263,1263,秀羅寺,Xiuluo Si
+1264,1264,稱心寺,Chengxin Si
+1265,1265,稽古寺,Jigu Si
+1266,1266,積慶寺,Jiqing Si
+1267,1267,穹窿寺,Qionglong Si
+1268,1268,穹覽寺,Qionglan Si
+1269,1269,空杏寺,Kongxing Si
+1270,1270,空相寺,Kongxiang Si
+1271,1271,童子寺,Tongzi Si
+1272,1272,端壁寺,Duanbi Si
+1273,1273,竹成寺,Zhucheng Si
+1274,1274,竹掃寺,Zhushuo Si
+1275,1275,竹林寺,Zhulin Si
+1276,1276,竹溪寺,Zhuxi Si
+1277,1277,等慈寺,Dengci Si
+1278,1278,等界寺,Dengjie Si
+1279,1279,等覺寺,Dengjue Si
+1280,1280,精嚴寺,Jingyan Si
+1281,1281,精進寺,Jingjin Si
+1282,1282,精雲寺,Jingyun Si
+1283,1283,紀山寺,Jingshan Si
+1284,1284,紫微庵,Ziwei An
+1285,1285,紫陽庵,Ziyang An
+1286,1286,紫雲庵,Ziyun An
+1287,1287,經台寺,Jingtai Si
+1288,1288,經堂寺,Jingtang Si
+1289,1289,經閣寺,Jingge Si
+1290,1290,綠天庵,Lutian An
+1291,1291,綠源寺,Luyuan Si
+1292,1292,繩金塔寺,Shengjinta Si
+1293,1293,羅什寺,Luoshi Si
+1294,1294,羅漢寺,Luohan Si
+1295,1295,羅漢院,Luohan Yuan
+1296,1296,羅睺寺,Luohou Si
+1297,1297,翠岩光化寺,Cuiyanguanghua Si
+1298,1298,翠峰寺,Cuifeng Si
+1299,1299,翠微寺,Cuiwei Si
+1300,1300,翠雲寺,Cuiyun Si
+1301,1301,翠雲院,Cuiyun Yuan
+1302,1302,翼善寺,Yishan Si
+1303,1303,耆阇寺,Qishe Si
+1304,1304,耽石院,Zhenshi Si
+1305,1305,聖佛寺,Shengfo Si
+1306,1306,聖像寺,Shengxiang Si
+1307,1307,聖化寺,Shenghua Si
+1308,1308,聖因寺,Shengyin Si
+1309,1309,聖寺,Sheng Si
+1310,1310,聖德寺,Shengde Si
+1311,1311,聖感寺,Shanggan Si
+1312,1312,聖景寺,Shengjing Si
+1313,1313,聖水寺,Shengshui Si
+1314,1314,聖泉院,Shengquan Si
+1315,1315,聖濟寺,Shengji Si
+1316,1316,聖臨院,Shenglin Si
+1317,1317,聖野寺,Shengye Si
+1318,1318,聞忠寺,Wenzhong Si
+1319,1319,胜力寺,Shengli Si
+1320,1320,胜因寺,Shengyin Si
+1321,1321,胜果寺,Shengguo Si
+1322,1322,胜業寺,Shengye Si
+1323,1323,胜法寺,Shengfa Si
+1324,1324,臥佛寺,Wofo Si
+1325,1325,臨江寺,Linjiang Si
+1326,1326,臨瀧寺,Linlong Si
+1327,1327,臨高寺,Lingao Si
+1328,1328,至德寺,Zhide Si
+1329,1329,興化寺,Xinghua Si
+1330,1330,興化禪院,Xinghua Chanyuan
+1331,1331,興唐寺,Xingtang Si
+1332,1332,興善寺,Xingshan Si
+1333,1333,興國寺,Xingguo Si
+1334,1334,興國萬壽寺,Xingguowanshou Si
+1335,1335,興复寺,Xingfu Si
+1336,1336,興寶寺,Xingbao Si
+1337,1337,興教寺,Xingjiao Si
+1338,1338,興果寺,Xingguo Si
+1339,1339,興王寺,Xingwang Si
+1340,1340,興聖寺,Xingsheng Si
+1341,1341,興聖萬壽寺,Xingshengwanshou Si
+1342,1342,興道寺,Xingdao Si
+1343,1343,興陽寺,Xingyang Si
+1344,1344,興隆寺,Xinglong si
+1345,1345,舊賢寺,Jiuxian Si
+1346,1346,舍利寺,Sheli Si
+1347,1347,舍因寺,Sheyin Si
+1348,1348,良崗寺,Lianggang Si
+1349,1349,色喇廟,Sela Miao
+1350,1350,芝佛寺,Zhifo Si
+1351,1351,花佛寺,Huafo Si
+1352,1352,花林寺,Hualin Si
+1353,1353,花果寺,Huaguo Si
+1354,1354,花藪寺,Huasou Si
+1355,1355,苦竹寺,Kuzhu Si
+1356,1356,茂林寺,Maolin Si
+1357,1357,茶山寺,Chashan Si
+1358,1358,茶禪寺,Chachan Si
+1359,1359,草堂寺,Caotang Si
+1360,1360,荐福寺,Jianfu Si
+1361,1361,荷澤寺,Heze Si
+1362,1362,荷福寺,Hefu Si
+1363,1363,菩提寺,Puti Si
+1364,1364,華光寺,Huaguang Si
+1365,1365,華嚴院,Huayan Si
+1366,1366,華容寺,Huarong Si
+1367,1367,華林寺,Hualin Si
+1368,1368,華蓋寺,Huagai Si
+1369,1369,華藏寺,Huazang Si
+1370,1370,萬佛寺,Wanfo Si
+1371,1371,萬卷華嚴經塔,Wanjuanhuayanjing Ta
+1372,1372,萬善寺,Wanshan Si
+1373,1373,萬固寺,Wangu Si
+1374,1374,萬壽興隆寺,Wanshouxinglong Si
+1375,1375,萬安院,Wan'an Yuan
+1376,1376,萬年寺,Wannian Si
+1377,1377,萬慶寺,Wanqing Si
+1378,1378,萬春寺,Wanchun Si
+1379,1379,萬杉寺,Wanshan Si
+1380,1380,萬松寺,Wansong Si
+1381,1381,萬果庵,Wanguo An
+1382,1382,萬福寺,Wanfo Si
+1383,1383,萬緣庵,Wanyuan An
+1384,1384,萬葉寺,Wanye Si
+1385,1385,落伽寺,Luojia Si
+1386,1386,蒲澗寺,Pujian Si
+1387,1387,蒲騷寺,Pusao Si
+1388,1388,蓬萊庵,Penglai An
+1389,1389,蓮台寺,Liantai Si
+1390,1390,蓮塘寺,Liantang Si
+1391,1391,蓮性寺,Lianxing Si
+1392,1392,蓮社院,Lianshe Si
+1393,1393,蓮花寺,Lianhua Si
+1394,1394,藏峰寺,Cangfeng Si
+1395,1395,藥山寺,Yaoshan Si
+1396,1396,藥師院,Yaoshi Yuan
+1397,1397,蘭若寺,Lanruo Si
+1398,1398,虎窩寺,Huwo Si
+1399,1399,虎跑寺,Hupao Si
+1400,1400,螯山寺,Aoshan Si
+1401,1401,螺擁寺,Luoyong Si
+1402,1402,蟠桃院,Pantao Yuan
+1403,1403,蟾桂庵,Changui An
+1404,1404,蟾虎寺,Chanhu Si
+1405,1405,衍慶寺,Yanqing Si
+1406,1406,衡岳寺,Hengyue Si
+1407,1407,西來寺,Xilai Si
+1408,1408,西天寺,Xitian Si
+1409,1409,西天梵境,Xitianfanjing
+1410,1410,西寺,Xi Si
+1411,1411,西小湖寺,Xixiaohu Si
+1412,1412,西山寺,Xishan Si
+1413,1413,西岩寺,Xiyan Si
+1414,1414,西峰寺,Xifeng Si
+1415,1415,西明寺,Ximing Si
+1416,1416,西林寺,Xilin Si
+1417,1417,西盟寺,Ximeng Si
+1418,1418,西石堂院,Xishitang Yuan
+1419,1419,西磬寺,Xiqing Si
+1420,1420,西竺寺,Xizhu Si
+1421,1421,西華寺,Xihua Si
+1422,1422,西藍寺,Xilan Si
+1423,1423,視壽寺,Shishou Si
+1424,1424,覺山寺,Jueshang Si
+1425,1425,覺慈寺,Jueci Si
+1426,1426,覺成寺,Juecheng Si
+1427,1427,覺津寺,Juejin Si
+1428,1428,覺海寺,Juehai Si
+1429,1429,覺生寺,Juesheng Si
+1430,1430,覺皇寺,Juehuang Si
+1431,1431,覺興寺,Juexing Si
+1432,1432,覺苑寺,Jueyuan Si
+1433,1433,觀山寺,Guanshan Si
+1434,1434,觀法寺,Guanfa Si
+1435,1435,觀雞寺,Guanji Si
+1436,1436,觀音寺,Guanyin Si
+1437,1437,觀音庵,Guanyin An
+1438,1438,觀音泉寺,Guanyinguan Si
+1439,1439,觀音閣,Guanyin Ge
+1440,1440,誕登寺,Dandeng Si
+1441,1441,諸福寺,Zhufu Si
+1442,1442,證因寺,Zhengyin Si
+1443,1443,證果寺,Zhengguo Si
+1444,1444,譙令寺,Qiaoling Si
+1445,1445,護國寺,Huguo Si
+1446,1446,護洙寺,Huzhu Si
+1447,1447,谷山寺,Gushan Si
+1448,1448,谷林寺,Gulin Si
+1449,1449,谷隱寺,Guyin Si
+1450,1450,資佛寺,Zifo Si
+1451,1451,資福院,Zifu Yuan
+1452,1452,資胜寺,Zisheng Si
+1453,1453,超化寺,Chaohua Si
+1454,1454,超岸寺,Chaoan Si
+1455,1455,超果寺,Chaoguo Si
+1456,1456,超覺寺,Chaojue Si
+1457,1457,迎恩寺,Ying'en Si
+1458,1458,迎水寺,Yingshui Si
+1459,1459,迎福寺,Yingfu Si
+1460,1460,逍遙庵,Xiaoyao An
+1461,1461,通化寺,Tonghua Si
+1462,1462,通慧寺,Tonghui Si
+1463,1463,逢仙寺,Fengxian Si
+1464,1464,連州寺,Lianzhou Si
+1465,1465,連雲寺,Lianyun Si
+1466,1466,道場寺,Daochang Si
+1467,1467,道悟寺,Daowu Si
+1468,1468,道林寺,Daolin Si
+1469,1469,郁蔥寺,Yucong Si
+1470,1470,鄉堂寺,Xiangtang Si
+1471,1471,醴泉寺,Liquan Si
+1472,1472,釋慈寺,Shici Si
+1473,1473,釋迦寺,Shijia Si
+1474,1474,釋迦牟尼佛廟,Shijiamouni Fomiao
+1475,1475,重光寺,Chongguan Si
+1476,1476,重興寺,Chongxing Si
+1477,1477,金佛寺,Jinfo Si
+1478,1478,金剛寺,Jingang Si
+1479,1479,金塔寺,Jinta Si
+1480,1480,金山寺,Jinshan Si
+1481,1481,金峰寺,Jinfeng Si
+1482,1482,金川寺,Jinchuan Si
+1483,1483,金河寺,Jinhe Si
+1484,1484,金泉寺,Jinquan Si
+1485,1485,金燈寺,Jindeng Si
+1486,1486,金牛寺,Jinniu Si
+1487,1487,金粟寺,Jinsu Si
+1488,1488,金粟庵,Jinsu Si
+1489,1489,金胜寺,Jinsheng Si
+1490,1490,金花寺,Jinhua Si
+1491,1491,金華寺,Jinhua Si
+1492,1492,金蘭寺,Jinlan Si
+1493,1493,金輪寺,Jinlun Si
+1494,1494,金閣寺,Jinge Si
+1495,1495,金靈寺,Jinling Si
+1496,1496,金鳴寺,Jinming Si
+1497,1497,金龍寺,Jinlong Si
+1498,1498,銀山寺,Yinshan Si
+1499,1499,銅山寺,Tongshan Si
+1500,1500,鎮江寺,Zhenjiang Si
+1501,1501,鎮海寺,Zhenhai Si
+1502,1502,鐘山寺,Zhongshan Si
+1503,1503,鐘鼓寺,Zhonggu Si
+1504,1504,鐵佛寺,Tiefo Si
+1505,1505,鐵塔寺,Tieta Si
+1506,1506,鐵幡寺,Tiefan Si
+1507,1507,鐵瓦寺,Tiewa si
+1508,1508,鑒山寺,Jianshan Si
+1509,1509,長安寺,Chang'an Si
+1510,1510,長寧寺,Changning Si
+1511,1511,長提寺,Changti Si
+1512,1512,長春寺,Changchun Si
+1513,1513,長松庵,Changsong An
+1514,1514,長椿寺,Changchun Si
+1515,1515,長樂寺,Changle Si
+1516,1516,長沙寺,Changsha Si
+1517,1517,長興寺,Changxing Si
+1518,1518,開仁寺,Kairen Si
+1519,1519,開元淨慧寺,Kaiyuanjinghui Si
+1520,1520,開元禪寺,Kaiyuanchan Si
+1521,1521,開利寺,Kaili Si
+1522,1522,開化寺,Kaihua Si
+1523,1523,開善寺,Kaishan Si
+1524,1524,開明寺,Kaiming Si
+1525,1525,開法寺,Kaifa Si
+1526,1526,開福寺,Kaifu Si
+1527,1527,開花寺,Kaihua Si
+1528,1528,開院禪林,Kaiyuanchan Si
+1529,1529,闡宗寺,Chanzong Si
+1530,1530,闡禪寺,Chanchan Si
+1531,1531,阿育王寺,Ayuwang Si
+1532,1532,阿里諸廟,Alizhu Miao
+1533,1533,陟屺寺,Zhiqi Si
+1534,1534,陽台寺,Yangtai Si
+1535,1535,陽寶山寺,Yangbaoshan Si
+1536,1536,隆平寺,Longping Si
+1537,1537,隆慶寺,Longqing Si
+1538,1538,隆教寺,Longjiao Si
+1539,1539,隆福寺,Longfu Si
+1540,1540,隆胜寺,Longsheng Si
+1541,1541,隆興寺,Longxing Si
+1542,1542,隆長寺,Longchang Si
+1543,1543,隱山寺,YinshanSi
+1544,1544,雁峰寺,Yanfeng Si
+1545,1545,雍熙寺,Yongxi Si
+1546,1546,雙井寺,Shuangjing Si
+1547,1547,雙岭崇胜院,Shuanglingchongsheng Yuan
+1548,1548,雙峰寺,Shuangfeng Si
+1549,1549,雙松寺,Shuangsong Si
+1550,1550,雙林寺,Shuangling Si
+1551,1551,雙泉寺,Shuangquan Si
+1552,1552,雙田寺,Shuangtian Si
+1553,1553,雙竹院,Shuangzhu Yuan
+1554,1554,雙蓮寺,Shuanglain Si
+1555,1555,雜花庵,Zahua An
+1556,1556,雞鳴寺,Jiming Si
+1557,1557,雨化寺,Yuhua Si
+1558,1558,雪寶寺,Xuebao Si
+1559,1559,雪峰寺,Xuefeng Si
+1560,1560,雲中寺,Yunzhong Si
+1561,1561,雲寺,Yun Si
+1562,1562,雲封寺,Yunfeng Si
+1563,1563,雲居寺,Yunju Si
+1564,1564,雲居聖水寺,Yunjushengshui Si
+1565,1565,雲山寺,Yunshan Si
+1566,1566,雲岩寺,Yunyan Si
+1567,1567,雲峰寺,Yunfeng Si
+1568,1568,雲川寺,Yunchuan Si
+1569,1569,雲林寺,Yunlin Si
+1570,1570,雲栖寺,Yunqi Si
+1571,1571,雲泉寺,Yunquan Si
+1572,1572,雲淨寺,Yunjing Si
+1573,1573,雲溪寺,Yunxi Si
+1574,1574,雲罩寺,Yunzhao Si
+1575,1575,雲翔寺,Yunxiang Si
+1576,1576,雲蓋寺,Yungai Si
+1577,1577,雲門寺,Yunmen Si
+1578,1578,雲際寺,Yunji Si
+1579,1579,雲隱庵,Yunyin An
+1580,1580,雲集寺,Yunji Si
+1581,1581,雷牙寺,Leiya Si
+1582,1582,雷震寺,Leizhen Si
+1583,1583,雷音寺,Leiyin Si
+1584,1584,露岩寺,Luyan Si
+1585,1585,靈光寺,Lingguang Si
+1586,1586,靈古寺,Linggu Si
+1587,1587,靈台寺,Lingtai Si
+1588,1588,靈山寺,Lingshan Si
+1589,1589,靈山開善寺,Lingshankaishan Si
+1590,1590,靈岩寺,Lingyan Si
+1591,1591,靈岩廣化寺,Lingyanguanghua Si
+1592,1592,靈峰寺,Lingfeng Si
+1593,1593,靈峰院,Lingfeng Yuan
+1594,1594,靈應寺,Lingying Si
+1595,1595,靈泉寺,Lingquan Si
+1596,1596,靈源寺,Lingyuan Si
+1597,1597,靈溪寺,Lingxi Si
+1598,1598,靈照寺,Lingzhao Si
+1599,1599,靈石寺,Lingshi Si
+1600,1600,靈耀寺,Lingyao Si
+1601,1601,靈芝寺,Lingzhi Si
+1602,1602,靈谷寺,Linggu Si
+1603,1603,靈雨寺,Lingyu Si
+1604,1604,靈鷲寺,Lingjiu Si
+1605,1605,青原淨居寺,Qingyuanjingju Si
+1606,1606,青溪寺,Qingxi Si
+1607,1607,青蓮寺,Qinglian Si
+1608,1608,靖興寺,Jingxing Si
+1609,1609,靜妙寺,Jingmiao Si
+1610,1610,靜居寺,Jingju Si
+1611,1611,靜智寺,Jingzhi Si
+1612,1612,靜胜寺,Jingsheng Si
+1613,1613,韜光庵,Taoguang An
+1614,1614,頂嚴廣福院,Dingyanguangfu Yuan
+1615,1615,頭陀寺,Toutuo Si
+1616,1616,顯慶寺,Xianqing Si
+1617,1617,顯應寺,Xianying Si
+1618,1618,飛山寺,Feishan Si
+1619,1619,飛英寺,Feiying Si
+1620,1620,飛赴寺,Feifu Si
+1621,1621,餘慶寺,Yuqing Si
+1622,1622,饒益寺,Raoyi Si
+1623,1623,香台寺,Xiangtai Si
+1624,1624,香嚴寺,Xiangyan Si
+1625,1625,香城寺,Xiangcheng Si
+1626,1626,香山寺,Xiangshan Si
+1627,1627,香山院,Xiangshan Yuan
+1628,1628,香岩寺,Xiangyan Si
+1629,1629,香峪寺,Xiangyu Si
+1630,1630,香明寺,Xiangming Si
+1631,1631,香林寺,Xianglin Si
+1632,1632,香泉寺,Xiangquan Si
+1633,1633,香爐庵,Xianglu An
+1634,1634,香界寺,Xiangjie Si
+1635,1635,香積寺,Xiangji Si
+1636,1636,香華寺,Xianghua Si
+1637,1637,香蓋寺,Xianggai Si
+1638,1638,香阜寺,Xiangfu Si
+1639,1639,香雲寺,Xiangyun Si
+1640,1640,馬柵寺,Mashan Si
+1641,1641,馬祖禪寺,Mazu Chansi
+1642,1642,馬覺寺,Majue Si
+1643,1643,騰雲寺,Tengyun Si
+1644,1644,高旻寺,Gaomin Si
+1645,1645,高明寺,Gaoming Si
+1646,1646,高陀山塔,Gaotuoshan Ta
+1647,1647,高陵寺,Gaoling Si
+1648,1648,高飛寺,Gaofei Si
+1649,1649,鳳凰寺,Fenghuang Si
+1650,1650,鳳林寺,Fenglin Si
+1651,1651,鳳池寺,Fengchi Si
+1652,1652,鳳翔寺,Fengxiang Si
+1653,1653,鵝湖寺,Ehu Si
+1654,1654,鷲峰寺,Jiufeng Si
+1655,1655,鷲雲寺,Jiuyun Si
+1656,1656,鸚鵡寺,Yingwu Si
+1657,1657,鹿苑寺,Luyuan Si
+1658,1658,黃岡寺,Huanggang Si
+1659,1659,黃蘖寺,Huangnie Si
+1660,1660,黃龍寺,Huanglong Si
+1661,1661,黯淡寺,Andan Si
+1662,1662,齊山寺,Qishan Si
+1663,1663,齊興寺,Qixing Si
+1664,1664,齊覺寺,Qijue Si
+1665,1665,龍光寺,Longguang Si
+1666,1666,龍安寺,Longan Si
+1667,1667,龍居寺,Longju Si
+1668,1668,龍山寺,Longshan Si
+1669,1669,龍山院,Longshan Yuan
+1670,1670,龍岩寺,Longyan Si
+1671,1671,龍巢寺,Longchao Si
+1672,1672,龍德寺,Longde Si
+1673,1673,龍會寺,Longhui Si
+1674,1674,龍泉禪寺,Longquanchan Si
+1675,1675,龍泉院,Longquan Yuan
+1676,1676,龍湖岩院,Longhuyan Yuan
+1677,1677,龍潭寺,Longtan Si
+1678,1678,龍牙寺,Longya Si
+1679,1679,龍王寺,Longwang Si
+1680,1680,龍皈寺,Longgui Si
+1681,1681,龍窟寺,Longku Si
+1682,1682,龍興岩庵,Longxingyan An
+1683,1683,龍興庵,Longxing An
+1684,1684,龍華教寺,Longhuajiao Si
+1685,1685,龍蓋寺,Longgai Si
+1686,1686,龍藏寺,Longzang Si
+1687,1687,龍頭寺,Longtou Si
+1688,1688,龍馬寺,Longma Si
+1689,1689,龍鳳寺,Longfeng Si
+1690,1690,龍鳴寺,Longming Si
+1691,1691,龜山寺,Guishan Si
+1692,1692,龜鏡寺,Guijing Si
+1693,1693,三塔寺,Santa Si
+1694,1694,三學寺,Sanxue Si
+1695,1695,三山寺,Sanshan si
+1696,1696,三山庵,Sanshan An
+1697,1697,三峙寺,Sanzhi Si
+1698,1698,三惠寺,Sanhui Si
+1699,1699,三教寺,Sanjiao Si
+1700,1700,三明寺,Sanming Si
+1701,1701,三會寺,Sanhui Si
+1702,1702,三角寺,Sanjiao Si
+1703,1703,上乘寺,Shangcheng Si
+1704,1704,上國清寺,Shangguoqing Si
+1705,1705,上大林寺,Shangdalin Si
+1706,1706,上封寺,Shangfeng Si
+1707,1707,上成化寺,Shangchenghua Si
+1708,1708,上方寺,Shangfang Si
+1709,1709,上泉寺,Shangquan Si
+1710,1710,上貴寺,Shanggui Si
+1711,1711,上鐘山寺,Shangzhongshan Si
+1712,1712,上雲集寺,Shangyunji Si
+1713,1713,上龍山寺,Shanglongshan Si
+1714,1714,下生寺,Xiasheng Si
+1715,1715,下鐘山寺,Xiazhongshan Si
+1716,1716,不二寺,Buer Si
+1717,1717,丙靈寺,Bingling Si
+1718,1718,中嚴寺,Zhongyan Si
+1719,1719,中天塔,Zhongtian Ta
+1720,1720,中山寺,Zhongshan Si
+1721,1721,中峰寺,Zhongfeng Si
+1722,1722,中禪寺,Zhongchan Si
+1723,1723,中華寺,Zhonghua Si
+1724,1724,中華山寺,Zhonghuashan Si
+1725,1725,丰嚴寺,Fengyan Si
+1726,1726,丰岩寺,Fengyan Si
+1727,1727,丰登寺,Fengdeng Si
+1728,1728,丰穩寺,Fengwen Si
+1729,1729,丹霞寺,Daxia Si
+1730,1730,九子寺,Jiuzi Si
+1731,1731,九鼎寺,Jiuding Si
+1732,1732,九龍庵,Jiulong An
+1733,1733,乾明寺,Qianming Si
+1734,1734,乾興寺,Qianxing Si
+1735,1735,乾陽寺,Qianyang Si
+1736,1736,二水寺,Er'shui Si
+1737,1737,二祖寺,Er'zu Si
+1738,1738,二聖寺,Ersheng Si
+1739,1739,仁壽寺,Renshou Si
+1740,1740,仙游寺,Xianyou Si
+1741,1741,仙靈寺,Xianling Si
+1742,1742,仞門庵,Renmen An
+1743,1743,仰天寺,Yangtian Si
+1744,1744,伊克招廟,Yikerao Miao
+1745,1745,伏慮寺,Fulu Si
+1746,1746,住罡寺,Zhugang Si
+1747,1747,佑國寺,Youguo Si
+1748,1748,佑安寺,You'an Si
+1749,1749,佑清寺,Youqing Si
+1750,1750,佑濟寺,Youji Si
+1751,1751,佑聖教寺,Youshengjiao Si
+1752,1752,佑順寺,Youshun Si
+1753,1753,佛光寺,Fuguang Si
+1754,1754,佛宮寺,Fugong Si
+1755,1755,佛山寺,Fushan Si
+1756,1756,佛慧寺,Fuhui Si
+1757,1757,佛日寺,Furi Si
+1758,1758,佛燈寺,Fodeng Si
+1759,1759,佛窟寺,Foku Si
+1760,1760,佛興寺,Fuxing Si
+1761,1761,佛跡岭寺,Fojiling Si
+1762,1762,佛閣寺,Foge Si
+1763,1763,佛陀寺,Futuo Si
+1764,1764,侔雲寺,Mouyun Si
+1765,1765,保唐寺,Baotang Si
+1766,1766,保安寺,Baoan Si
+1767,1767,修覺寺,Xiujue Si
+1768,1768,偏涼寺,Pianliang Si
+1769,1769,偏角寺,Pianjiao Si
+1770,1770,傳慶寺,Chuanqing Si
+1771,1771,元化寺,Yuehua Si
+1772,1772,元封寺,Yuanfeng Si
+1773,1773,元符寺,Yuanfu Si
+1774,1774,元通寺,Yuantong Si
+1775,1775,光國寺,Guangguo Si
+1776,1776,光孝寺,Guangxiao Si
+1777,1777,光宅寺,Guangzhai Si
+1778,1778,光明寺,Guangming Si
+1779,1779,光業寺,Guangye si
+1780,1780,光武寺,Guangwu Si
+1781,1781,光相寺,Guangxiang Si
+1782,1782,光福寺,Guangfu Si
+1783,1783,光運寺,Guangyun Si
+1784,1784,兜率寺,Doushuai Si
+1785,1785,八聖寺,Basheng Si
+1786,1786,八龍寺,Balong Si
+1787,1787,六度寺,Liudu Si
+1788,1788,六祖院,Liuzu yuan
+1789,1789,冶山寺,Yeshan Si
+1790,1790,冶父寺,Yefu Si
+1791,1791,准提庵,Zhunti An
+1792,1792,*山書院,* Shan Shu Yuan 
+1793,1793,*渾書院,* Hun Shu Yuan 
+1794,1794,一貫書院,Yi Guan Shu Yuan 
+1795,1795,三沙書堂書院,San Sha Shu Tang Shu Yuan 
+1796,1796,三沙書院,San Sha Shu Yuan 
+1797,1797,三洲書院,San Zhou Shu Yuan 
+1798,1798,三賢書院,San Xian Shu Yuan 
+1799,1799,丞相書院,Cheng Xiang Shu Yuan 
+1800,1800,中天書院,Zhong Tian Shu Yuan 
+1801,1801,中山學塾,Zhong Shan Xue Shu 
+1802,1802,中庸書院,Zhong Yong Shu Yuan 
+1803,1803,中村書院,Zhong Cun Shu Yuan 
+1804,1804,中溪書院,Zhong Xi Shu Yuan 
+1805,1805,丹梯書院,Dan Ti Shu Yuan 
+1806,1806,丹詔書院,Dan Zhao Shu Yuan 
+1807,1807,久大堂,Jiu Da Tang 
+1808,1808,九峯書院,Jiu Feng Shu Yuan 
+1809,1809,九日山書院,Jiu Ri Shan Shu Yuan 
+1810,1810,九江書院,Jiu Jiang Shu Yuan 
+1811,1811,九溪書院,Jiu Xi Shu Yuan 
+1812,1812,九疑山書院,Jiu Yi Shan Shu Yuan 
+1813,1813,九龍書院,Jiu Long Shu Yuan 
+1814,1814,了齋書院,Le Zhai Shu Yuan 
+1815,1815,二良書院,Er Liang Shu Yuan 
+1816,1816,五呂書院,Wu Lv Shu Yuan 
+1817,1817,五峯書院,Wu Feng Shu Yuan 
+1818,1818,五峰書院,Wu Feng Shu Yuan 
+1819,1819,五溪書院,Wu Xi Shu Yuan 
+1820,1820,五經講堂,Wu Jing Jiang Tang 
+1821,1821,五雲書院,Wu Yun Shu Yuan 
+1822,1822,交川書院,Jiao Chuan Shu Yuan 
+1823,1823,仁山書院,Ren Shan Shu Yuan 
+1824,1824,仙巖書院,Xian Yan Shu Yuan 
+1825,1825,仙棠書院,Xian Tang Shu Yuan 
+1826,1826,伏生書院,Fu Sheng Shu Yuan 
+1827,1827,作新書院,Zuo Xin Shu Yuan 
+1828,1828,來清書院,Lai Qing Shu Yuan 
+1829,1829,侍郎山書院,Shi Lang Shan Shu Yuan 
+1830,1830,依綠書院,Yi Lv Shu Yuan 
+1831,1831,侯林書院,Hou Lin Shu Yuan 
+1832,1832,保訓書院,Bao Xun Shu Yuan 
+1833,1833,修文書院,Xiu Wen Shu Yuan 
+1834,1834,修江書院,Xiu Jiang Shu Yuan 
+1835,1835,傳氏書院,Chuan Shi Shu Yuan 
+1836,1836,儒林書院,Ru Lin Shu Yuan 
+1837,1837,儒林義塾,Ru Lin Yi Shu 
+1838,1838,元公書院,Yuan Gong Shu Yuan 
+1839,1839,元功書院,Yuan Gong Shu Yuan 
+1840,1840,光祿書院,Guang Lu Shu Yuan 
+1841,1841,克齋書院,Ke Zhai Shu Yuan 
+1842,1842,八桂書院,Ba Gui Shu Yuan 
+1843,1843,八華書院,Ba Hua Shu Yuan 
+1844,1844,公安書院,Gong An Shu Yuan 
+1845,1845,六一書院,Liu Yi Shu Yuan 
+1846,1846,六經講堂,Liu Jing Jiang Tang 
+1847,1847,冠山書院,Guan Shan Shu Yuan 
+1848,1848,冠豸書院,Guan Zhi Shu Yuan 
+1849,1849,初山書院,Chu Shan Shu Yuan 
+1850,1850,勾漏書院,Gou Lou Shu Yuan 
+1851,1851,勿齋書院,Wu Zhai Shu Yuan 
+1852,1852,北園書院,Bei Yuan Shu Yuan 
+1853,1853,北巖書院,Bei Yan Shu Yuan 
+1854,1854,北麓書院,Bei Lu Shu Yuan 
+1855,1855,匡山書院,Kuang Shan Shu Yuan 
+1856,1856,南台書院,Nan Tai Shu Yuan 
+1857,1857,南園書舍,Nan Yuan Shu She 
+1858,1858,南園書院,Nan Yuan Shu Yuan 
+1859,1859,南塘書院,Nan Tang Shu Yuan 
+1860,1860,南山書院,Nan Shan Shu Yuan 
+1861,1861,南薰書院,Nan Xun Shu Yuan 
+1862,1862,南谷書院,Nan Gu Shu Yuan 
+1863,1863,南門書院,Nan Men Shu Yuan 
+1864,1864,南隱書院,Nan Yin Shu Yuan 
+1865,1865,博山書院,Bo Shan Shu Yuan 
+1866,1866,卜山書院,Bu Shan Shu Yuan 
+1867,1867,原道書院,Yuan Dao Shu Yuan 
+1868,1868,去非學舍,Qu Fei Xue She 
+1869,1869,友教書院,You Jiao Shu Yuan 
+1870,1870,友陶書院,You Tao Shu Yuan 
+1871,1871,古岡書院,Gu Gang Shu Yuan 
+1872,1872,古梅書院,Gu Mei Shu Yuan 
+1873,1873,同人書院,Tong Ren Shu Yuan 
+1874,1874,同文書院,Tong Wen Shu Yuan 
+1875,1875,君子堂,Jun Zi Tang 
+1876,1876,吟軒書院,Yin Xuan Shu Yuan 
+1877,1877,吟陽書院,Yin Yang Shu Yuan 
+1878,1878,周程書院,Zhou Cheng Shu Yuan 
+1879,1879,和樂書院,He Le Shu Yuan 
+1880,1880,咏澤書院,Yong Ze Shu Yuan 
+1881,1881,商山書院,Shang Shan Shu Yuan 
+1882,1882,問津書院,Wen Jin Shu Yuan 
+1883,1883,喬岡書院,Qiao Gang Shu Yuan 
+1884,1884,嘉嶺書院,Jia Ling Shu Yuan 
+1885,1885,四勿齋書院,Si Wu Zhai Shu Yuan 
+1886,1886,四湖書院,Si Hu Shu Yuan 
+1887,1887,四賢書院,Si Xian Shu Yuan 
+1888,1888,四關書院,Si Wan Shu Yuan 
+1889,1889,回浦書院,Hui Pu Shu Yuan 
+1890,1890,團湖書院,Tuan Hu Shu Yuan 
+1891,1891,城南書社,Cheng Nan Shu She 
+1892,1892,墨池書院,Mo Chi Shu Yuan 
+1893,1893,壁里書院,Bi Li Shu Yuan 
+1894,1894,夏仙書院,Xia Xian Shu Yuan 
+1895,1895,大本堂,Da Ben Tang 
+1896,1896,天岳書院,Tian Yue Shu Yuan 
+1897,1897,太傳書院,Tai Chuan Shu Yuan 
+1898,1898,太元書院,Tai Yuan Shu Yuan 
+1899,1899,太常書院,Tai Chang Shu Yuan 
+1900,1900,夾漈書院,Jia Ji Shu Yuan 
+1901,1901,始置書院,Shi Zhi Shu Yuan 
+1902,1902,子思書院,Zi Si Shu Yuan 
+1903,1903,子男書院,Zi Nan Shu Yuan 
+1904,1904,孔山書院,Kong Shan Shu Yuan 
+1905,1905,孔林書院,Kong Lin Shu Yuan 
+1906,1906,孔齋書院,Kong Zhai Shu Yuan 
+1907,1907,孤山書院,Gu Shan Shu Yuan 
+1908,1908,孫氏書院,Sun Shi Shu Yuan 
+1909,1909,學殖書院,Xue Zhi Shu Yuan 
+1910,1910,安仁書院,An Ren Shu Yuan 
+1911,1911,安洲書院,An Zhou Shu Yuan 
+1912,1912,安田義塾,An Tian Yi Shu 
+1913,1913,安賢書院,An Xian Shu Yuan 
+1914,1914,宏文書院,Hong Wen Shu Yuan 
+1915,1915,宏齋書院,Hong Zhai Shu Yuan 
+1916,1916,宗聖書院,Zong Sheng Shu Yuan 
+1917,1917,定菴書院,Ding Yan Shu Yuan 
+1918,1918,寅賓書院,Yin Bin Shu Yuan 
+1919,1919,寒泉精舍,Han Quan Jing She 
+1920,1920,寶山書院,Bao Shan Shu Yuan 
+1921,1921,寶林書院,Bao Lin Shu Yuan 
+1922,1922,封龍書院,Feng Long Shu Yuan 
+1923,1923,尊拙書院,Zun Zhuo Shu Yuan 
+1924,1924,尊韓書院,Zun Han Shu Yuan 
+1925,1925,小山叢竹書院,Xiao Shan Cong Zhu Shu Yuan 
+1926,1926,少微書院,Shao Wei Shu Yuan 
+1927,1927,少陵書院,Shao Ling Shu Yuan 
+1928,1928,居善書院,Ju Shan Shu Yuan 
+1929,1929,履齋書院,Lv Zhai Shu Yuan 
+1930,1930,山堂書院,Shan Tang Shu Yuan 
+1931,1931,山松書院,Shan Song Shu Yuan 
+1932,1932,山谷書院,Shan Gu Shu Yuan 
+1933,1933,山陰書院,Shan Yin Shu Yuan 
+1934,1934,岐陽書院,Qi Yang Shu Yuan 
+1935,1935,岑山書院,Cen Shan Shu Yuan 
+1936,1936,岩峰書院,Yan Feng Shu Yuan 
+1937,1937,岳陽書院,Yue Yang Shu Yuan 
+1938,1938,峨峰書院,E Feng Shu Yuan 
+1939,1939,崇仁書院,Chong Ren Shu Yuan 
+1940,1940,崇寧書院,Chong Ning Shu Yuan 
+1941,1941,崇桂書院,Chong Gui Shu Yuan 
+1942,1942,崇正書院,Chong Zheng Shu Yuan 
+1943,1943,崧山書院,Song Shan Shu Yuan 
+1944,1944,嵩洛書院,Song Luo Shu Yuan 
+1945,1945,嵩陽書院,Song Yang Shu Yuan 
+1946,1946,嶅峰書院,Ao Feng Shu Yuan 
+1947,1947,巽峰書院,Xun Feng Shu Yuan 
+1948,1948,巽崖書院,Xun Ya Shu Yuan 
+1949,1949,帶湖書院,Dai Hu Shu Yuan 
+1950,1950,庵山書院,An Shan Shu Yuan 
+1951,1951,廌山書院,Zhi Shan Shu Yuan 
+1952,1952,廣德書院,Guang De Shu Yuan 
+1953,1953,延山書院,Yan Shan Shu Yuan 
+1954,1954,延平書院,Yan Ping Shu Yuan 
+1955,1955,弦歌書院,Xian Ge Shu Yuan 
+1956,1956,張九宗書院,Zhang Jiu Zong Shu Yuan 
+1957,1957,張栻書院,Zhang Shi Shu Yuan 
+1958,1958,張留書院,Zhang Liu Shu Yuan 
+1959,1959,彭侯書院,Peng Hou Shu Yuan 
+1960,1960,徐孺子書院,Xu Ru Zi Shu Yuan 
+1961,1961,徐氏書院,Xu Shi Shu Yuan 
+1962,1962,得全書院,De Quan Shu Yuan 
+1963,1963,御書院,Yu Shu Yuan 
+1964,1964,德城書院,De Cheng Shu Yuan 
+1965,1965,心極書院,Xin Ji Shu Yuan 
+1966,1966,心遠書院,Xin Yuan Shu Yuan 
+1967,1967,心齋書院,Xin Zhai Shu Yuan 
+1968,1968,志學精舍,Zhi Xue Jing She 
+1969,1969,志歐書院,Zhi Ou Shu Yuan 
+1970,1970,忠孝書院,Zhong Xiao Shu Yuan 
+1971,1971,忠定書院,Zhong Ding Shu Yuan 
+1972,1972,忠宣書院,Zhong Xuan Shu Yuan 
+1973,1973,思本堂,Si Ben Tang 
+1974,1974,思聖書院,Si Sheng Shu Yuan 
+1975,1975,思賢書院,Si Xian Shu Yuan 
+1976,1976,怡思書院,Yi Si Shu Yuan 
+1977,1977,性善書院,Xing Shan Shu Yuan 
+1978,1978,息齋書院,Xi Zhai Shu Yuan 
+1979,1979,悟陽精舍,Wu Yang Jing She 
+1980,1980,慈竹書院,Ci Zhu Shu Yuan 
+1981,1981,應天山精舍書院,Ying Tian Shan Jing She Shu Yuan 
+1982,1982,應天書院,Ying Tian Shu Yuan 
+1983,1983,應雷書院,Ying Lei Shu Yuan 
+1984,1984,懷玉書院,Huai Yu Shu Yuan 
+1985,1985,成岡書院,Cheng Gang Shu Yuan 
+1986,1986,承澤書院,Cheng Ze Shu Yuan 
+1987,1987,披雲堂,Pi Yun Tang 
+1988,1988,拙齋書院,Zhuo Zhai Shu Yuan 
+1989,1989,招賢書院,Zhao Xian Shu Yuan 
+1990,1990,採石書院,Cai Shi Shu Yuan 
+1991,1991,擢桂書院,Zhuo Gui Shu Yuan 
+1992,1992,敬一書院,Jing Yi Shu Yuan 
+1993,1993,敷山書院,Fu Shan Shu Yuan 
+1994,1994,文儒書院,Wen Ru Shu Yuan 
+1995,1995,文公書院,Wen Gong Shu Yuan 
+1996,1996,文宗書院,Wen Zong Shu Yuan 
+1997,1997,文定公書院,Wen Ding Gong Shu Yuan 
+1998,1998,文山書院,Wen Shan Shu Yuan 
+1999,1999,文峰書院,Wen Feng Shu Yuan 
+2000,2000,文忠書院,Wen Zhong Shu Yuan 
+2001,2001,文昌書院,Wen Chang Shu Yuan 
+2002,2002,文明書院,Wen Ming Shu Yuan 
+2003,2003,文林書院,Wen Lin Shu Yuan 
+2004,2004,文溪書院,Wen Xi Shu Yuan 
+2005,2005,文獻書院,Wen Xian Shu Yuan 
+2006,2006,文翁書院,Wen Weng Shu Yuan 
+2007,2007,文貞書院,Wen Zhen Shu Yuan 
+2008,2008,斛峰書院,Hu Feng Shu Yuan 
+2009,2009,斛峰精舍書院,Hu Feng Jing She Shu Yuan 
+2010,2010,新溪書院,Xin Xi Shu Yuan 
+2011,2011,新田書院,Xin Tian Shu Yuan 
+2012,2012,方塘書院,Fang Tang Shu Yuan 
+2013,2013,昂溪書院,Ang Xi Shu Yuan 
+2014,2014,明新堂,Ming Xin Tang 
+2015,2015,明誠書院,Ming Cheng Shu Yuan 
+2016,2016,明道南軒書院,Ming Dao Nan Xuan Shu Yuan 
+2017,2017,星巖書院,Xing Yan Shu Yuan 
+2018,2018,星溪書院,Xing Xi Shu Yuan 
+2019,2019,春江書院,Chun Jiang Shu Yuan 
+2020,2020,昭文書院,Zhao Wen Shu Yuan 
+2021,2021,晉山書院,Jin Shan Shu Yuan 
+2022,2022,晉階書院,Jin Jie Shu Yuan 
+2023,2023,晦庵書院,Hui An Shu Yuan 
+2024,2024,晦翁書院,Hui Weng Shu Yuan 
+2025,2025,景宣書院,Jing Xuan Shu Yuan 
+2026,2026,景溪書院,Jing Xi Shu Yuan 
+2027,2027,暖泉書院,Nuan Quan Shu Yuan 
+2028,2028,曲江書院,Qu Jiang Shu Yuan 
+2029,2029,書源書院,Shu Yuan Shu Yuan 
+2030,2030,曹公書院,Cao Gong Shu Yuan 
+2031,2031,曾子書院,Ceng Zi Shu Yuan 
+2032,2032,曾潭講堂,Ceng Tan Jiang Tang 
+2033,2033,曾若川義學,Ceng Ruo Chuan Yi Xue 
+2034,2034,會文書院,Hui Wen Shu Yuan 
+2035,2035,會邱書院,Hui Qiu Shu Yuan 
+2036,2036,會齋書院,Hui Zhai Shu Yuan 
+2037,2037,月林書院,Yue Lin Shu Yuan 
+2038,2038,月波書院,Yue Bo Shu Yuan 
+2039,2039,望洛書院,Wang Luo Shu Yuan 
+2040,2040,望高書院,Wang Gao Shu Yuan 
+2041,2041,本心書院,Ben Xin Shu Yuan 
+2042,2042,朱壩書院,Zhu Ba Shu Yuan 
+2043,2043,李源書院,Li Yuan Shu Yuan 
+2044,2044,李白書院,Li Bai Shu Yuan 
+2045,2045,李秀才書院,Li Xiu Cai Shu Yuan 
+2046,2046,杏隖書院,Xing Wu Shu Yuan 
+2047,2047,杜陵書院,Du Ling Shu Yuan 
+2048,2048,東山書院,Dong Shan Shu Yuan 
+2049,2049,東明書院,Dong Ming Shu Yuan 
+2050,2050,東林書院,Dong Lin Shu Yuan 
+2051,2051,東洲書院,Dong Zhou Shu Yuan 
+2052,2052,東湖書堂,Dong Hu Shu Tang 
+2053,2053,東湖精舍,Dong Hu Jing She 
+2054,2054,東臺書院,Dong Tai Shu Yuan 
+2055,2055,東萊書院,Dong Lai Shu Yuan 
+2056,2056,東觀書院,Dong Guan Shu Yuan 
+2057,2057,東軒書院,Dong Xuan Shu Yuan 
+2058,2058,東館書院,Dong Guan Shu Yuan 
+2059,2059,東齋書院,Dong Zhai Shu Yuan 
+2060,2060,松岡書室,Song Gang Shu Shi 
+2061,2061,松峰書院,Song Feng Shu Yuan 
+2062,2062,松明書院,Song Ming Shu Yuan 
+2063,2063,松溪書院,Song Xi Shu Yuan 
+2064,2064,松風書院,Song Feng Shu Yuan 
+2065,2065,枅櫚書院,Ji Lv Shu Yuan 
+2066,2066,林公書院,Lin Gong Shu Yuan 
+2067,2067,林泉書院,Lin Quan Shu Yuan 
+2068,2068,果山書院,Guo Shan Shu Yuan 
+2069,2069,柘山書院,Zhe Shan Shu Yuan 
+2070,2070,柳堂書院,Liu Tang Shu Yuan 
+2071,2071,柳山書院,Liu Shan Shu Yuan 
+2072,2072,柳湖書院,Liu Hu Shu Yuan 
+2073,2073,柳溝書院,Liu Gou Shu Yuan 
+2074,2074,柳溪書院,Liu Xi Shu Yuan 
+2075,2075,柳芳書院,Liu Fang Shu Yuan 
+2076,2076,柵頭書院,Zha Tou Shu Yuan 
+2077,2077,桂山書院,Gui Shan Shu Yuan 
+2078,2078,桂巖書院,Gui Yan Shu Yuan 
+2079,2079,桐原書院,Tong Yuan Shu Yuan 
+2080,2080,桐墩書院,Tong Dun Shu Yuan 
+2081,2081,桐岭書院,Tong Ling Shu Yuan 
+2082,2082,桐源書院,Tong Yuan Shu Yuan 
+2083,2083,梅溪書院,Mei Xi Shu Yuan 
+2084,2084,梅花書屋,Mei Hua Shu Wu 
+2085,2085,梅邊精舍,Mei Bian Jing She 
+2086,2086,梅隱書院,Mei Yin Shu Yuan 
+2087,2087,梅雪堂,Mei Xue Tang 
+2088,2088,梓翁書院,Zi Weng Shu Yuan 
+2089,2089,梧桐書院,Wu Tong Shu Yuan 
+2090,2090,極江書院,Ji Jiang Shu Yuan 
+2091,2091,槐堂書院,Huai Tang Shu Yuan 
+2092,2092,槐堂精舍,Huai Tang Jing She 
+2093,2093,槐溪書院,Huai Xi Shu Yuan 
+2094,2094,槐蔭精舍,Huai Yin Jing She 
+2095,2095,樂善書院,Le Shan Shu Yuan 
+2096,2096,樂群書院,Le Qun Shu Yuan 
+2097,2097,樂道書院,Le Dao Shu Yuan 
+2098,2098,樊川書院,Fan Chuan Shu Yuan 
+2099,2099,樓氏精舍,Lou Shi Jing She 
+2100,2100,横渠書院,Heng Qu Shu Yuan 
+2101,2101,橋南書院,Qiao Nan Shu Yuan 
+2102,2102,橫城書院,Heng Cheng Shu Yuan 
+2103,2103,橫渠書院,Heng Qu Shu Yuan 
+2104,2104,櫻桃書院,Ying Tao Shu Yuan 
+2105,2105,歐陽書院,Ou Yang Shu Yuan 
+2106,2106,正中堂,Zheng Zhong Tang 
+2107,2107,正學書院,Zheng Xue Shu Yuan 
+2108,2108,武彝講堂,Wu Yi Jiang Tang 
+2109,2109,武溪書院,Wu Xi Shu Yuan 
+2110,2110,武陟書院,Wu Zhi Shu Yuan 
+2111,2111,歸軒書院,Gui Xuan Shu Yuan 
+2112,2112,殊思書院,Shu Si Shu Yuan 
+2113,2113,毛公書院,Mao Gong Shu Yuan 
+2114,2114,水東書院,Shui Dong Shu Yuan 
+2115,2115,水雲書院,Shui Yun Shu Yuan 
+2116,2116,永成學舍,Yong Cheng Xue She 
+2117,2117,江南書院,Jiang Nan Shu Yuan 
+2118,2118,江氏書堂,Jiang Shi Shu Tang 
+2119,2119,江漢書院,Jiang Han Shu Yuan 
+2120,2120,江郎書院,Jiang Lang Shu Yuan 
+2121,2121,江陽書院,Jiang Yang Shu Yuan 
+2122,2122,汨羅書院,Mi Luo Shu Yuan 
+2123,2123,沂水書院,Yi Shui Shu Yuan 
+2124,2124,沂源書院,Yi Yuan Shu Yuan 
+2125,2125,河東書院,He Dong Shu Yuan 
+2126,2126,河洛書院,He Luo Shu Yuan 
+2127,2127,河源書院,He Yuan Shu Yuan 
+2128,2128,泰山書院,Tai Shan Shu Yuan 
+2129,2129,洙泗書院,Zhu Si Shu Yuan 
+2130,2130,洛西書院,Luo Xi Shu Yuan 
+2131,2131,洛陽書院,Luo Yang Shu Yuan 
+2132,2132,洪源書堂,Hong Yuan Shu Tang 
+2133,2133,浣溪書院,Huan Xi Shu Yuan 
+2134,2134,浮沚書院,Fu Zhi Shu Yuan 
+2135,2135,浮雲書院,Fu Yun Shu Yuan 
+2136,2136,浯州書院,Wu Zhou Shu Yuan 
+2137,2137,涑水書院,Su Shui Shu Yuan 
+2138,2138,涑陽書院,Su Yang Shu Yuan 
+2139,2139,涵暉書院,Han Hui Shu Yuan 
+2140,2140,涵暉谷書院,Han Hui Gu Shu Yuan 
+2141,2141,淝州書塾,Fei Zhou Shu Shu 
+2142,2142,淮山書院,Huai Shan Shu Yuan 
+2143,2143,深山書院,Shen Shan Shu Yuan 
+2144,2144,深柳書院,Shen Liu Shu Yuan 
+2145,2145,清江書院,Qing Jiang Shu Yuan 
+2146,2146,清源書院,Qing Yuan Shu Yuan 
+2147,2147,清溪書院,Qing Xi Shu Yuan 
+2148,2148,清灣書院,Qing Wan Shu Yuan 
+2149,2149,清烈書院,Qing Lie Shu Yuan 
+2150,2150,清節書院,Qing Jie Shu Yuan 
+2151,2151,清風書院,Qing Feng Shu Yuan 
+2152,2152,渭上書院,Wei Shang Shu Yuan 
+2153,2153,湖山書院,Hu Shan Shu Yuan 
+2154,2154,湖頭書院,Hu Tou Shu Yuan 
+2155,2155,湘江書院,Xiang Jiang Shu Yuan 
+2156,2156,湘西書院,Xiang Xi Shu Yuan 
+2157,2157,湛盧書院,Zhan Lu Shu Yuan 
+2158,2158,溪山書塾,Xi Shan Shu Shu 
+2159,2159,溪山書院,Xi Shan Shu Yuan 
+2160,2160,溪山第一書院,Xi Shan Di Yi Shu Yuan 
+2161,2161,溪東書院,Xi Dong Shu Yuan 
+2162,2162,溫公書院,Wen Gong Shu Yuan 
+2163,2163,溫陵書院,Wen Ling Shu Yuan 
+2164,2164,滄江書院,Cang Jiang Shu Yuan 
+2165,2165,滄溪書院,Cang Xi Shu Yuan 
+2166,2166,漁墅書院,Yu Shu Shu Yuan 
+2167,2167,漆氏書院,Qi Shi Shu Yuan 
+2168,2168,漢陽張公書院,Han Yang Zhang Gong Shu Yuan 
+2169,2169,漣溪書院,Lian Xi Shu Yuan 
+2170,2170,漣濱書院,Lian Bin Shu Yuan 
+2171,2171,潁谷書院,Ying Gu Shu Yuan 
+2172,2172,潭溪書院,Tan Xi Shu Yuan 
+2173,2173,澧陽書院,Li Yang Shu Yuan 
+2174,2174,澮濱書院,Hui Bin Shu Yuan 
+2175,2175,澹臺書院,Dan Tai Shu Yuan 
+2176,2176,濂山書院,Lian Shan Shu Yuan 
+2177,2177,濂泉書院,Lian Quan Shu Yuan 
+2178,2178,濂溪港書院,Lian Xi Gang Shu Yuan 
+2179,2179,瀛山書院,Ying Shan Shu Yuan 
+2180,2180,瀫東書院,Hu Dong Shu Yuan 
+2181,2181,熊氏書院,Xiong Shi Shu Yuan 
+2182,2182,燕南書院,Yan Nan Shu Yuan 
+2183,2183,燕居書院,Yan Ju Shu Yuan 
+2184,2184,牛山書院,Niu Shan Shu Yuan 
+2185,2185,狀元書院,Zhuang Yuan Shu Yuan 
+2186,2186,獨山書院,Du Shan Shu Yuan 
+2187,2187,獨峰書院,Du Feng Shu Yuan 
+2188,2188,玉峯書院,Yu Feng Shu Yuan 
+2189,2189,玉峰書院,Yu Feng Shu Yuan 
+2190,2190,玉嵒書院,Yu Yan Shu Yuan 
+2191,2191,玉巖書院,Yu Yan Shu Yuan 
+2192,2192,玉淵書院,Yu Yuan Shu Yuan 
+2193,2193,玉淵泉書院,Yu Yuan Quan Shu Yuan 
+2194,2194,玉溪書院,Yu Xi Shu Yuan 
+2195,2195,玉貞書院,Yu Zhen Shu Yuan 
+2196,2196,王俊義書院,Wang Jun Yi Shu Yuan 
+2197,2197,王氏書院,Wang Shi Shu Yuan 
+2198,2198,理源書院,Li Yuan Shu Yuan 
+2199,2199,琴江書院,Qin Jiang Shu Yuan 
+2200,2200,琴聲書院,Qin Sheng Shu Yuan 
+2201,2201,瑜山書院,Yu Shan Shu Yuan 
+2202,2202,瑞應書院,Rui Ying Shu Yuan 
+2203,2203,瑞樟書院,Rui Zhang Shu Yuan 
+2204,2204,瑞蓮精舍,Rui Lian Jing She 
+2205,2205,瑶台書院,Yao Tai Shu Yuan 
+2206,2206,璜溪書院,Huang Xi Shu Yuan 
+2207,2207,璠龍書院,Fan Long Shu Yuan 
+2208,2208,環峯書院,Huan Feng Shu Yuan 
+2209,2209,環溪書院,Huan Xi Shu Yuan 
+2210,2210,環綠書院,Huan Lv Shu Yuan 
+2211,2211,瓢泉書院,Piao Quan Shu Yuan 
+2212,2212,甘棠書院,Gan Tang Shu Yuan 
+2213,2213,申義書院,Shen Yi Shu Yuan 
+2214,2214,留張書院,Liu Zhang Shu Yuan 
+2215,2215,登瀛書院,Deng Ying Shu Yuan 
+2216,2216,登雲精舍,Deng Yun Jing She 
+2217,2217,白水書院,Bai Shui Shu Yuan 
+2218,2218,白羊書院,Bai Yang Shu Yuan 
+2219,2219,白雲書院,Bai Yun Shu Yuan 
+2220,2220,白鶴書院,Bai He Shu Yuan 
+2221,2221,白龍洞書院,Bai Long Dong Shu Yuan 
+2222,2222,皮氏書樓,Pi Shi Shu Lou 
+2223,2223,益津書院,Yi Jin Shu Yuan 
+2224,2224,盛家洲書院,Sheng Jia Zhou Shu Yuan 
+2225,2225,盤澗書院,Pan Jian Shu Yuan 
+2226,2226,盤窩書院,Pan Wo Shu Yuan 
+2227,2227,相山書院,Xiang Shan Shu Yuan 
+2228,2228,睢陽書院,Sui Yang Shu Yuan 
+2229,2229,知止書院,Zhi Zhi Shu Yuan 
+2230,2230,石井書院,Shi Jing Shu Yuan 
+2231,2231,石坡書院,Shi Po Shu Yuan 
+2232,2232,石塘書院,Shi Tang Shu Yuan 
+2233,2233,石壇精舍,Shi Tan Jing She 
+2234,2234,石屏書院,Shi Ping Shu Yuan 
+2235,2235,石岡書院,Shi Gang Shu Yuan 
+2236,2236,石峰書院,Shi Feng Shu Yuan 
+2237,2237,石峰精舍書院,Shi Feng Jing She Shu Yuan 
+2238,2238,石嶺山莊,Shi Ling Shan Zhuang 
+2239,2239,石月書院,Shi Yue Shu Yuan 
+2240,2240,石橋書院,Shi Qiao Shu Yuan 
+2241,2241,石湖書院,Shi Hu Shu Yuan 
+2242,2242,石溪書院,Shi Xi Shu Yuan 
+2243,2243,石潭精舍,Shi Tan Jing She 
+2244,2244,石澗書院,Shi Jian Shu Yuan 
+2245,2245,石麓書院,Shi Lu Shu Yuan 
+2246,2246,石鼓書堂,Shi Gu Shu Tang 
+2247,2247,碧梧精舍,Bi Wu Jing She 
+2248,2248,碧沚講院,Bi Zhi Jiang Yuan 
+2249,2249,碧泉書院,Bi Quan Shu Yuan 
+2250,2250,碧潤書院,Bi Run Shu Yuan 
+2251,2251,碧澗書院,Bi Jian Shu Yuan 
+2252,2252,碧落洞天書院,Bi Luo Dong Tian Shu Yuan 
+2253,2253,磻溪書院,Pan Xi Shu Yuan 
+2254,2254,社平書院,She Ping Shu Yuan 
+2255,2255,禺山書院,Yu Shan Shu Yuan 
+2256,2256,秀山書院,Xiu Shan Shu Yuan 
+2257,2257,秀峰書院,Xiu Feng Shu Yuan 
+2258,2258,秀溪書院,Xiu Xi Shu Yuan 
+2259,2259,科山書院,Ke Shan Shu Yuan 
+2260,2260,秘閣書院,Mi Ge Shu Yuan 
+2261,2261,程子書院,Cheng Zi Shu Yuan 
+2262,2262,稚峯書院,Zhi Feng Shu Yuan 
+2263,2263,穆清書院,Mu Qing Shu Yuan 
+2264,2264,竹園書院,Zhu Yuan Shu Yuan 
+2265,2265,竹林書院,Zhu Lin Shu Yuan 
+2266,2266,竹梧書院,Zhu Wu Shu Yuan 
+2267,2267,竹樓書院,Zhu Lou Shu Yuan 
+2268,2268,竹洲精舍,Zhu Zhou Jing She 
+2269,2269,竹洲講院,Zhu Zhou Jiang Yuan 
+2270,2270,竹溪書院,Zhu Xi Shu Yuan 
+2271,2271,竹莊書院,Zhu Zhuang Shu Yuan 
+2272,2272,笏山書院,Hu Shan Shu Yuan 
+2273,2273,笏洲書院,Hu Zhou Shu Yuan 
+2274,2274,笙竹書院,Sheng Zhu Shu Yuan 
+2275,2275,管陶書院,Guan Tao Shu Yuan 
+2276,2276,籯金書院,Ying Jin Shu Yuan 
+2277,2277,紅泉精舍,Hong Quan Jing She 
+2278,2278,紫微書院,Zi Wei Shu Yuan 
+2279,2279,紫溪書院,Zi Xi Shu Yuan 
+2280,2280,紫芝書院,Zi Zhi Shu Yuan 
+2281,2281,紹文書院,Shao Wen Shu Yuan 
+2282,2282,經歸書院,Jing Gui Shu Yuan 
+2283,2283,綠槐書院,Lv Huai Shu Yuan 
+2284,2284,綠野書院,Lv Ye Shu Yuan 
+2285,2285,繡溪書院,Xiu Xi Shu Yuan 
+2286,2286,羅浮書院,Luo Fu Shu Yuan 
+2287,2287,羊額書院,Yang E Shu Yuan 
+2288,2288,義學書院,Yi Xue Shu Yuan 
+2289,2289,義方書院,Yi Fang Shu Yuan 
+2290,2290,義泉書院,Yi Quan Shu Yuan 
+2291,2291,義齋書院,Yi Zhai Shu Yuan 
+2292,2292,翔龍書院,Xiang Long Shu Yuan 
+2293,2293,翠峰書院,Cui Feng Shu Yuan 
+2294,2294,翠巖書院,Cui Yan Shu Yuan 
+2295,2295,翠雲書院,Cui Yun Shu Yuan 
+2296,2296,翬陽書院,Hui Yang Shu Yuan 
+2297,2297,耒陽賓館,Lei Yang Bin Guan 
+2298,2298,聖澤書院,Sheng Ze Shu Yuan 
+2299,2299,聚奎書院,Ju Kui Shu Yuan 
+2300,2300,育英書院,Yu Ying Shu Yuan 
+2301,2301,胡公書院,Hu Gong Shu Yuan 
+2302,2302,胡安之書院,Hu An Zhi Shu Yuan 
+2303,2303,臨安書院,Lin An Shu Yuan 
+2304,2304,臨清書院,Lin Qing Shu Yuan 
+2305,2305,臨蒸精舍,Lin Zheng Jing She 
+2306,2306,臺山書院,Tai Shan Shu Yuan 
+2307,2307,臺川書院,Tai Chuan Shu Yuan 
+2308,2308,臼石書院,Jiu Shi Shu Yuan 
+2309,2309,興文書院,Xing Wen Shu Yuan 
+2310,2310,興賢書院,Xing Xian Shu Yuan 
+2311,2311,興魯書院,Xing Lu Shu Yuan 
+2312,2312,舊曲江書院,Jiu Qu Jiang Shu Yuan 
+2313,2313,芝山書院,Zhi Shan Shu Yuan 
+2314,2314,芝蘭書院,Zhi Lan Shu Yuan 
+2315,2315,芳潤堂,Fang Run Tang 
+2316,2316,芸閣書院,Yun Ge Shu Yuan 
+2317,2317,芹東書院,Qin Dong Shu Yuan 
+2318,2318,茂山書院,Mao Shan Shu Yuan 
+2319,2319,范公書院,Fan Gong Shu Yuan 
+2320,2320,荊山書院,Jing Shan Shu Yuan 
+2321,2321,荷溪書院,He Xi Shu Yuan 
+2322,2322,莊山書院,Zhuang Shan Shu Yuan 
+2323,2323,莪峰書院,E Feng Shu Yuan 
+2324,2324,菊坡書院,Ju Po Shu Yuan 
+2325,2325,華掌書院,Hua Zhang Shu Yuan 
+2326,2326,華林書院,Hua Lin Shu Yuan 
+2327,2327,菴山學舍,Yan Shan Xue She 
+2328,2328,萊山書院,Lai Shan Shu Yuan 
+2329,2329,萬全書院,Wan Quan Shu Yuan 
+2330,2330,萬坊書院,Wan Fang Shu Yuan 
+2331,2331,萬安野館,Wan An Ye Guan 
+2332,2332,萬松書院,Wan Song Shu Yuan 
+2333,2333,萬竹書院,Wan Zhu Shu Yuan 
+2334,2334,董子書院,Dong Zi Shu Yuan 
+2335,2335,蒨岡書院,Qian Gang Shu Yuan 
+2336,2336,蒲溪書院,Pu Xi Shu Yuan 
+2337,2337,蓮溪書院,Lian Xi Shu Yuan 
+2338,2338,蔡氏義學,Cai Shi Yi Xue 
+2339,2339,蕓住書院,Yun Zhu Shu Yuan 
+2340,2340,薌山書院,Xiang Shan Shu Yuan 
+2341,2341,薌林別墅,Xiang Lin Bie Shu 
+2342,2342,薌林書院別墅,Xiang Lin Shu Yuan Bie Shu 
+2343,2343,藍田書院,Lan Tian Shu Yuan 
+2344,2344,藝堂書院,Yi Tang Shu Yuan 
+2345,2345,蘆峰書院,Lu Feng Shu Yuan 
+2346,2346,蘿峰書院,Luo Feng Shu Yuan 
+2347,2347,虎丘書院,Hu Qiu Shu Yuan 
+2348,2348,虎溪書院,Hu Xi Shu Yuan 
+2349,2349,虛谷書院,Xu Gu Shu Yuan 
+2350,2350,虞山書院,Yu Shan Shu Yuan 
+2351,2351,虹橋書院,Hong Qiao Shu Yuan 
+2352,2352,蜕齋書院,Tui Zhai Shu Yuan 
+2353,2353,螢渚書院,Ying Zhu Shu Yuan 
+2354,2354,螺峯書院,Luo Feng Shu Yuan 
+2355,2355,蟠龍書院,Pan Long Shu Yuan 
+2356,2356,裕齋書院,Yu Zhai Shu Yuan 
+2357,2357,西園書院,Xi Yuan Shu Yuan 
+2358,2358,西山精舍,Xi Shan Jing She 
+2359,2359,西山精舍書院,Xi Shan Jing She Shu Yuan 
+2360,2360,西昌書院,Xi Chang Shu Yuan 
+2361,2361,西清書院,Xi Qing Shu Yuan 
+2362,2362,西溪書院,Xi Xi Shu Yuan 
+2363,2363,西疇書院,Xi Chou Shu Yuan 
+2364,2364,西裕書院,Xi Yu Shu Yuan 
+2365,2365,西邽書堂,Xi Gui Shu Tang 
+2366,2366,親民書院,Qin Min Shu Yuan 
+2367,2367,覺翁書院,Jiao Weng Shu Yuan 
+2368,2368,觀瀾書院,Guan Lan Shu Yuan 
+2369,2369,許芳書院,Hu Fang Shu Yuan 
+2370,2370,說齋精舍,Shuo Zhai Jing She 
+2371,2371,諫議書院,Jian Yi Shu Yuan 
+2372,2372,諸葛書院,Zhu Ge Shu Yuan 
+2373,2373,謝安書院,Xie An Shu Yuan 
+2374,2374,謝顯道書院,Xie Xian Dao Shu Yuan 
+2375,2375,豐湖書院,Feng Hu Shu Yuan 
+2376,2376,象山精舍書院,Xiang Shan Jing She Shu Yuan 
+2377,2377,豫章書院,Yu Zhang Shu Yuan 
+2378,2378,賴廷簡書院,Lai Ting Jian Shu Yuan 
+2379,2379,趙抃書院,Zhao Bian Shu Yuan 
+2380,2380,車渚書院,Che Zhu Shu Yuan 
+2381,2381,載山書院,Zai Shan Shu Yuan 
+2382,2382,辰岡書院,Chen Gang Shu Yuan 
+2383,2383,近思書院,Jin Si Shu Yuan 
+2384,2384,近聖書院,Jin Sheng Shu Yuan 
+2385,2385,通政書院,Tong Zheng Shu Yuan 
+2386,2386,連城書院,Lian Cheng Shu Yuan 
+2387,2387,進修書院,Jin Xiu Shu Yuan 
+2388,2388,逸平書院,Yi Ping Shu Yuan 
+2389,2389,遂初書院,Sui Chu Shu Yuan 
+2390,2390,道山書院,Dao Shan Shu Yuan 
+2391,2391,道溪書院,Dao Xi Shu Yuan 
+2392,2392,遷浦書院,Qian Pu Shu Yuan 
+2393,2393,遺安書院,Yi An Shu Yuan 
+2394,2394,遺直書院,Yi Zhi Shu Yuan 
+2395,2395,邱氏書院,Qiu Shi Shu Yuan 
+2396,2396,鄭公書院,Zheng Gong Shu Yuan 
+2397,2397,鄭玄書院,Zheng Xuan Shu Yuan 
+2398,2398,醽泉書院,Ling Quan Shu Yuan 
+2399,2399,重樂書院,Zhong Le Shu Yuan 
+2400,2400,野齋書院,Ye Zhai Shu Yuan 
+2401,2401,金峰書院,Jin Feng Shu Yuan 
+2402,2402,金水書院,Jin Shui Shu Yuan 
+2403,2403,金淵書院,Jin Yuan Shu Yuan 
+2404,2404,金鳳書院,Jin Feng Shu Yuan 
+2405,2405,釣深書院,Diao Shen Shu Yuan 
+2406,2406,釣鰲書院,Diao Ao Shu Yuan 
+2407,2407,鈐山書院,Qian Shan Shu Yuan 
+2408,2408,鈐岡書院,Qian Gang Shu Yuan 
+2409,2409,鈐陽書院,Qian Yang Shu Yuan 
+2410,2410,銀峰書院,Yin Feng Shu Yuan 
+2411,2411,銀峰義塾書院,Yin Feng Yi Shu Shu Yuan 
+2412,2412,錦江書院,Jin Jiang Shu Yuan 
+2413,2413,鐘山書院,Zhong Shan Shu Yuan 
+2414,2414,鐘鼎書院,Zhong Ding Shu Yuan 
+2415,2415,鑒湖書院,Jian Hu Shu Yuan 
+2416,2416,鑒溪書院,Jian Xi Shu Yuan 
+2417,2417,鑾塘書院,Luan Tang Shu Yuan 
+2418,2418,長春書院,Chang Chun Shu Yuan 
+2419,2419,閔子書院,Min Zi Shu Yuan 
+2420,2420,閩陽書院,Min Yang Shu Yuan 
+2421,2421,閬山書院,Lang Shan Shu Yuan 
+2422,2422,陳氏書院,Chen Shi Shu Yuan 
+2423,2423,陳省元書院,Chen Sheng Yuan Shu Yuan 
+2424,2424,陸宣書院,Lu Xuan Shu Yuan 
+2425,2425,陽坪書院,Yang Ping Shu Yuan 
+2426,2426,隆中書院,Long Zhong Shu Yuan 
+2427,2427,隆岡書院,Long Gang Shu Yuan 
+2428,2428,雄山書院,Xiong Shan Shu Yuan 
+2429,2429,集成書院,Ji Cheng Shu Yuan 
+2430,2430,集義書院,Ji Yi Shu Yuan 
+2431,2431,雙桂書院,Shuang Gui Shu Yuan 
+2432,2432,雙賢書院,Shuang Xian Shu Yuan 
+2433,2433,雙蹲書院,Shuang Dun Shu Yuan 
+2434,2434,雪厓書堂,Xue Ya Shu Tang 
+2435,2435,雪林書院,Xue Lin Shu Yuan 
+2436,2436,雲山書院,Yun Shan Shu Yuan 
+2437,2437,雲岩書院,Yun Yan Shu Yuan 
+2438,2438,雲峰書院,Yun Feng Shu Yuan 
+2439,2439,雲州書院,Yun Zhou Shu Yuan 
+2440,2440,雲根書院,Yun Gen Shu Yuan 
+2441,2441,雲津書院,Yun Jin Shu Yuan 
+2442,2442,雲臺書院,Yun Tai Shu Yuan 
+2443,2443,雲興書社,Yun Xing Shu She 
+2444,2444,雲裝書院,Yun Zhuang Shu Yuan 
+2445,2445,雲谷書院,Yun Gu Shu Yuan 
+2446,2446,零春書院,Ling Chun Shu Yuan 
+2447,2447,雷塘書院,Lei Tang Shu Yuan 
+2448,2448,雷湖書院,Lei Hu Shu Yuan 
+2449,2449,靈峰書院,Ling Feng Shu Yuan 
+2450,2450,靈溪書院,Ling Xi Shu Yuan 
+2451,2451,青城書院,Qing Cheng Shu Yuan 
+2452,2452,靖翁書院,Jing Weng Shu Yuan 
+2453,2453,靜山書院,Jing Shan Shu Yuan 
+2454,2454,靜明書塾,Jing Ming Shu Shu 
+2455,2455,靜暉書院,Jing Hui Shu Yuan 
+2456,2456,靜軒書院,Jing Xuan Shu Yuan 
+2457,2457,顏宗道書院,Yan Zong Dao Shu Yuan 
+2458,2458,顏魯公書院,Yan Lu Gong Shu Yuan 
+2459,2459,顧尚書院,Gu Shang Shu Yuan 
+2460,2460,風山別墅書院,Feng Shan Bie Shu Shu Yuan 
+2461,2461,風月書院,Feng Yue Shu Yuan 
+2462,2462,養正書院,Yang Zheng Shu Yuan 
+2463,2463,香溪書院,Xiang Xi Shu Yuan 
+2464,2464,香濱書院,Xiang Bin Shu Yuan 
+2465,2465,馬洲精舍,Ma Zhou Jing She 
+2466,2466,駕鶴書院,Jia He Shu Yuan 
+2467,2467,高塘書院,Gao Tang Shu Yuan 
+2468,2468,高氏書院,Gao Shi Shu Yuan 
+2469,2469,魁龍書院,Kui Long Shu Yuan 
+2470,2470,魏了翁書院,Wei Le Weng Shu Yuan 
+2471,2471,魏公書院,Wei Gong Shu Yuan 
+2472,2472,魏山書院,Wei Shan Shu Yuan 
+2473,2473,鰲峯書院,Ao Feng Shu Yuan 
+2474,2474,鳳岡書院,Feng Gang Shu Yuan 
+2475,2475,鳳風精舍,Feng Feng Jing She 
+2476,2476,鳴鳳書院,Ming Feng Shu Yuan 
+2477,2477,鳴鶴書院,Ming He Shu Yuan 
+2478,2478,鵝湖書院,E Hu Shu Yuan 
+2479,2479,鶴林精舍,He Lin Jing She 
+2480,2480,鷺洲書院,Lu Zhou Shu Yuan 
+2481,2481,鹿岡書院,Lu Gang Shu Yuan 
+2482,2482,鹿門書院,Lu Men Shu Yuan 
+2483,2483,黃中書院,Huang Zhong Shu Yuan 
+2484,2484,黃岡書院,Huang Gang Shu Yuan 
+2485,2485,黌堂書院,Hong Tang Shu Yuan 
+2486,2486,黌岡書院,Hong Gang Shu Yuan 
+2487,2487,默山書院,Mo Shan Shu Yuan 
+2488,2488,鼎齋書院,Ding Zhai Shu Yuan 
+2489,2489,鼓山書院,Gu Shan Shu Yuan 
+2490,2490,齋芳書院,Zhai Fang Shu Yuan 
+2491,2491,龍仁夫書院,Long Ren Fu Shu Yuan 
+2492,2492,龍光書院,Long Guang Shu Yuan 
+2493,2493,龍城書院,Long Cheng Shu Yuan 
+2494,2494,龍山山房,Long Shan Shan Fang 
+2495,2495,龍山書院,Long Shan Shu Yuan 
+2496,2496,龍崖書塾,Long Ya Shu Shu 
+2497,2497,龍州書院,Long Zhou Shu Yuan 
+2498,2498,龍泉書院,Long Quan Shu Yuan 
+2499,2499,龍洲書院,Long Zhou Shu Yuan 
+2500,2500,龍潭書院,Long Tan Shu Yuan 
+2501,2501,龍眠書屋,Long Mian Shu Wu 
+2502,2502,龍虎書院,Long Hu Shu Yuan 
+2503,2503,龍門書院,Long Men Shu Yuan 
+2504,2504,龔坊書院,Gong Fang Shu Yuan 
+2505,2505,月泉吟社,Yue Quan Yin She
+2506,2506,敦煌書院,dun huang shu yuan
+2507,2507,太廟,tai miao
+2508,2508,大節祠,da jie ci
+2509,2509,鍾山書院,Zhongshan Shuyuan
+2510,2510,尊經書院,Zunjing Shuyuan
+2511,2511,惜陰書院,Xiyin Shuyuan
+2512,2512,還古書院,Huangu Shuyuan
+2513,2513,朱文公祠,Zhu Wengong Ci
+2514,2514,文廟,wen miao
+2515,2515,鄉賢祠,xiang xian ci
+2516,2516,孝義祠,xiao yi ci
+2517,2517,大梁書院,da liang shu yuan
+2518,2518,壽樟寺,shou zhang si

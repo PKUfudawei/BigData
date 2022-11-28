@@ -1,0 +1,7 @@
+index,c_range_code,c_range,c_range_chn,c_approx,c_approx_chn
+0,-1,before,之前,-,小於
+1,0,during,之間,=,恰好
+2,1,after,之後,+,大於
+3,2,around,約,around,約
+4,300,960-1082,元豐五年前,,
+5,301,1082-1279,元豐五年後,,

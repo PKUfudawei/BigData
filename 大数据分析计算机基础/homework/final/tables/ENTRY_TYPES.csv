@@ -1,0 +1,34 @@
+index,c_entry_type,c_entry_type_desc,c_entry_type_desc_chn,c_entry_type_parent_id,c_entry_type_level,c_entry_type_sortorder
+0,00,Unknown Method of Entry,未知入仕途徑,0,0.0,1.0
+1,01,Palace,宮廷門,0,0.0,2.0
+2,02,Kinship,血親門,0,0.0,3.0
+3,03,Marriage,姻親門,0,0.0,4.0
+4,04,Examination,科舉門,0,0.0,5.0
+5,0401,Regular Examination,正常科舉,04,1.0,17.0
+6,040101,Jinshi Examinations,進士類,0401,2.0,
+7,040102,Juren Examinations,舉人科,0401,2.0,
+8,040103,Licenciate,生員,0401,,
+9,0402,Occasional Examination,非經常科舉,04,1.0,19.0
+10,0403,Decree Examination,制舉,04,1.0,21.0
+11,0404,Other Examination,其他舉,04,1.0,23.0
+12,05,Schools,學校門,0,0.0,6.0
+13,0501,Students in Schools,學生門,05,1.0,25.0
+14,0502,Imperial Academy Students,監生門,05,1.0,29.0
+15,0503,Tribute Students,貢生門,05,1.0,27.0
+16,06,Yin Privilege,恩蔭門,0,0.0,7.0
+17,07,Recruitment,徵召門,0,0.0,8.0
+18,08,Recommendation,薦舉門,0,0.0,9.0
+19,09,Military Merit,軍功補授門,0,0.0,10.0
+20,10,Specialized Talents,技進門,0,0.0,11.0
+21,11,Surrender,歸降門,0,0.0,12.0
+22,12,Purchase,進納門,0,0.0,13.0
+23,13,Decree of Special Grace,特旨門,0,0.0,14.0
+24,14,Religion,宗教門,0,0.0,15.0
+25,15,Failed Pursuit of Office,求官不得門,0,0.0,16.0
+26,16,Seven Specials,七色補官門,0,0.0,17.0
+27,"40101
+40101",Jinshi Examinations,進士類,401,2.0,
+28,40102,Juren Examinations,舉人科,401,2.0,
+29,40103,Licenciate,生員,401,,
+30,90,Other Method of Entry,其他入仕途徑,0,0.0,18.0
+31,99,Temp,Temp,0,0.0,19.0

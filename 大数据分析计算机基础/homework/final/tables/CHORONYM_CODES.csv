@@ -1,0 +1,173 @@
+index,c_choronym_code,c_choronym_desc,c_choronym_chn
+0,0,[Unknown],【未詳】
+1,1,Anding,安定
+2,2,Chenliu,陳留
+3,3,Qiantang,錢塘
+4,4,Qinghe,清河
+5,6,Fanyang,范陽
+6,7,Peiguo,沛國
+7,8,Henei,河內
+8,9,Hongnong,弘農
+9,10,Runan,汝南
+10,11,Xingyang,滎陽
+11,12,Gaoping,高平
+12,13,Lean,樂安
+13,14,Luguo,魯國
+14,15,Longxi,隴西
+15,16,Nanyang,南陽
+16,17,Pengcheng,彭城
+17,18,Song Taizu,宋太祖
+18,19,Song Taizong,宋太宗
+19,20,Taiyuan,太原
+20,21,Waiqi,外戚[刪]
+21,22,Weiwang,魏王
+22,23,Wujun,吳郡
+23,24,Wuxing,吳興
+24,25,Wugong,武功
+25,26,Wuyue,吳越
+26,27,Yuzhang,豫章
+27,28,Zhaojun,趙郡
+28,29,Jingzhao,京兆
+29,30,Fufeng,扶風
+30,31,Dongping,東平
+31,32,Dongyang,東陽
+32,33,Wuwei,武威
+33,34,Hedong,河東
+34,36,Zhongshan,中山
+35,37,Fengyi,馮翊
+36,38,Guangling,廣陵
+37,39,Langye,琅琊
+38,41,Pingyang,平陽
+39,42,Bohai,渤海
+40,43,Tianshui,天水
+41,45,Yingchuan,穎川
+42,46,Xihe,西河
+43,47,Qiaoguo,譙國
+44,48,Henan,河南
+45,49,Jijun,汲郡
+46,51,Hejian,河間
+47,53,Guangping,廣平
+48,55,Wuchang,武昌
+49,57,Puyang,濮陽
+50,58,Julu,鉅鹿
+51,59,Shiping,始平
+52,61,Jiyang,濟陽
+53,62,Shejun,歙郡
+54,63,Boling,博陵
+55,64,Donghai,東海
+56,65,Beidi,北地
+57,66,Gaoyang,高陽
+58,67,Nanlai Wu,南來吳
+59,69,Changsha,長沙
+60,70,Lanling,蘭陵
+61,71,Nan Lanling,南蘭陵
+62,72,Shixing,始興
+63,73,Beihai,北海
+64,74,Jiujiang,九江
+65,75,Weijun,魏郡
+66,76,Pingyuan,平原
+67,77,Beiping,北平
+68,78,Arab,大食
+69,79,Qizhou Man,溪州蠻
+70,80,Yanjun,燕郡
+71,81,Zhaojun (xizu),趙郡西
+72,82,Kuaiji,會稽
+73,83,Xinan,信安
+74,84,Jiangxia,江夏
+75,85,Guantao,館陶
+76,86,Shanggu,上谷
+77,87,Danyang,丹陽
+78,88,Yanguan,
+79,89,Li Ling Descent,李陵祖
+80,90,Shatuo Turks,沙托突
+81,91,Pengcheng Liu,彭城劉
+82,92,Changli,昌黎
+83,93,Jinchang,晉昌
+84,94,Kings of Shu,蜀王
+85,95,Yichun,宜春
+86,96,Hedong (beizu),河東北
+87,97,Hedong (nanzu),河東南
+88,98,Hedong (xizu),河東西
+89,99,Huayin,華陰
+90,100,Shujun,蜀郡
+91,101,Longxi (Danyang),龍西丹
+92,104,Fuchun,富春
+93,105,Xinyang,尋陽
+94,106,Guzang,姑臧
+95,108,Eunuch adoption,宦人後
+96,109,Zhongshan (Xinchang),中山
+97,110,Zhongshan(Jinggong),中山
+98,111,Zhongshan(Ludao),中山履
+99,112,Hanzhong,漢中
+100,113,Uighur aristocracy,雍古
+101,114,Yinchuan Tang(2),
+102,115,Nanhua (Caozhou),南華曹
+103,117,Shanjun,陝郡
+104,118,Yingzhou,
+105,119,Korean,高麗
+106,120,Vietnam,越南
+107,121,Huihui,回回
+108,122,Mongol Tribe,蒙古族
+109,123,Tangut,唐兀氏
+110,124,Toba,拓跋
+111,125,Asu,阿速氏
+112,126,Jurchen,女直
+113,127,Khitan Imperial Clan,契丹宗
+114,128,Ming Imperial Clan,明帝族
+115,129,Pingchang,平昌
+116,130,Former Wei Imperial,前魏帝
+117,131,Weiwu Uighur,畏吾兒
+118,132,Man,蠻
+119,133,European,西洋人
+120,134,Yangcheng,陽城
+121,135,Qinghe (nanzu),清河南
+122,136,Jiegu,羯古
+123,137,Lucheng,鹿城
+124,138,Zhaojun (dongzu),趙郡東
+125,139,Wuyi,武邑
+126,140,Liyang,溧陽
+127,141,Xianbei,鮮卑
+128,142,Xiping,西平
+129,143,Xijuan,西眷
+130,144,Xima,洗馬
+131,145,Dongjuan,東眷
+132,146,Zhongjuan,中眷
+133,147,Xiangyang,襄陽
+134,148,Changle,昌樂
+135,149,Qinghe (Qingzhou),清河青
+136,150,Daibei,代北
+137,151,Turk,突厥
+138,152,Liaodong,遼東
+139,153,Yangping,陽平
+140,154,Dunhuang,燉煌
+141,155,Wuwan,烏丸
+142,156,Xingyang (beizu),滎陽北
+143,157,Xingyang (nanzu),滎陽南
+144,158,Helu,合魯
+145,159,Qishui,漆水
+146,160,Shangdang,上黨
+147,161,Chenjun,陳郡
+148,162,Xinye,新野
+149,163,Neihuang,內黃
+150,164,Shunyang,順陽
+151,165,Jincheng,金城
+152,166,Zhangye,張掖
+153,167,Hexi,河西
+154,168,Yuelang,樂浪
+155,169,Yanmen,雁門
+156,170,Shangjun,上郡
+157,171,Annan,安南
+158,172,Chengyang,城陽
+159,173,Changle,長樂
+160,174,Lujiang,廬江
+161,175,Pinglu,平盧
+162,176,Dingxiang,定襄
+163,177,Qingyuan,清源
+164,178,Xin'an,新安
+165,179,Xianyang,咸陽
+166,180,Wuling,武陵
+167,181,Wucheng,武成
+168,182,Dunqiu,頓丘
+169,183,Jinyang,晉陽
+170,184,NanAn,南安
+171,185,Wenshui,文水

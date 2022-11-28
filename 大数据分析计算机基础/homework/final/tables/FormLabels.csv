@@ -1,0 +1,331 @@
+index,c_form,c_label_id,c_english,c_jianti,c_fanti
+0,BIO,1,Female,女?,女?
+1,BIO,2,Index Year,指數年,指數年
+2,BIO,3,Tribe,部、族,部、族
+3,BIO,4,現有紀錄姓名,現有紀錄姓名,現有紀錄姓名
+4,BIO,5,Full Name,Full Name,Full Name
+5,BIO,6,Pages,頁碼/條目,頁碼/條目
+6,BIO,7,Notes,注,注
+7,BIO,8,Born,生年,生年
+8,BIO,9,Y/M/D,年/月/日,年/月/日
+9,BIO,10,Intercalary,閏,閏
+10,BIO,11,Day (Stem/branch),日(干支),日(干支)
+11,BIO,12,Range,生年時限,生年時限
+12,BIO,13,Died,卒年,卒年
+13,BIO,14,Y/M/D,年/月/日,年/月/日
+14,BIO,15,Intercalary,閏,閏
+15,BIO,16,Day (Stem/branch),日(干支),日(干支)
+16,BIO,17,Range,卒年時限,卒年時限
+17,BIO,18,Age at Death,享年,享年
+18,BIO,19,Range,享年範圍,享年範圍
+19,BIO,20,Active from,在世始年,在世始年
+20,BIO,21,Year,年,年
+21,BIO,22,Notes:,在世始年注,在世始年注
+22,BIO,23,Active until,在世終年,在世終年
+23,BIO,24,Year,年,年
+24,BIO,25,Notes:,在世終年注,在世終年注
+25,BIO,26,(Opens a new form.),打開EVENT_CODES EnterForm將允許　 閣下輸入新的事件,打開EVENT_CODES EnterForm將允許　 閣下輸入新的事件
+26,BIO,27,Dynasty,朝代,朝代
+27,BIO,28,Search,查詢現有紀錄,查詢現有紀錄
+28,BIO,29,Choronym,郡望,郡望
+29,BIO,30,Ethnicity,種族,種族
+30,BIO,31,Source,出處,出處
+31,BIO,32,Reign Year,生年年號,生年年號
+32,BIO,33,Reign Year,卒年年號,卒年年號
+33,BIO,34,Reign Year,在世始年年號,在世始年年號
+34,BIO,35,Reign Year,在世終年年號,在世終年年號
+35,BIO,36,Delete Person,刪除整條記錄,刪除整條記錄
+36,BIO,37,Add New Person,添加新紀錄,添加新紀錄
+37,BIO,38,简体,English,简体
+38,BIO,39,繁體,繁體,English
+39,BIO,40,Help,輸入説明,輸入説明
+40,BIO,41,New Text,打開TEXTS EnterForm窗口,打開TEXTS EnterForm窗口
+41,BIO,42,New Event,輸入新的事件,輸入新的事件
+42,BIO,43,Birth/Death Years,生卒年,生卒年
+43,BIO,44,Addresses,地址,地址
+44,BIO,45,Alt. Names,別名,別名
+45,BIO,46,Writings,著述,著述
+46,BIO,47,Entry,入仕,入仕
+47,BIO,48,Events,事件,事件
+48,BIO,49,Kinship,親屬關係,親屬關係
+49,BIO,50,Associations,社會關係,社會關係
+50,BIO,51,Possessions,財產,財產
+51,BIO,52,Status,社會區分,社會區分
+52,BIO,53,Postings,職官,職官
+53,BROWSE,1,Search,查詢姓名,查詢姓名
+54,BROWSE,2,繁體,繁體,English
+55,BROWSE,3,简体,English,简体
+56,LAA,1,From,始年,始年
+57,LAA,2,To,终年,終年
+58,LAA,3,Type,类别,類别
+59,LAA,4,Select Association,选择社会关系,選擇社會關係
+60,LAA,5,Run Query,询查,詢查
+61,LAA,6,Save to GIS,保存于GIS,保存于GIS
+62,LAA,7,Save to Pajek,保存于Pakej,保存于Pajek
+63,LAA,8,繁體,繁體,English
+64,LAA,9,简体,English,简体
+65,LAA,10,Associations,社会关系,社會關係
+66,LAA,11,People,社会关系的人,社會關係的人
+67,LAAP,1,From,始年,始年
+68,LAAP,2,To,终年,終年
+69,LAAP,3,Allow 1-node Intermediaries,包括距离一人,包括距離一人
+70,LAAP,4,Allow 2-node Intermediaries,包括距离二人,包括距離二人
+71,LAAP,5,Include Node-node relations,包括所有的中間关系,包括所有的中間關係
+72,LAAP,6,Include Kinship relations,包括親属关系,包括親屬關係
+73,LAAP,7,Select First Person,选择第一人,選擇第一人
+74,LAAP,8,Select Second Person,选择第二人,選擇第二人
+75,LAAP,9,Run Query,询查,詢查
+76,LAAP,10,Save to GIS,保存于GIS,保存于GIS
+77,LAAP,11,Save to Pajek,保存于Pakej,保存于Pajek
+78,LAAP,12,繁體,繁體,English
+79,LAAP,13,简体,English,简体
+80,LAAP,14,Associations,社会关系,社會關係
+81,LAAP,15,People,社会关系的人,社會關係的人
+82,LAE,1,From,始年,始年
+83,LAE,2,To,终年,終年
+84,LAE,3,Type,类别,類别
+85,LAE,4,Pick Entry,选择入仕法,選擇入仕法
+86,LAE,5,Run Query,询查,詢查
+87,LAE,6,Save to GIS,保存于GIS,保存于GIS
+88,LAE,7,Save to GIS (GBK),保存于GIS (GBK),保存于GIS (GBK)
+89,LAE,8,繁體,繁體,English
+90,LAE,9,简体,English,简体
+91,LAE,10,Exit,退出,退出
+92,LAN,1,Select Person,选择人名,選擇人名
+93,LAN,2,All People,所有人物,所有人物
+94,LAN,3,Select Place,选择地名,選擇地名
+95,LAN,4,All Places,所有地名,所有地名
+96,LAN,5,From:,始年:,始年:
+97,LAN,6,To:,終年:,終年:
+98,LAN,7,Max Node Dist,距离限制,距離限制
+99,LAN,8,Max Loop #,循环数限制,循環數限制
+100,LAN,9,Include Kin,包括親属关系,包括親屬關係
+101,LAN,10,Include Non-Kin,包括社会关系,包括社會關係
+102,LAN,11,Include Male,包括男性,包括男性
+103,LAN,12,Include Female,包括女性,包括女性
+104,LAN,13,Run Query,查询,查詢
+105,LAN,14,繁體,繁體,English
+106,LAN,15,简体,English,简体
+107,LAN,16,Select Type of Relations,选择社会关系类別,選擇社會關係類別
+108,LAN,17,Social Network Relationship,社会网络,社會網絡
+109,LAN,18,People Participating in the Social Network,社会关系人,社會關係人
+110,LAN,19,Select All,所有类別,所有類別
+111,LAN,20,Friendship,朋友,朋友
+112,LAN,21,Family,家庭,家庭
+113,LAN,22,Religion,宗教,宗教
+114,LAN,23,Finance,财务,財務
+115,LAN,24,Medicine,医疗,醫療
+116,LAN,25,Military,軍事,軍事
+117,LAN,26,Supportive,軍事支持,軍事支持
+118,LAN,27,Oppositional,軍事对抗,軍事對抗
+119,LAN,28,Scholarship,学术,學術
+120,LAN,29,Teacher-Student,师生关系,師生關係
+121,LAN,30,Scholarly Affiliation,学术交往,學術交往
+122,LAN,31,Scholarly Topic,主题相近,主題相近
+123,LAN,32,Common Membership,学术成员,學術成員
+124,LAN,33,Academic Patronage,学术襄助,學術襄助
+125,LAN,34,Literary / Artistic Affiliations,文学艺术交往,文學藝術交往
+126,LAN,35,Intellectual Attacks,学术攻讦,學術攻訐
+127,LAN,36,Politics,政治,政治
+128,LAN,37,Equal Relations,官场平等关系,官場平等關係
+129,LAN,38,Subordinate Relation,官场下属关系,官場下屬關係
+130,LAN,39,Superior Relation,官场上司关系,官場上司關係
+131,LAN,40,Supportive Association,官场奥援,官場奧援
+132,LAN,41,Recommendation / Sponsorship,荐举保任,薦舉保任
+133,LAN,42,Opposition,政治对抗,政治對抗
+134,LAN,43,Writings,著述,著述
+135,LAN,44,Commemorative Texts,记咏,記詠
+136,LAN,45,Epitaphs,墓志类,墓誌類
+137,LAN,46,Prefaces / Postfaces,序跋,序跋
+138,LAN,47,Ritual Texts,礼仪,禮儀
+139,LAN,48,Biographical Texts,传记,傳記
+140,LAN,49,Explanatory Texts,论说,論說
+141,LAN,50,Admonitory Texts,箴铭类,箴銘類
+142,LAN,51,Correspondences,书札,書札
+143,LAN,52,Texts for Social Occasions,应酬著作,應酬著作
+144,LAN,53,Save to UCINet,保存: UCINet,保存: UCINet
+145,LAN,54,Save to Pajek,保存: Pajek,保存: Pajek
+146,LAN,55,Save to Pajek (漢字),保存: Pajek (漢字),保存: Pajek (漢字)
+147,LAN,56,Save to GIS,保存: GIS,保存: GIS
+148,LAN,57,Save to GUESS,保存: GUESS,保存: GUESS
+149,LAN,58,Exit,退出,退出
+150,LAN,59,"To save the data to the Clipboard, click on the square in the upper left corner to select all the records, then right-click on it and copy.",如果您希望将数据保存到剪贴板，请首先点击左上角的小方块以选中所有记录，然后单击鼠标右键，在弹出的快捷菜单栏中选择「复制」,如果您希望將數據保存到剪貼板，請首先點擊左上角的小方塊以選中所有記錄，然後單擊鼠標右鍵，在彈出的快捷菜單欄中選擇「複製」
+151,LAN,60,Looking at Social Networks,查看社会网络,查看社會網絡
+152,LAN,61,Import People,输入人名,輸入人名
+153,LAN,62,Import Places,输入地名,輸入地名
+154,LAN,63,Use Index Year,利用指數年,利用指數年
+155,LAN,64,Aggregated Social Network,綜合多種社会关系,總合多種社會關係
+156,LAO,1,From,始年,始年
+157,LAO,2,To,终年,終年
+158,LAO,3,Type,类别,類别
+159,LAO,4,Select Office,选择官名,選擇官名
+160,LAO,5,Run Query,询查,詢查
+161,LAO,6,Save Offices to GIS,保存官名于GIS,保存官名于GIS
+162,LAO,7,Save People to GIS,保存人名于GIS,保存人名于GIS
+163,LAO,8,繁體,繁體,English
+164,LAO,9,简体,English,简体
+165,LAO,10,Offices Postings,官名,官名
+166,LAO,11,People in Office,人名,人名
+167,SAN,1,Delete,刪除別名！,刪除別名！
+168,SAN,2,Add New,添加新別名,添加新別名
+169,SAN,3,Source,出處,出處
+170,SAN,4,Alt. Name,別名拼音,別名拼音
+171,SAN,5,別名漢字,別名漢字,別名漢字
+172,SAN,6,Name Type,別名類別代碼,別名類別代碼
+173,SAN,7,Pages,頁碼/條目,頁碼/條目
+174,SAN,8,Notes,注,注
+175,SEN,1,Entry,入仕法,入仕法
+176,SEN,2,Reign Year,入仕年號,入仕年號
+177,SEN,3,First Posting Note:,釋褐官注,釋褐官注
+178,SEN,4,Kinship,親屬關係類別,親屬關係類別
+179,SEN,5,Kin Name,親戚姓名,親戚姓名
+180,SEN,6,Association,社會關係類別,社會關係類別
+181,SEN,7,Associate,社會關係人,社會關係人
+182,SEN,8,Source,出處,出處
+183,SEN,9,Add New,添加新的入仕法,添加新的入仕法
+184,SEN,10,Delete,刪除入仕法！,刪除入仕法！
+185,SEN,11,Seq. no.,次序,次序
+186,SEN,12,Year,入仕年,入仕年
+187,SEN,13,Year,年,年
+188,SEN,14,Range,時限,時限
+189,SEN,15,"Used when entry was facilitated by another person (yin, recommendation, etc.)","Used when entry was facilitated by another person (yin, recommendation, etc.)","Used when entry was facilitated by another person (yin, recommendation, etc.)"
+190,SEN,16,Pages,頁碼/條目,頁碼/條目
+191,SEN,17,Notes,注,注
+192,SEN,18,Rank,科第名次,科第名次
+193,SEN,19,Age,入仕年齡,入仕年齡
+194,SF_ADDR,1,Sequence,遷徙次序,遷徙次序
+195,SF_ADDR,2,Maternal,娘家地址?,娘家地址?
+196,SF_ADDR,3,From:,始年,始年
+197,SF_ADDR,4,Range,始年時限,始年時限
+198,SF_ADDR,5,Y/M/D,年/月/日,年/月/日
+199,SF_ADDR,6,Intercalary,閏,閏
+200,SF_ADDR,7,Day (stem/branch),日(干支),日(干支)
+201,SF_ADDR,8,To:,終年,終年
+202,SF_ADDR,9,Range,終年時限,終年時限
+203,SF_ADDR,10,Y/M/D,年/月/日,年/月/日
+204,SF_ADDR,11,Intercalary,閏,閏
+205,SF_ADDR,12,Day (stem/branch),日(干支),日(干支)
+206,SF_ADDR,13,Pages,頁碼/條目,頁碼/條目
+207,SF_ADDR,14,Notes,注,注
+208,SF_ADDR,15,Type,地址類別,地址類別
+209,SF_ADDR,16,Place,地名,地名
+210,SF_ADDR,17,Reign year,始年年號,始年年號
+211,SF_ADDR,18,Reign year,終年年號,終年年號
+212,SF_ADDR,19,Source,出處,出處
+213,SF_ADDR,20,Delete,刪除地址！,刪除地址！
+214,SF_ADDR,21,Add New,添加新地址,添加新地址
+215,SF_ASD,1,Seq.,次序,次序
+216,SF_ASD,2,Year,社會關係年份,社會關係年份
+217,SF_ASD,3,Range,時限,時限
+218,SF_ASD,4,Y/M/D,年/月/日,年/月/日
+219,SF_ASD,5,Intercalary,閏,閏
+220,SF_ASD,6,Stem-branch,日(干支),日(干支)
+221,SF_ASD,7,Supplemental Data,補充信息,補充信息
+222,SF_ASD,8,Occasion,社會關係發生場合,社會關係發生場合
+223,SF_ASD,9,Title,作品標題,作品標題
+224,SF_ASD,10,Genre,作品的文學樣式,作品的文學樣式
+225,SF_ASD,11,Pages,頁碼/條目,頁碼/條目
+226,SF_ASD,12,Notes,注,注
+227,SF_ASD,13,Associate,社會關係人,社會關係人
+228,SF_ASD,14,Association,社會關係類別,社會關係類別
+229,SF_ASD,15,Kinship,親屬關係類別,親屬關係類別
+230,SF_ASD,16,Kin Name,親戚姓名,親戚姓名
+231,SF_ASD,17,Associate Kinship,社會關係人親屬關係類別,社會關係人親屬關係類別
+232,SF_ASD,18,Associate Kin Name,社會關係人親戚姓名,社會關係人親戚姓名
+233,SF_ASD,19,Association Place,社會關係發生地,社會關係發生地
+234,SF_ASD,20,Reign year,年號,年號
+235,SF_ASD,21,Topic,學術主題,學術主題
+236,SF_ASD,22,School,就讀學校,就讀學校
+237,SF_ASD,23,Source,出處,出處
+238,SF_ASD,24,Delete,刪除社會關係！,刪除社會關係！
+239,SF_ASD,25,Add New,添加新的社會關係,添加新的社會關係
+240,SF_ASD,26,Asserter of Assoc.,社會關係指證人姓名,社會關係指證人姓名
+241,SF_EVA,1,Place,地名,地名
+242,SF_EVA,2,Add New,添加新地名,添加新地名
+243,SF_EVA,3,Delete,刪除地名！,刪除地名！
+244,SF_EVD,1,Role in Event,傳主在該事件中的角色,傳主在該事件中的角色
+245,SF_EVD,2,Seq.,次序,次序
+246,SF_EVD,3,Year,年份,年份
+247,SF_EVD,4,Range,時限,時限
+248,SF_EVD,5,Y/M/D,年/月/日,年/月/日
+249,SF_EVD,6,Intercalary,閏,閏
+250,SF_EVD,7,Day (stem-branch),日(干支),日(干支)
+251,SF_EVD,8,Pages,頁碼/條目,頁碼/條目
+252,SF_EVD,9,Notes,注,注
+253,SF_EVD,10,Event,選取事件,選取事件
+254,SF_EVD,11,Reign year,年號,年號
+255,SF_EVD,12,Place,地名,地名
+256,SF_EVD,13,Source,出處,出處
+257,SF_EVD,14,Add New,添加新紀錄,添加新紀錄
+258,SF_EVD,15,Delete,刪除事件！,刪除事件！
+259,SF_KIN,1,Pages,頁碼/條目,頁碼/條目
+260,SF_KIN,2,Notes,注,注
+261,SF_KIN,3,Relation,親屬關係類別,親屬關係類別
+262,SF_KIN,4,Person,親戚姓名,親戚姓名
+263,SF_KIN,5,Source,出處,出處
+264,SF_KIN,6,Add New,添加新的親屬,添加新的親屬
+265,SF_KIN,7,Delete,刪除親屬！,刪除親屬！
+266,SF_PADDR,1,Place,地名,地名
+267,SF_PADDR,2,Add New,添加新的地名,添加新的地名
+268,SF_PADDR,3,Delete,刪除地名！,刪除地名！
+269,SF_POFF,1,Seq.,次序,次序
+270,SF_POFF,2,Category,職官類別,職官類別
+271,SF_POFF,3,Posting Type,除授類別,除授類別
+272,SF_POFF,4,From:,始年,始年
+273,SF_POFF,5,Range,時限,時限
+274,SF_POFF,6,Assumed Post?,是否赴任,是否赴任
+275,SF_POFF,7,Y/M/D,年/月/日,年/月/日
+276,SF_POFF,8,Intercalary,閏,閏
+277,SF_POFF,9,Stem-branch,干支,干支
+278,SF_POFF,10,To:,終年,終年
+279,SF_POFF,11,Range,時限,時限
+280,SF_POFF,12,Y/M/D,年/月/日,年/月/日
+281,SF_POFF,13,Intercalary,閏,閏
+282,SF_POFF,14,Stem-branch,干支,干支
+283,SF_POFF,15,Pages,頁碼/條目,頁碼/條目
+284,SF_POFF,16,Notes,注,注
+285,SF_POFF,17,Office,官名,官名
+286,SF_POFF,18,Reign year,始年年號,始年年號
+287,SF_POFF,19,Reign year,終年年號,終年年號
+288,SF_POFF,20,Source,出處,出處
+289,SF_POFF,21,Add New,添加新的官名,添加新的官名
+290,SF_POFF,22,Delete,刪除官名！,刪除官名！
+291,SF_POS,1,Seq.,次序,次序
+292,SF_POS,2,Record ID,紀錄號,紀錄號
+293,SF_POS,3,Activity,行為(擁有、捐出等),行為(擁有、捐出等)
+294,SF_POS,4,Possession (中文),財產,財產
+295,SF_POS,5,Possession,財產(英文),財產(英文)
+296,SF_POS,6,Quantity,數量,數量
+297,SF_POS,7,Units,度量單位,度量單位
+298,SF_POS,8,Year,年份,年份
+299,SF_POS,9,Year,年,年
+300,SF_POS,10,Range,時限,時限
+301,SF_POS,11,Pages,頁碼/條目,頁碼/條目
+302,SF_POS,12,Notes,注,注
+303,SF_POS,13,Reign year,年號,年號
+304,SF_POS,14,Place,地名,地名
+305,SF_POS,15,Source,出處,出處
+306,SF_POS,16,Delete,刪除財產！,刪除財產！
+307,SF_POS,17,Add New,添加新財產,添加新財產
+308,SF_POST,1,Add New,添加新官職,添加新官職
+309,SF_POST,2,Delete,刪除官職！,刪除官職！
+310,SF_STATUS,1,Sequence,次序,次序
+311,SF_STATUS,2,Began,始年,始年
+312,SF_STATUS,3,Year,年,年
+313,SF_STATUS,4,Range,始年時限,始年時限
+314,SF_STATUS,5,Ended,終年,終年
+315,SF_STATUS,6,Year,年,年
+316,SF_STATUS,7,Range,終年時限,終年時限
+317,SF_STATUS,8,Pages,頁碼/條目,頁碼/條目
+318,SF_STATUS,9,Notes,注,注
+319,SF_STATUS,10,Status,社會區分,社會區分
+320,SF_STATUS,11,Reign year,始年年號,始年年號
+321,SF_STATUS,12,Reign year,終年年號,終年年號
+322,SF_STATUS,13,Source,出處,出處
+323,SF_STATUS,14,Delete,刪除社會區分！,刪除社會區分！
+324,SF_STATUS,15,Add New,添加新的社會區分,添加新的社會區分
+325,SF_TEXTS,1,Title,著述名稱拼音,著述名稱拼音
+326,SF_TEXTS,2,Title (Chinese),著述名稱,著述名稱
+327,SF_TEXTS,3,Role,關係,關係
+328,SF_TEXTS,4,Text,著述,著述
+329,SF_TEXTS,5,Delete,刪除著述！,刪除著述！

@@ -1,0 +1,21 @@
+index,c_name_type_code,c_name_type_desc,c_name_type_desc_chn
+0,-1,[Missing Data],[Missing Data]
+1,0,Unknown,未詳
+2,3,"Alternate Personal Name, Previously Used Name",别名、曾用名
+3,4,Courtesy name,字
+4,5,"Studio name, Style name",室名、別號
+5,6,Posthumous Name,諡號
+6,7,Birth-order name,行第
+7,8,Enfeoffment Title,封爵
+8,9,Childhood Name,小名
+9,10,Childhood Courtesy Name,小字
+10,11,Bestowed name or title,賜號
+11,12,Secular surname,俗姓
+12,13,Secular personal name,俗名
+13,14,Temple name,廟號
+14,15,Honorific name,尊號
+15,16,Temple title,廟額
+16,17,Other transliterated name,其他譯名
+17,18,Original surname,本姓
+18,19,Dharma name,法號
+19,20,Daoist name,道號

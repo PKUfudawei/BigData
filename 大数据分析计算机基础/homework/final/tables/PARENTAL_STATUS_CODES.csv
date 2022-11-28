@@ -1,0 +1,8 @@
+index,c_parental_status_code,c_parental_status_desc,c_parental_status_desc_chn
+0,0,[Unknown],[未詳]
+1,1,Both parent alive,具慶;雙侍;重侍
+2,2,Both parent died,永感
+3,3,Only one is alive,偏侍
+4,4,Only the father is alive,嚴侍
+5,5,Only the mother is alive,慈侍
+6,6,Grand parent alive,重慶

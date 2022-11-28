@@ -1,0 +1,35 @@
+index,c_household_status_code,c_household_status_desc,c_household_status_desc_chn
+0,0,Unknown,未詳
+1,1,Civilian household,民戶
+2,2,Military household,軍戶
+3,3,Artisan household,匠戶
+4,4,Official household,官戶
+5,5,Cook household,竈戶
+6,6,Literary household,儒籍
+7,7,Lishi household,力士籍
+8,8,Yongshi household,勇士籍
+9,9,Prophet household,占籍
+10,10,Sijiaowei household,司校尉籍
+11,11,Si household,司籍
+12,12,Officer household,官藉
+13,13,Wealthy household,富戶籍
+14,14,Archer household,弓兵籍
+15,15,Suo household,所籍
+16,16,Qi household,旗籍
+17,17,Jiaowei household,校尉籍
+18,18,Jiao household,校籍
+19,19,Zao household,灶籍
+20,20,Shengyuan household,生員籍
+21,21,Jian household,監籍
+22,23,Zhan household,站籍
+23,24,Wei household,衛籍
+24,26,Doctor household,醫籍
+25,27,Zhenfusi household,鎮撫司籍
+26,28,Yinyang household,陰陽籍
+27,29,Machuan household,馬船籍
+28,30,Salt household,鹽籍
+29,31,Military and artisan household,軍匠籍
+30,32,Military and cook household,軍竈籍(軍鹽籍)
+31,33,Civilian and artisan household,民匠籍
+32,34,Military and civilian household,軍民籍
+33,35,Military and official household,軍官籍

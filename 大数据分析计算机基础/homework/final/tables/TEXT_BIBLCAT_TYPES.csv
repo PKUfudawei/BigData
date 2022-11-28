@@ -1,0 +1,52 @@
+index,c_text_cat_type_id,c_text_cat_type_desc,c_text_cat_type_desc_chn,c_text_cat_type_parent_id,c_text_cat_type_level,c_text_cat_type_sortorder
+0,01,Chinese Primary Texts,古書原文,,,
+1,01100,Genres (General),著作（籠統）,01,0.0,1.0
+2,0110000,Genres (General),著作（籠統）,01100,1.0,6.0
+3,01101,Classics,經部,01,0.0,2.0
+4,0110100,Classics (General),經部（籠統）,01101,1.0,7.0
+5,0110101,Book of Change,易類,01101,1.0,8.0
+6,0110102,Book of Documents,尚書類,01101,1.0,9.0
+7,0110103,Book of Odes,詩經類,01101,1.0,10.0
+8,0110104,Rites,禮類,01101,1.0,11.0
+9,0110105,Music,樂類,01101,1.0,12.0
+10,0110106,Spring and Autumn Annals,春秋類,01101,1.0,13.0
+11,0110107,Four Books,四書類,01101,1.0,14.0
+12,0110108,Classics of Filial Piety,孝經類,01101,1.0,15.0
+13,0110109,Er Ya,爾雅類,01101,1.0,16.0
+14,0110110,Philology,小學類,01101,1.0,17.0
+15,0110111,Apocrypha,讖緯類,01101,1.0,18.0
+16,01102,History,史部,01,0.0,3.0
+17,0110200,History (General),史部（籠統）,01102,1.0,19.0
+18,0110201,Official Histories,正史類,01102,1.0,20.0
+19,0110202,Unofficial Histories,別史類,01102,1.0,21.0
+20,0110203,Chronicles,編年類,01102,1.0,22.0
+21,0110204,Chronologies of Events,紀事本末類,01102,1.0,23.0
+22,0110205,Historical Miscellanies,雜史類,01102,1.0,24.0
+23,0110206,History of Local Regimes,載記類,01102,1.0,25.0
+24,0110207,Tables of Hisory,史表類,01102,1.0,26.0
+25,0110208,Abridgements of History,史鈔類,01102,1.0,27.0
+26,0110209,Criticism of History,史評類,01102,1.0,28.0
+27,0110210,Biographies,傳記類,01102,1.0,29.0
+28,0110211,State Documents,政書類,01102,1.0,30.0
+29,0110212,Seasons,時令類,01102,1.0,31.0
+30,0110213,Geography,地理類,01102,1.0,32.0
+31,0110214,Catalogues,目錄類,01102,1.0,33.0
+32,0110215,Stele Inscriptions,金石類,01102,1.0,34.0
+33,01103,Master,子部,01,0.0,4.0
+34,0110300,Masters (General),子部（籠統）,01103,1.0,35.0
+35,0110301,Masters in Zhou and Qin Dynasties,周秦諸子類,01103,1.0,36.0
+36,0110302,Confucianism,儒學類,01103,1.0,37.0
+37,0110303,Military Books,兵書類,01103,1.0,38.0
+38,0110304,Agricultural Books,農書類,01103,1.0,39.0
+39,0110305,Craftsmanship,工藝類,01103,1.0,40.0
+40,0110306,Medicine,醫學類,01103,1.0,41.0
+41,0110307,Astronomy,天文算法類,01103,1.0,42.0
+42,0110308,Arts of Divination,術數類,01103,1.0,43.0
+43,0110309,Arts,藝術類,01103,1.0,44.0
+44,0110310,Miscellaneous Treatises,雜學類,01103,1.0,45.0
+45,0110311,Precedents,典故類,01103,1.0,46.0
+46,0110312,Anecdotes,小說類,01103,1.0,47.0
+47,0110313,Religion,宗教類,01103,1.0,48.0
+48,0110314,Collections,叢書類,01103,1.0,49.0
+49,01104,Collections,集部,01,0.0,5.0
+50,0110400,Collections (General),集部（籠統）,01104,1.0,50.0

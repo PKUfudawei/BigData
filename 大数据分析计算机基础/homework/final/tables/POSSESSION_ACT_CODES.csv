@@ -1,0 +1,5 @@
+index,c_possession_act_code,c_possession_act_desc,c_possession_act_desc_chn
+0,0,unknown,未詳
+1,1,possess,擁有
+2,2,purchase,購買
+3,3,contribute,捐出

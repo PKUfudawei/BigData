@@ -1,0 +1,11 @@
+index,c_status_type_code,c_status_type_desc,c_status_type_chn,c_status_type_parent_code
+0,00,[Unknown],[未詳],
+1,01,Occupation,事業,
+2,02,Scholarship,學術,
+3,0201,Neo-Confucian,理學,02
+4,03,Military Distinction,武功,
+5,04,Imperial Clan,宗社,
+6,05,Artistic Distinction,藝術,
+7,06,Religious Distinction,宗教,
+8,07,Life Events,時事,
+9,08,Commoner Activity,布衣事,

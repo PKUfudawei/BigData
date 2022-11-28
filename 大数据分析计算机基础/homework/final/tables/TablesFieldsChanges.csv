@@ -1,0 +1,370 @@
+index,TableName,FieldName,Change,ChangeDate,ChangeNotes
+0,ADDR_BELONGS_DATA,All,new table,2011/07/24,not new to TTS
+1,ADDR_BELONGS_DATA,c_addr_cbd,added,2011/07/24,new table
+2,ADDR_BELONGS_DATA,c_addr_id,added,2011/07/24,new table
+3,ADDR_BELONGS_DATA,c_belongs_to,added,2011/07/24,new table
+4,ADDR_BELONGS_DATA,c_first_year,added,2011/07/24,new table
+5,ADDR_BELONGS_DATA,c_last_year,added,2011/07/24,new table
+6,ADDR_BELONGS_DATA,c_notes,added,2011/07/24,new table
+7,ADDR_BELONGS_DATA,c_pages,added,2011/07/24,new table
+8,ADDR_BELONGS_DATA,c_source,added,2011/07/24,new table
+9,ADDR_CODES,All,new table to list,2011/07/24,not new to TTS
+10,ADDR_CODES,c_addr_cbd,added,2011/07/24,new table
+11,ADDR_CODES,c_addr_id,added,2011/07/24,new table
+12,ADDR_CODES,c_admin_status,added,2011/07/24,new table
+13,ADDR_CODES,c_admin_type,added,2011/07/24,new table
+14,ADDR_CODES,c_firstyear,added,2011/07/24,new table
+15,ADDR_CODES,c_lastyear,added,2011/07/24,new table
+16,ADDR_CODES,c_name,added,2011/07/24,new table
+17,ADDR_CODES,c_name_chn,added,2011/07/24,new table
+18,ADDR_CODES,CHGIS_Beg_Yr,added,2011/07/24,new table
+19,ADDR_CODES,CHGIS_End_Yr,added,2011/07/24,new table
+20,ADDR_CODES,CHGIS_PT_ID,added,2011/07/24,new table
+21,ADDR_CODES,x_coord,added,2011/07/24,new table
+22,ADDR_CODES,y_coord,added,2011/07/24,new table
+23,ADDR_XY,All,added,2011/08/18,new table
+24,ADDR_XY,c_addr_id,new table,2011/08/18,
+25,ADDR_XY,x_coord,added,2011/08/18,new table
+26,ADDR_XY,y_coord,added,2011/08/18,new table
+27,ALTNAME_CODES,c_name_type_code,table renamed,2011/07/03,old name:  NAME_TYPES
+28,ALTNAME_CODES,c_name_type_desc,table renamed,2011/07/03,old name:  NAME_TYPES
+29,ALTNAME_CODES,c_name_type_desc_chn,table renamed,2011/07/03,old name:  NAME_TYPES
+30,ALTNAME_DATA,c_altname_type,deleted,2011/07/03,redundant
+31,ALTNAME_DATA,c_altname_type_chn,deleted,2011/07/03,redundant
+32,ALTNAME_DATA,ID,deleted,2011/07/03,mystery field
+33,APPOINTMENT_TYPE_CODES,c_appt_type_desc_alt,added,2018/5/23,
+34,APPOINTMENT_TYPE_CODES,c_appt_type_desc_chn_alt,added,2018/5/23,
+35,APPT_TYPE_CODES,c_appt_type_code,long -> integer,2015/08/12,
+36,ASSOC_CODE_TYPE_REL,All,new table,2011/09/09,
+37,ASSOC_CODE_TYPE_REL,c_assoc_code,added,2011/09/09,new table
+38,ASSOC_CODE_TYPE_REL,c_assoc_type_id,added,2011/09/09,new table
+39,ASSOC_DATA,c_assoc_code_HD,deleted,2011/06/14,legacy Hartwell data
+40,ASSOC_DATA,c_assoc_kin_code,long -> integer,2015/08/10,
+41,ASSOC_DATA,c_autogen_fr_code,deleted,2011/09/05,obsolete
+42,ASSOC_DATA,c_autogen_fr_id,deleted,2011/09/05,obsolete
+43,ASSOC_DATA,c_autogen_fr_memo,deleted,2011/09/05,obsolete
+44,ASSOC_DATA,c_autogen_fr_notes,deleted,2011/09/05,obsolete
+45,ASSOC_DATA,c_AutoID,deleted,2011/09/05,obsolete
+46,ASSOC_DATA,c_inst_name_code,added,2011/06/16,
+47,ASSOC_DATA,c_kin_code,long -> integer,2015/08/10,
+48,ASSOC_DATA,c_school_code,renamed,2011/06/16,c_inst_code
+49,ASSOC_TYPES,All,new table,2011/09/09,
+50,ASSOC_TYPES,c_assoc_type_attr,added,2011/09/09,new table
+51,ASSOC_TYPES,c_assoc_type_attr,deleted,2012/11/11,not used
+52,ASSOC_TYPES,c_assoc_type_attr_chn,added,2011/09/09,new table
+53,ASSOC_TYPES,c_assoc_type_attr_chn,deleted,2012/11/11,not used
+54,ASSOC_TYPES,c_assoc_type_desc,added,2011/09/09,new table
+55,ASSOC_TYPES,c_assoc_type_desc_chn,added,2011/09/09,new table
+56,ASSOC_TYPES,c_assoc_type_id,added,2011/09/09,new table
+57,ASSOC_TYPES,c_assoc_type_level,added,2011/09/09,new table
+58,ASSOC_TYPES,c_assoc_type_parent_id,added,2011/09/09,new table
+59,ASSOC_TYPES,c_assoc_type_short_desc,added,2011/09/09,new table
+60,ASSOC_TYPES,c_assoc_type_sortorder,added,2011/09/09,new table
+61,ASSUME_OFFICE_CODES,c_assume_office_code,long -> integer,2015/08/12,
+62,BARE_AUTHORS,All,table renamed,2011/06/14,table renamed TEXT_DATA
+63,BIOG_INST_DATA,c_inst_name_code,long -> integer,2015/08/09,
+64,BIOG_MAIN,c_birthyear,long -> integer,2015/08/07,
+65,BIOG_MAIN,c_by_day,long -> integer,2015/08/07,
+66,BIOG_MAIN,c_by_day_gz,long -> integer,2015/08/07,
+67,BIOG_MAIN,c_by_month,long -> integer,2015/08/07,
+68,BIOG_MAIN,c_by_nh_code,long -> integer,2015/08/07,
+69,BIOG_MAIN,c_by_nh_year,long -> integer,2015/08/07,
+70,BIOG_MAIN,c_by_range,long -> integer,2015/08/07,
+71,BIOG_MAIN,c_death_age,long -> integer,2015/08/07,
+72,BIOG_MAIN,c_death_age_approx,long -> integer,2015/08/07,
+73,BIOG_MAIN,c_death_age_approx,renamed,2015/08/09,c_death_age_range
+74,BIOG_MAIN,c_deathyear,long -> integer,2015/08/07,
+75,BIOG_MAIN,c_dy,long -> integer,2015/08/07,
+76,BIOG_MAIN,c_dy_day,long -> integer,2015/08/07,
+77,BIOG_MAIN,c_dy_day_gz,long -> integer,2015/08/07,
+78,BIOG_MAIN,c_dy_month,long -> integer,2015/08/07,
+79,BIOG_MAIN,c_dy_nh_code,long -> integer,2015/08/07,
+80,BIOG_MAIN,c_dy_nh_year,long -> integer,2015/08/07,
+81,BIOG_MAIN,c_dy_range,long -> integer,2015/08/07,
+82,BIOG_MAIN,c_fl_earliest_year,long -> integer,2015/08/07,
+83,BIOG_MAIN,c_fl_ey_nh_code,long -> integer,2015/08/07,
+84,BIOG_MAIN,c_fl_ey_nh_year,long -> integer,2015/08/07,
+85,BIOG_MAIN,c_fl_latest_year,long -> integer,2015/08/07,
+86,BIOG_MAIN,c_fl_ly_nh_code,long -> integer,2015/08/07,
+87,BIOG_MAIN,c_fl_ly_nh_year,long -> integer,2015/08/07,
+88,BIOG_MAIN,c_household_status_code,added,2013/07/10,
+89,BIOG_MAIN,c_jia,deleted,2011/08/17,
+90,BIOG_MAIN,c_pages,deleted,2014/04/26,data moved to BIOG_SOURCE_DATA
+91,BIOG_MAIN,c_source,deleted,2014/04/26,data moved to BIOG_SOURCE_DATA
+92,BIOG_MAIN,c_surname_code,deleted,2011/08/17,
+93,BIOG_MAIN,c_zu,deleted,2011/08/17,
+94,COUNTRY_CODES,c_country_code_hd,delete,2011/09/11,not used
+95,DATABASE_LINK_CODES,c_db_contact_person,added,2011/07/07,new table
+96,DATABASE_LINK_CODES,c_db_date_of_origin,added,2011/07/07,new table
+97,DATABASE_LINK_CODES,c_db_id,added,2011/07/07,new table
+98,DATABASE_LINK_CODES,c_db_institution,added,2011/07/07,new table
+99,DATABASE_LINK_CODES,c_db_institution_trans_chn,added,2011/07/07,new table
+100,DATABASE_LINK_CODES,c_db_institution_trans_eng,added,2011/07/07,new table
+101,DATABASE_LINK_CODES,c_db_name,added,2011/07/07,new table
+102,DATABASE_LINK_CODES,c_db_name_trans_chn,added,2011/07/07,new table
+103,DATABASE_LINK_CODES,c_db_name_trans_eng,added,2011/07/07,new table
+104,DATABASE_LINK_CODES,c_db_notes,added,2011/07/07,new table
+105,DATABASE_LINK_CODES,c_db_URL,added,2011/07/07,new table
+106,DATABASE_LINK_CODES,c_db_URL_first_string,added,2011/07/07,new table
+107,DATABASE_LINK_CODES,c_db_URL_second_string,added,2011/07/07,new table
+108,DATABASE_LINK_DATA,c_db_id,added,2011/07/07,new table
+109,DATABASE_LINK_DATA,c_db_sys_id,added,2011/07/07,new table
+110,DATABASE_LINK_DATA,c_person_id,added,2011/07/07,new table
+111,ENTRY_CODE_TYPE_REL,c_entry_code,long -> integer,2015/08/09,
+112,entry_code_type_rel,code_id,added,2011/07/02,new table
+113,entry_code_type_rel,type_id,added,2011/07/02,new table
+114,entry_codes,assoc,deleted,2011/07/01,restructured
+115,ENTRY_CODES,c_entry_code,long -> integer,2015/08/09,
+116,entry_codes,c_entry_desc_hartwell,deleted,2011/07/01,legacy
+117,ENTRY_CODES,c_entry_weight,deleted,2011/09/06,not used
+118,ENTRY_CODES,c_sortorder,deleted,2011/09/06,not used
+119,entry_codes,category,deleted,2011/07/01,restructured
+120,entry_codes,comments,deleted,2011/07/01,restructured
+121,entry_codes,kin,deleted,2011/07/01,restructured
+122,entry_codes,rank,deleted,2011/07/01,restructured
+123,entry_codes,subtype1,deleted,2011/07/01,restructured
+124,entry_codes,subtype2,deleted,2011/07/01,restructured
+125,entry_codes,type1,deleted,2011/07/01,restructured
+126,entry_codes,type2,deleted,2011/07/01,restructured
+127,ENTRY_DATA,c_entry_code,long -> integer,2015/08/09,
+128,ENTRY_DATA,c_entry_code_hd,deleted,2011/09/05,obsolete
+129,ENTRY_DATA,c_inst_code,integer -> long,2015/08/09,
+130,ENTRY_DATA,c_inst_name_code,long -> integer,2015/08/09,
+131,ENTRY_DATA,c_parental_status_code,added,2013/07/10,
+132,ETHNICITY_CODES,All,table renamed,2011/11/17,renamed ETHNICITY_TRIBE_CODES
+133,ETHNICITY_CODES,c_ethnicity_alt,deleted,2011/11/17,
+134,ETHNICITY_CODES,c_ethnicity_desc,deleted,2011/11/17,
+135,ETHNICITY_CODES,c_ethnicity_desc_chn,deleted,2011/11/17,
+136,ETHNICITY_CODES,c_pick_sorting,deleted,2011/11/17,
+137,ETHNICITY_TRIBE_CODES,c_altname_code,added,2011/11/17,
+138,ETHNICITY_TRIBE_CODES,c_ethno_legal_cat,added,2011/11/17,
+139,ETHNICITY_TRIBE_CODES,c_group_code,added,2011/11/17,
+140,ETHNICITY_TRIBE_CODES,c_name,added,2011/11/17,
+141,ETHNICITY_TRIBE_CODES,c_name_chn,added,2011/11/17,
+142,ETHNICITY_TRIBE_CODES,c_romanized,added,2011/11/17,
+143,ETHNICITY_TRIBE_CODES,c_subgroup_code,added,2011/11/17,
+144,EVENT_ADDR,c_day,long -> integer,2015/08/07,
+145,EVENT_ADDR,c_month,long -> integer,2015/08/07,
+146,EVENT_CODES,c_addr_id,added,2011/07/02,not sure who added or when
+147,EVENT_CODES,c_dy,long -> integer,2015/08/08,
+148,EVENT_CODES,c_fy_month,long -> integer,2015/08/08,
+149,EVENT_CODES,c_fy_nh_code,long -> integer,2015/08/08,
+150,EVENT_CODES,c_fy_nh_year,long -> integer,2015/08/08,
+151,EVENT_CODES,c_fy_range,long -> integer,2015/08/08,
+152,EVENT_CODES,c_fy_yr,long -> integer,2015/08/08,
+153,EVENT_CODES,c_ly_month,long -> integer,2015/08/08,
+154,EVENT_CODES,c_ly_nh_code,long -> integer,2015/08/08,
+155,EVENT_CODES,c_ly_nh_year,long -> integer,2015/08/08,
+156,EVENT_CODES,c_ly_range,long -> integer,2015/08/08,
+157,EVENT_CODES,c_ly_yr,long -> integer,2015/08/08,
+158,EVENTS_ADDR,c_day_ganzhi,long -> integer,2015/08/08,
+159,EVENTS_DATA,c_day,long -> integer,2015/08/07,
+160,EVENTS_DATA,c_day_ganzhi,long -> integer,2015/08/08,
+161,EVENTS_DATA,c_month,long -> integer,2015/08/07,
+162,EXTANT_CODES,c_extant_code_hd,deleted,2011/09/12,replaced
+163,FIX_ALTNAMES,All,table renamed,2011/07/03,table renamed ALTNAME_DATA
+164,GANZHI,c_ganzhi_code,long -> integer,2015/08/08,
+165,GENRE_CODES,All,table renamed,2011/08/25,table renamed TEXT_BIBLCAT_CODES
+166,HOUSEHOLD_STATUS_CODES,All,new table,2013/07/10,new table
+167,HOUSEHOLD_STATUS_CODES,c_household_status_code,added,2013/07/10,new table
+168,HOUSEHOLD_STATUS_CODES,c_household_status_desc,added,2013/07/10,new table
+169,HOUSEHOLD_STATUS_CODES,c_household_status_desc_chn,added,2013/07/10,new table
+170,KIN_DATA,c_autogen_fr_code,deleted,2011/08/24,Chen Song tracking information
+171,KIN_DATA,c_autogen_fr_id,deleted,2011/08/24,Chen Song tracking information
+172,KIN_DATA,c_autogen_memo,deleted,2011/08/24,Chen Song tracking information
+173,KIN_DATA,c_AutoID,deleted,2011/08/24,Chen Song tracking information
+174,KIN_DATA,c_kin_class,deleted,2011/08/24,"old Hartwell field, unused"
+175,KIN_DATA,c_kin_gen,deleted,2011/08/24,"old Hartwell field, unused"
+176,KIN_DATA,c_kin_rel,deleted,2011/08/24,violates normalization
+177,KIN_DATA,c_kincode,long -> integer,2015/08/10,
+178,KIN_DATA,c_notes_hd,deleted,2011/08/24,"old Hartwell field, unused"
+179,KINSHIP_CODES,c_colstep,added,2011/07/12,new metric
+180,KINSHIP_CODES,c_dwnstep,added,2011/07/12,new metric
+181,KINSHIP_CODES,c_kincode,long -> integer,2015/08/10,
+182,KINSHIP_CODES,c_kinpair1,long -> integer,2015/08/10,
+183,KINSHIP_CODES,c_kinpair2,long -> integer,2015/08/10,
+184,KINSHIP_CODES,c_kinrel_hd_original,deleted,2011/08/24,old Hartwell information (archived)
+185,KINSHIP_CODES,c_marstep,added,2011/07/12,new metric
+186,KINSHIP_CODES,c_source,deleted,2011/08/24,unused field
+187,KINSHIP_CODES,c_upstep,added,2011/07/12,new metric
+188,KINSHIP_CODES,gen,deleted,2011/07/12,obsolete
+189,KINSHIP_CODES,kincat,deleted,2011/07/12,obsolete
+190,KINSHIP_CODES,kindist,deleted,2011/07/12,obsolete
+191,KINSHIP_CODES,kintype,deleted,2011/07/12,obsolete
+192,KINSHIP_CODES,sameas,deleted,2011/07/12,obsolete
+193,MEASURE_CODES,c_measure_code,long -> integer,2015/08/08,
+194,NAME_TYPES,All,table renamed,2011/07/03,table renamed ALTNAME_CODES
+195,OFFICE_CATEGORIES,c_office_category,long -> integer,2015/08/12,
+196,OFFICE_CODE_TYPE_REL,All,new table,2011/08/30,
+197,OFFICE_CODE_TYPE_REL,c_office_id,added,2011/08/30,new table
+198,OFFICE_CODE_TYPE_REL,c_office_l1,added,2011/08/30,new table
+199,OFFICE_CODE_TYPE_REL,c_office_l2,added,2011/08/30,new table
+200,OFFICE_CODE_TYPE_REL,c_office_l3,added,2011/08/30,new table
+201,OFFICE_CODE_TYPE_REL,c_office_l4,added,2011/08/30,new table
+202,OFFICE_CODE_TYPE_REL,c_office_l5,added,2011/08/30,new table
+203,OFFICE_CODE_TYPE_REL,c_office_tree_id,added,2012/11/11,simpler to add than compute
+204,OFFICE_CODE_TYPE_REL,c_office_type_id,added,2011/08/30,new table
+205,OFFICE_CODE_TYPE_REL,c_office_type_type_code,added,2011/08/30,new table
+206,OFFICE_CODES,c_dy,added,2013/06/11,
+207,OFFICE_CODES,c_fnc,deleted,2011/08/29,not used
+208,OFFICE_CODES,c_level,deleted,2011/08/29,not used
+209,OFFICE_CODES,c_office_subtype,deleted,2011/08/29,not used (moved to OFFICE_CODE_TYPE_REL)
+210,OFFICE_CODES,c_office_type,deleted,2011/08/29,not used (moved to OFFICE_CODE_TYPE_REL)
+211,OFFICE_CODES,c_rnk,deleted,2011/08/29,not used
+212,OFFICE_TYPES,All,new table,2011/08/30,
+213,OFFICE_TYPES,c_office_type_attr,added,2011/08/30,new table
+214,OFFICE_TYPES,c_office_type_desc,added,2011/08/30,new table
+215,OFFICE_TYPES,c_office_type_desc_chn,added,2011/08/30,new table
+216,OFFICE_TYPES,c_office_type_id,added,2011/08/30,new table
+217,OFFICE_TYPES,c_office_type_level,added,2011/08/30,new table
+218,OFFICE_TYPES,c_office_type_parent_id,added,2011/08/30,new table
+219,OFFICE_TYPES,c_office_type_sortorder,added,2011/08/30,new table
+220,PARENTAL_STATUS_CODES,All,new table,2013/07/10,new table
+221,PARENTAL_STATUS_CODES,c_parental_status_code,added,2013/07/10,new table
+222,PARENTAL_STATUS_CODES,c_parental_status_desc,added,2013/07/10,new table
+223,PARENTAL_STATUS_CODES,c_parental_status_desc_chn,added,2013/07/10,new table
+224,POSSESSION_ACT_CODES,c_possession_act_code,long -> integer,2015/08/08,
+225,POSSESSION_DATA,c_measure_code,long -> integer,2015/08/08,
+226,POSSESSION_DATA,c_possession_act_code,long -> integer,2015/08/08,
+227,POSSESSION_DATA,c_possession_nh_code,long -> integer,2015/08/08,
+228,POSSESSION_DATA,c_possession_nh_yr,long -> integer,2015/08/08,
+229,POSSESSION_DATA,c_possession_yr,long -> integer,2015/08/08,
+230,POSSESSION_DATA,c_possession_yr_range,long -> integer,2015/08/08,
+231,POST_ADDR,All,table renamed,2011/07/19,table renamed POSTED_TO_ADDR_DATA
+232,POST_DATA,All,table renamed,2011/07/19,renamed POSTED_TO_OFFICE_DATA
+233,POSTED_TO_ADDR_DATA,c_office_id,added,2011/07/19,addr bound to office within posting
+234,POSTED_TO_ADDR_DATA,tts_sysno,added,2011/07/19,
+235,POSTED_TO_OFFICE_DATA,c_addr_id,deleted,2011/07/19,moved to POSTED_TO_ADDR_DATA: one to many
+236,POSTED_TO_OFFICE_DATA,c_appt_type_code,long -> integer,2015/08/12,
+237,POSTED_TO_OFFICE_DATA,c_assume_office_code,long -> integer,2015/08/12,
+238,POSTED_TO_OFFICE_DATA,c_dy,added,2011/07/19,sometimes all we have
+239,POSTED_TO_OFFICE_DATA,c_dy,long -> integer,2015/08/12,
+240,POSTED_TO_OFFICE_DATA,c_fy_day,long -> integer,2015/08/12,
+241,POSTED_TO_OFFICE_DATA,c_fy_day_gz,long -> integer,2015/08/08,
+242,POSTED_TO_OFFICE_DATA,c_fy_month,long -> integer,2015/08/12,
+243,POSTED_TO_OFFICE_DATA,c_inst_code,added,2011/07/19,"particular temples, academies"
+244,POSTED_TO_OFFICE_DATA,c_inst_name_code,added,2011/07/19,"name of temple, academy"
+245,POSTED_TO_OFFICE_DATA,c_ly_day,long -> integer,2015/08/12,
+246,POSTED_TO_OFFICE_DATA,c_ly_day_gz,long -> integer,2015/08/08,
+247,POSTED_TO_OFFICE_DATA,c_ly_month,long -> integer,2015/08/12,
+248,POSTED_TO_OFFICE_DATA,c_office_category,long -> integer,2015/08/12,
+249,POSTED_TO_OFFICE_DATA,c_sequence,long -> integer,2015/08/12,
+250,POSTED_TO_OFFICE_DATA,tts_sysno,added,2011/07/19,
+251,POSTING_DATA,All,new table,2011/07/21,new table
+252,POSTING_DATA,c_personid,added,2011/07/21,new table
+253,POSTING_DATA,c_posting_id,added,2011/07/21,new table
+254,POSTING_DATA,tts_sysno,added,2011/07/21,new table
+255,SCHOLARLYTOPIC,All,table renamed,2011/07/21,renamed SCHOLARLYTOPIC_CODES
+256,SCHOLARLYTOPIC_CODES,c_topic_code,added?,2011/07/21,primary key (accidentally not listed?)
+257,SCHOOL_CODES,All,table renamed,2011/07/22,renamed SOCIAL_INSTITUTION_CODES
+258,SOCIAL_INSTITUTION_CODES,c_by_nianhao_code,long -> integer,2015/08/08,
+259,SOCIAL_INSTITUTION_CODES,c_by_nianhao_year,long -> integer,2015/08/08,
+260,SOCIAL_INSTITUTION_CODES,c_by_year_range,long -> integer,2015/08/08,
+261,SOCIAL_INSTITUTION_CODES,c_inst_addr_id,added,2011/07/22,
+262,SOCIAL_INSTITUTION_CODES,c_inst_begin_dy,added,2011/07/22,
+263,SOCIAL_INSTITUTION_CODES,c_inst_begin_dy,long -> integer,2015/08/08,
+264,SOCIAL_INSTITUTION_CODES,c_inst_begin_year,added,2011/07/22,
+265,SOCIAL_INSTITUTION_CODES,c_inst_begin_year,long -> integer,2015/08/08,
+266,SOCIAL_INSTITUTION_CODES,c_inst_first_known_year,added,2011/07/22,
+267,SOCIAL_INSTITUTION_CODES,c_inst_floruit_dy,added,2011/07/22,
+268,SOCIAL_INSTITUTION_CODES,c_inst_last_known_year,added,2011/07/22,
+269,SOCIAL_INSTITUTION_CODES,c_inst_name_code,added,2011/07/22,
+270,SOCIAL_INSTITUTION_CODES,c_inst_type_code,long -> integer,2015/08/08,
+271,SOCIAL_INSTITUTION_CODES,c_nianhao_code,added,2011/07/22,
+272,SOCIAL_INSTITUTION_CODES,c_nianhao_year,added,2011/07/22,
+273,SOCIAL_INSTITUTION_CODES,c_notes,added,2011/07/22,
+274,SOCIAL_INSTITUTION_CODES,c_pages,added,2011/07/22,
+275,SOCIAL_INSTITUTION_CODES,c_sch_code,renamed,2011/07/22,renamed c_inst_code
+276,SOCIAL_INSTITUTION_CODES,c_sch_desc,deleted,2011/07/22,
+277,SOCIAL_INSTITUTION_CODES,c_sch_desc_chn,deleted,2011/07/22,
+278,SOCIAL_INSTITUTION_CODES,c_sch_type_code,renamed,2011/07/22,renamed c_inst_type_code
+279,SOCIAL_INSTITUTION_CODES,c_sch_type_desc,deleted,2011/07/22,
+280,SOCIAL_INSTITUTION_CODES,c_sch_type_desc_chn,deleted,2011/07/22,
+281,SOCIAL_INSTITUTION_CODES,c_sortorder,deleted,2011/07/22,
+282,SOCIAL_INSTITUTION_CODES,c_source,added,2011/07/22,
+283,SOCIAL_INSTITUTION_CODES,c_topic_code,deleted,2011/07/22,
+284,SOCIAL_INSTITUTION_CODES,c_year_range,added,2011/07/22,
+285,SOCIAL_INSTITUTION_NAME_CODES,All,new table,2011/07/23,
+286,SOCIAL_INSTITUTION_NAME_CODES,c_inst_name_code,added,2011/07/23,new table
+287,SOCIAL_INSTITUTION_NAME_CODES,c_inst_name_hz,added,2011/07/23,new table
+288,SOCIAL_INSTITUTION_NAME_CODES,c_inst_name_py,added,2011/07/23,new table
+289,SOCIAL_INSTITUTION_TYPE_CODES,All,new table,2011/07/23,
+290,SOCIAL_INSTITUTION_TYPE_CODES,c_inst_type_code,added,2011/07/23,new table
+291,SOCIAL_INSTITUTION_TYPE_CODES,c_inst_type_hz,added,2011/07/23,new table
+292,SOCIAL_INSTITUTION_TYPE_CODES,c_inst_type_py,added,2011/07/23,new table
+293,SOCIAL_INSTITUTION_TYPES,c_inst_type_code,long -> integer,2015/08/08,
+294,STATUS_CODE_TYPE_REL,All,new table,2011/07/31,
+295,STATUS_CODE_TYPE_REL,c_status_code,added,2011/07/31,new table
+296,STATUS_CODE_TYPE_REL,c_status_type_code,added,2011/07/31,new table
+297,STATUS_CODES,subtype1,deleted,2011/07/25,function now STATUS_CODE_TYPE_REL
+298,STATUS_CODES,subtype2,deleted,2011/07/25,function now STATUS_CODE_TYPE_REL
+299,STATUS_CODES,type1,deleted,2011/07/25,function now STATUS_CODE_TYPE_REL
+300,STATUS_CODES,type2,deleted,2011/07/25,function now STATUS_CODE_TYPE_REL
+301,STATUS_DATA,c_firstyear,long  -> integer,2015/08/07,
+302,STATUS_DATA,c_lastyear,long  -> integer,2015/08/07,
+303,STATUS_DATA,c_supplement,added,2013/07/10,
+304,STATUS_TYPES,All,new table,2011/07/31,
+305,STATUS_TYPES,c_status_type_chn,added,2011/07/31,new table
+306,STATUS_TYPES,c_status_type_code,added,2011/07/31,new table
+307,STATUS_TYPES,c_status_type_desc,added,2011/07/31,new table
+308,TEXT_BIBLCAT_CODE_TYPE_REL,All,new table,2011/07/05,new table
+309,TEXT_BIBLCAT_CODE_TYPE_REL,c_text_cat_code,added,2011/07/05,new table
+310,TEXT_BIBLCAT_CODE_TYPE_REL,c_text_cat_code,double -> integer,2015/08/12,
+311,TEXT_BIBLCAT_CODE_TYPE_REL,c_text_cat_type_id,added,2011/07/05,new table
+312,TEXT_BIBLCAT_CODES,c_genre_code,renamed,2011/09/11,renamed c_text_cat_code
+313,TEXT_BIBLCAT_CODES,c_genre_desc,renamed,2011/09/11,renamed c_text_cat_desc
+314,TEXT_BIBLCAT_CODES,c_genre_desc_chn,renamed,2011/09/11,renamed c_text_cat_desc_chn
+315,TEXT_BIBLCAT_CODES,c_genre_pinyin,renamed,2011/09/11,renamed c_text_cat_pinyin
+316,TEXT_BIBLCAT_CODES,c_genre_sortorder,renamed,2011/09/11,renamed c_text_cat_sortorder
+317,TEXT_BIBLCAT_CODES,c_text_cat_code,double -> integer,2015/08/12,
+318,TEXT_BIBLCAT_CODES,scode,deleted,2011/07/05,mystery field
+319,TEXT_BIBLCAT_CODES,sdesc,deleted,2011/07/05,mystery field
+320,TEXT_BIBLCAT_CODES,sdescchn,deleted,2011/07/05,mystery field
+321,TEXT_BIBLCAT_CODES,sortorder,deleted,2011/07/05,mystery field
+322,TEXT_BIBLCAT_CODES,tcode,deleted,2011/07/05,mystery field
+323,TEXT_BIBLCAT_CODES,tdesc,deleted,2011/07/05,mystery field
+324,TEXT_BIBLCAT_CODES,tdescshn,deleted,2011/07/05,mystery field
+325,TEXT_BIBLCAT_TYPES,All,new table,2011/08/25,
+326,TEXT_BIBLCAT_TYPES,c_text_cat_type_desc,added,2011/07/05,new table
+327,TEXT_BIBLCAT_TYPES,c_text_cat_type_desc_chn,added,2011/07/05,new table
+328,TEXT_BIBLCAT_TYPES,c_text_cat_type_id,added,2011/07/05,new table
+329,TEXT_BIBLCAT_TYPES,c_text_cat_type_level,added,2011/07/05,new table
+330,TEXT_BIBLCAT_TYPES,c_text_cat_type_level,double -> integer,2015/08/12,
+331,TEXT_BIBLCAT_TYPES,c_text_cat_type_parent_id,added,2011/07/05,new table
+332,TEXT_BIBLCAT_TYPES,c_text_cat_type_sortorder,added,2011/07/05,new table
+333,TEXT_BIBLCAT_TYPES,c_text_cat_type_sortorder,double -> integer,2015/08/12,
+334,TEXT_CODES,c_genre_code,renamed,2011/09/11,renamed c_text_cat_code
+335,TEXT_CODES,c_genre_code_hartwell,deleted,2011/08/01,obsolete: only 5 records with data
+336,TEXT_CODES,c_notes_cs,deleted,2011/08/01,data transferred
+337,TEXT_CODES,c_pub_country,long -> integer,2015/08/12,
+338,TEXT_CODES,c_pub_dy,long -> integer,2015/08/12,
+339,TEXT_CODES,c_pub_nh_code,long -> integer,2015/08/12,
+340,TEXT_CODES,c_pub_nh_year,long -> integer,2015/08/12,
+341,TEXT_CODES,c_text_bibl_cat_code,long -> integer,2015/08/12,
+342,TEXT_CODES,c_text_country,long -> integer,2015/08/12,
+343,TEXT_CODES,c_text_dy,long -> integer,2015/08/12,
+344,TEXT_CODES,c_text_nh_code,long -> integer,2015/08/12,
+345,TEXT_CODES,c_text_nh_year,long -> integer,2015/08/12,
+346,TEXT_CODES,c_text_range_code,long -> integer,2015/08/12,
+347,TEXT_CODES,c_text_year,long -> integer,2015/08/12,
+348,TEXT_DATA,c_notes,added,2011/08/01,
+349,TEXT_DATA,c_pages,added,2011/08/01,
+350,TEXT_DATA,c_role_id,added,2011/08/01,
+351,TEXT_DATA,c_source,added,2011/08/01,
+352,TEXT_ROLE_CODES,All,new table,2011/08/02,new table
+353,TEXT_ROLE_CODES,c_role_desc,added,2011/08/02,new table
+354,TEXT_ROLE_CODES,c_role_desc_chn,added,2011/08/02,new table
+355,TEXT_ROLE_CODES,c_role_id,added,2011/08/02,new table
+356,TEXTS,All,table renamed,2011/06/14,table renamed TEXT_CODES
+357,TRIBE_CODES,All,deleted,,obsolete
+358,TRIBE_CODES,c_ethnicity_alt,deleted,,obsolete
+359,TRIBE_CODES,c_ethnicity_code,deleted,,obsolete
+360,TRIBE_CODES,c_ethnicity_desc,deleted,,obsolete
+361,TRIBE_CODES,c_ethnicity_desc_chn,deleted,,obsolete
+362,TRIBE_CODES,c_notes,deleted,,obsolete
+363,TRIBE_CODES,Jin shi,deleted,,obsolete
+364,TRIBE_CODES,Liao shi,deleted,,obsolete
+365,TRIBE_CODES,Ming shi,deleted,,obsolete
+366,TRIBE_CODES,Song shi,deleted,,obsolete
+367,TRIBE_CODES,Xin Tang shu,deleted,,obsolete
+368,TRIBE_CODES,Xin wu dai shu,deleted,,obsolete

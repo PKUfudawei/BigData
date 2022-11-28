@@ -1,0 +1,31 @@
+index,c_index_year_type_code,c_index_year_type_desc,c_index_year_type_hz,c_notes
+0,01,Based on Birth Year,據生年,not derived:  no rule
+1,02,Based on Death Year - Death Age + 1,據卒年 - 享年 + 1,old Rule 2
+2,03,Based on Husband's Birth Year + 3,據其夫生年 + 3,old Rule 4W
+3,04,Based on Husband's Index Year + 3,據其夫指數年 + 3,this is for the looping routine to catch all otherwise unspecified derived index years
+4,05,Based on jinshi year -30,據進士登科年 - 30,old Rule 5
+5,06,Based on Husband's jinshi year -27,據其夫進士登科年 - 27,old Rule 5W
+6,07,Based on juren year - 27,據中舉人年 - 27,old Rule 6
+7,08,Based on Husband's juren year -24,據其夫中舉人年 - 24,old Rule 6W
+8,09,Based on Xiucai year -21,據其考中秀才/生員年 - 21,old Rule 7
+9,10,Based on Husband's Xiucai year - 18,據其夫考中秀才/生員年 - 18,old Rule 7W
+10,11,Based on Father's Birth Year + 30,據其父親生年 + 30,old Rule 8
+11,12,Based on Father's Index Year + 30,據其父親指數年 + 30,this is for the looping routine to catch all otherwise unspecified derived index years
+12,13,Based on Oldest Child's Birth Year - 30 (father),據長子生年 - 30 (父),old Rule 9
+13,14,Based on Oldest Child's Index Year - 30 (father),據長子指數年 - 30 (父),this is for the looping routine to catch all otherwise unspecified derived index years
+14,15,Based on Oldest Child's Birth Year -27 (mother),據長子生年 - 27 (母),old Rule 9W
+15,16,Based on Oldest Child's Index Year - 27 (mother),據長子指數年 - 27 (母),this is for the looping routine to catch all otherwise unspecified derived index years
+16,17,Based on Husband's Birth Year + 3 (Concubine),據其丈夫生年 + 3 (妾),old Rule 4W (concubine)
+17,18,Based on Husband's Index Year + 3 (Concubine),據其丈夫指數年 + 3 (妾),this is for the looping routine to catch all otherwise unspecified derived index years
+18,19,Based on Youngest Older Brother's Birth Year + 2,據其兄生年 + 2,old Rule 10
+19,20,Based on Youngest Older Brother's Index Year + 2,據其兄指數年 + 2,this is for the looping routine to catch all otherwise unspecified derived index years
+20,21,Based on Oldest Younger Brother's Birth Year - 2,據其弟生年- 2,old Rule 11
+21,22,Based on Oldest Younger Brother's Index Year - 2,據其弟指數年 -2,this is for the looping routine to catch all otherwise unspecified derived index years
+22,23,Based on Oldest Son-in-law's Birth Year - 27 (father),據長婿生年 - 27 (父),old Rule 12
+23,24,Based on Oldest Son-in-law's Index Year - 27 (father),據長婿指數年 - 27 (父),this is for the looping routine to catch all otherwise unspecified derived index years
+24,25,Based on Oldest Son-in-law's Birth Year -24 (mother),據長婿生年 - 24 (母),old Rule 12W
+25,26,Based on Oldest Son-in-law's Index Year -24 (mother),據長婿指數年 - 24 (母),this is for the looping routine to catch all otherwise unspecified derived index years
+26,27,Based on Grandfather's Birth Year + 60,據其祖父生年 + 60,old Rule 13
+27,28,Based on Grandfather's Index Year + 60,據其祖父指數年 + 60,this is for the looping routine to catch all otherwise unspecified derived index years
+28,29,Based on Death Year - 63 (male),據卒年 - 63 (男),this uses separate values for men and women
+29,30,Based on Death Year - 55 (female),據卒年 - 55 (女),

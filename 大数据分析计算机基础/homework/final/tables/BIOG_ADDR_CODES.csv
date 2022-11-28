@@ -1,0 +1,23 @@
+index,c_addr_type,c_addr_desc,c_addr_desc_chn,c_addr_note,c_index_addr_rank,c_index_addr_default_rank
+0,-1,[Missing Data],[缺乏信息],,100,100
+1,0,unknown,未詳,,100,100
+2,1,Basic Affiliation,籍貫(基本地址),This field is different from the other fields. It assigns a person to a single place for indexing purposes. This field requires judgment based on information in the other fields. There should only be one entry.,1,1
+3,2,Moved to,遷住地,multiple entries possible,5,5
+4,3,Former Address,前住地,This field is used for the address which people left when they migrated to another place. It is only used for the person or generation that migrates. It may be different from Ancestral Address祖籍.,100,100
+5,4,Last Known Address,最後所知地,leave data as is,4,4
+6,5,Ancestral Address,祖籍,Generally only one entry,100,100
+7,6,Actual Residence,落籍(實際居住地),Generally only one entry,3,3
+8,7,Household Registration Address,本貫,This is a formal legal designation (e.g. as on 1148 jinshi list),100,100
+9,8,Birth Address,出生地,only one entry,100,100
+10,9,Burial Address,葬地,multiple entries possible (e.g. reburial elsewhere),8,8
+11,10,Death Address,死所,,100,100
+12,11,Migration Route of Branch,本族支裔遷徙路線,,100,100
+13,12,visited or went to,遊歷或曾經到過,"This is meant as a purposeful journey of some kind or a stopping off at a place, more than merely passing through en route to somewhere else.",100,100
+14,13,Eight Banner Qing Dynasty,八旗清代,,6,6
+15,14,alternate basic affiliation,另一籍貫(基本地址),,7,7
+16,15,place of refuge,避兵之地,also 避亂. used when the place of refuge is given,100,100
+17,16,Household address,戶籍地,For Ming households,2,2
+18,17,Place of exile,流放之地,"Please also check c_addr_type=20, when you also want to include someone who was mentioned as 坐徙/坐 in the source. 如果您希望包含“坐徙”/“坐”的信息，請同時也參考 c_addr_type=20。",9,9
+19,18,Chose to reside at,卜居,,100,100
+20,19,Sojourned at,僑居,,100,100
+21,20,Exiled to,坐徙,"Please also check c_addr_type=17, when you also want to include someone who was mentioned as 流放 in the source. 如果您希望包含“流放”的信息，請同時也參考 c_addr_type=17。",100,100

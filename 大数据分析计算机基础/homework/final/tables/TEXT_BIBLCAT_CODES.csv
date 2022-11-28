@@ -1,0 +1,145 @@
+index,c_text_cat_code,c_text_cat_desc,c_text_cat_desc_chn,c_text_cat_pinyin,c_text_cat_parent_id,c_text_cat_level,c_text_cat_sortorder
+0,0,unknown,未知,unknown,,,1
+1,1,Individual Literary Collections,别集,bie ji,,,76
+2,2,Historical Miscellanies,雜史,za shi,,,51
+3,3,Local Histories,方志總志,fang zhi zong zhi,,,67
+4,4,Local History Miscellanies,雜志,za zhi,,,68
+5,5,Local History Topics,專志,zhuan zhi,,,69
+6,6,Stele Inscriptions,金石,jin shi,,,74
+7,7,Collections,叢書,cong shu,,,25
+8,8,Biographies,專傳合傳,zhuan zhuan he zhuan,,,62
+9,9,Chronological Biographies,年譜,nian pu,,,64
+10,10,Confucianism: Rituals and Instructions,禮教,li jiao,,,29
+11,11,Edicts and Memorials,詔令奏議,zhao ling zou yi,,,57
+12,13,Travel Diaries,遊記,you ji,,,70
+13,14,Genealogies,譜牒/譜錄,pu die / pu lu,,,63
+14,15,Diaries,日記雜錄,ri ji za lu,,,65
+15,17,General Interpretation of Classics,群經總義/經解,qun jing zong yi / jing jie,,,2
+16,18,Book of Change,易,Yi,,,3
+17,19,Book of Documents,書,Shu,,,4
+18,20,Book of Odes,詩,Shi,,,5
+19,21,Rital Classics and associated works,禮 (籠統),Li (long tong),,,6
+20,22,Rites of Zhou,周禮,Zhou li,,,7
+21,23,Ceremonial Rites,儀禮,Yi li,,,8
+22,24,Record of Rites,禮記,Li ji,,,9
+23,25,Greater Dai Record of Rites,大戴禮記,Da dai li ji,,,10
+24,26,Music,樂,Yue,,,11
+25,27,Spring and Autumn Annals and associated works,春秋 (籠統),Chun qiu (long tong),,,12
+26,28,Spring and Autumn Annals: Zuo Commentary,春秋左傳,Chun qiu zuo zhuan,,,13
+27,29,Spring and Autumn Annals: Gongyang Commentary,春秋公羊傳,Chun qiu gong yang zhuan,,,14
+28,30,Spring and Autumn Annals: Guliang Commentary,春秋穀梁傳,Chun qiu gu liang zhuan,,,15
+29,31,General Interpretation of Four Books,四書合刻總義,si shu he ke zong yi,,,16
+30,32,Great Learning,大學,Da xue,,,17
+31,33,Doctrine of the Mean,中庸,Zhong yong,,,18
+32,34,Analects,論語,Lun yu,,,19
+33,35,Mencius,孟子,Meng zi,,,20
+34,36,Classics of Filial Piety,孝經,Xiao jing,,,21
+35,38,Philology,小學,xiao xue,,,23
+36,39,Apocrypha,讖緯,chen wei,,,24
+37,40,Official Histories,正史,zheng shi,,,47
+38,41,Chronicles,編年,bian nian,,,48
+39,42,Chronologies of Events,紀事本末,ji shi ben mo,,,49
+40,43,Unofficial Histories,别史,bie shi,,,50
+41,45,History of Local Regimes,載記/霸史,zai ji / ba shi,,,53
+42,46,Historical Tables,史表,shi biao,,,54
+43,47,Selections from histories,史鈔,shi chao,,,55
+44,48,Criticism of History,史評,shi ping,,,56
+45,49,State Documents,政書,zheng shu,,,58
+46,50,Institutions,職官,zhi guan,,,61
+47,51,Seasonal regulations,時令,shi ling,,,66
+48,52,Mountains and Rivers,山水,shan shui,,,71
+49,53,Miscellanies at Home and Abroad,中外雜紀,zhong wai zai ji,,,72
+50,54,Catalogues,目錄,mu lu,,,73
+51,55,General Discussions on Masters in Zhou and Qin Dynasties,周秦諸子總論,Zhou Qin zhu zi zong lun,,,26
+52,56,Confucianism: Nature and Principle,性理,xing li,,,27
+53,57,Confucianism: Statecraft,經濟,jing ji,,,28
+54,58,Military,兵書/兵家,bing shu / bing jia,,,30
+55,59,Legalists,法家,fa jia,,,31
+56,60,School of Names,名家,ming jia,,,32
+57,61,Moists,墨家,mo jia,,,33
+58,62,Rhetoricians,縱橫家,zong heng jia,,,34
+59,63,Agriculture,農家,nong jia,,,35
+60,64,Craftsmanship,工藝,gong yi,,,36
+61,65,Medicine,醫家/醫書,yi jia / yi shu,,,37
+62,66,Astronomy,天文,tian wen,,,38
+63,67,Arts of Divination,術數,shu shu,,,39
+64,68,Arts,藝術,yi shu,,,40
+65,69,Miscellaneous Treatises,雜學,za xue,,,41
+66,70,Precedents,典故/故事,dian gu,,,42
+67,71,Anecdotes,小說,xiao shuo,,,43
+68,72,Daoists,道教/道家,dao jiao / dao jia,,,44
+69,73,Buddhists,佛教/釋氏,fo jiao / Shi shi,,,45
+70,74,Other Religions,其他宗教,qi ta zong jiao,,,46
+71,75,Chu Ci,楚辭,chu ci,,,75
+72,76,General Literary Collections,總集,zong ji,,,77
+73,77,Literary History,詩文評,shi wen ping,,,78
+74,78,Lyrics,詞曲,ci qu,,,79
+75,79,Ceremonial Specifications,儀注,yi zhu,,,59
+76,80,Law and Punishments,刑法,xing fa,,,60
+77,81,Four Books and associated works,四書（籠統）,Si shu (long tong),,,81
+78,82,Er Ya,爾雅,Er ya,,,82
+79,83,,小學：說文,xiao xue: shuo wen,,,210
+80,84,,小學：字書,xiao xue: zi shu,,,84
+81,85,Philology: phonology,小學：音韻,xiao xue: yin yun,,,85
+82,86,Philology: Semantics,小學：訓詁,xiao xue: xun gu,,,86
+83,87,雜史：事實,雜史：事實,za shi: shi shi,,,87
+84,88,雜史：瑣記,雜史：瑣記,za shi: suo ji,,,88
+85,89,金石：總志,金石：總志,jin shi: zong zhi,,,89
+86,90,金石：金屬,金石：金屬,jin shi: jin shu,,,90
+87,91,金石：錢幣,金石：錢幣,jin shi: qian bi,,,91
+88,92,金石：璽印,金石：璽印,jin shi: xi yin,,,92
+89,93,金石：石,金石：石,jin shi: shi,,,93
+90,94,金石：玉,金石：玉,jin shi: yu,,,94
+91,95,金石：甲骨,金石：甲骨,jin shi: jia gu,,,95
+92,96,金石：匋,金石：匋,jin shi: tao,,,96
+93,97,金石：竹木,金石：竹木,jin shi: zhu mu,,,97
+94,98,金石：郡邑,金石：郡邑,jin shi: jun yi,,,98
+95,99,史評：義法,史評：義法,shi ping: yi fa,,,99
+96,100,史評：議論,史評：議論,shi ping: yi lun,,,100
+97,101,史評：考訂,史評：考訂,shi ping: kao ding,,,101
+98,102,史評：詠史,史評：詠史,shi ping: yong shi,,,102
+99,103,政書：通制,政書：通制,zheng shu: tong zhi,,,103
+100,104,政書：邦計,政書：邦計,zheng shu: bang ji,,,104
+101,105,政書：邦交,政書：邦交,zheng shu: bang jiao,,,105
+102,106,政書：軍政,政書：軍政,zheng shu: jun zheng,,,106
+103,107,政書：考工,政書：考工,zheng shu: kao gong,,,107
+104,108,政書：掌故瑣記,政書：掌故瑣記,zheng shu: zhang gu suo ji,,,108
+105,109,政書：詔令,政書：詔令,zheng shu: zhao ling,,,109
+106,110,政書：公牘,政書：公牘,zheng shu: gong du,,,110
+107,111,目錄：通論,目錄：通論,mu lu: tong lun,,,111
+108,112,目錄：總錄,目錄：總錄,mu lu: zong lu,,,112
+109,113,目錄：書志,目錄：書志,mu lu: shu zhi,,,113
+110,114,目錄：專錄,目錄：專錄,mu lu: zhuan lu,,,114
+111,115,目錄：版刻,目錄：版刻,mu lu: ban ke,,,115
+112,116,目錄：索引,目錄：索引,mu lu: suo yin,,,116
+113,117,Geographies,地理（籠統）,di li (long tong),,,117
+114,118,地理：總志,地理：總志,di li: zong zhi,,,118
+115,119,周秦諸子（籠統）,周秦諸子（籠統）,Zhou Qin zhu zi (long tong),,,119
+116,120,周秦諸子：儒家,周秦諸子：儒家,Zhou Qin zhu zi: ru jia,,,120
+117,121,周秦諸子：道家,周秦諸子：道家,Zhou Qin zhu zi: dao jia,,,121
+118,122,周秦諸子：雜家,周秦諸子：雜家,Zhou Qin zhu zi: za jia,,,122
+119,123,周秦諸子：小說家,周秦諸子：小說家,Zhou Qin zhu zi: xiao shuo jia,,,123
+120,124,兵書：兵法,兵書：兵法,bing shu: bing fa,,,124
+121,125,兵書：技巧,兵書：技巧,bing shu: ji qiao,,,125
+122,126,Confucians,儒學/儒家（籠統）,ru xue / ru jia (long tong),,,126
+123,127,農書（籠統）,農書（籠統）,nong shu (long tong),,,127
+124,128,農書：總論,農書：總論,nong shu: zong lun,,,128
+125,130,農書：耕作土壤,農書：耕作土壤,nong shu: geng zuo tu rang,,,130
+126,131,農書：農具,農書：農具,nong shu: nong ju,,,131
+127,132,農書：災害防治,農書：災害防治,nong shu: za hai fang zhi,,,211
+128,133,農書：作物,農書：作物,nong shu: zuo wu,,,212
+129,134,農書：蠶桑,農書：蠶桑,nong shu: can sang,,,234
+130,135,農書：園藝,農書：園藝,nong shu: yuan yi,,,213
+131,136,農書：畜牧,農書：畜牧,nong shu: xu mu,,,214
+132,137,農書：水産,農書：水産,nong shu: shui chan,,,215
+133,138,農書：生物,農書：生物,nong shu: sheng wu,,,216
+134,139,Biographies,傳記（籠統）,zhuan ji (long tong),,,139
+135,140,傳記：合傳/通錄,傳記：合傳/通錄,zhuan ji: he zhuan / tong lu,,,140
+136,141,傳記：雜傳,傳記：雜傳,zhuan ji: za zhuan,,,141
+137,142,宗教（籠統）,宗教（籠統）,zong jiao (long tong),,,243
+138,144,Five Phases,五行,wu xing,,,143
+139,145,Calendrical calculations,曆算,li suan,,,144
+140,146,Spirits and Immortals,神仙,shen xian,,,145
+141,147,Categorized Compendia,類事,lei shi,,,146
+142,148,Literary Criticism,文史,wen shi,,,147
+143,150,Veritable Records,實錄,shi lu,,,150

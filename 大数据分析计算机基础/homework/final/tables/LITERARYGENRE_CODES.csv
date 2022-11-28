@@ -1,0 +1,13 @@
+index,c_lit_genre_code,c_lit_genre_desc,c_lit_genre_desc_chn,c_sortorder
+0,0,unknown,未詳,1
+1,1,poem,詩,2
+2,2,lyric,詞,8
+3,3,song,曲,9
+4,4,rhapsody,賦,10
+5,5,prose,文,11
+6,6,parallel prose,駢文,12
+7,7,5 character quatrain,五言絕句,3
+8,8,7 character quatrain,七言絕句,4
+9,9,5 char reg verse,五言律詩,5
+10,10,7 char reg verse,七言律詩,6
+11,11,ancient style poem,古詩,7

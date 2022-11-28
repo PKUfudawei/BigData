@@ -1,0 +1,16 @@
+index,c_office_category_id,c_category_desc,c_category_desc_chn,c_notes
+0,0,unknown,未詳,
+1,1,Classification title,階官,"from Kracke, ""Translation of Sung Civil Service Titles"""
+2,2,Commission,差遣,"Used in the Song before 1080, from Kracke, ""Translation of Sung Civil Service Titles"""
+3,3,Complimentary censorial title,憲官,"from Kracke, ""Translation of Sung Civil Service Titles"""
+4,4,Dignitary,勳,"12 honorific titles, from Kracke, ""Translation of Sung Civil Service Titles"""
+5,5,Honorary office,檢校官,"19 titular offices, from Kracke, ""Translation of Sung Civil Service Titles"""
+6,6,Office,職事官,"After 1080, the title suggests the function, includes a number of the chaiqian office, from Kracke, ""Translation of Sung Civil Service Titles"""
+7,7,Prestige title,散官,"Used before 1080, from Kracke, ""Translation of Sung Civil Service Titles"""
+8,8,Probationary title,試秩,"from Kracke, ""Translation of Sung Civil Service Titles"""
+9,9,Nobility,爵,"from Kracke, ""Translation of Sung Civil Service Titles"""
+10,10,Titular office,本官,"Before 1080 denotes rank, after 1080 denotes actual position."
+11,11,Salary rank,寄祿官,ALways used to define rank for salary purposes
+12,12,Sinecure post,祠祿官,
+13,13,Nominal supernumerary appointment,帖職,"c_notes from Hucker,  used for eminent official appointed to academic status position"
+14,15,Concurrent appointment,兼職差遣,used for appointments that are concurrent with the posting noted in source

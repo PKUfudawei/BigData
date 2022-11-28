@@ -1,0 +1,270 @@
+index,c_entry_code,c_entry_desc,c_entry_desc_chn
+0,-1,[Missing Data],[Missing Data]
+1,0,not available/applicable,未知
+2,1,abdication of previous emperor,前帝遜位
+3,4,To be Deleted: betrothal,臨時保留，待考。
+4,5,promotion from clerical positions,胥吏出職
+5,7,purchase,進納補官(捐授)
+6,8,yin privilege: Grand Sacrifice,恩蔭: 大禮蔭補
+7,12,deposed previous emperor,廢前帝自立
+8,13,direct appointment to painting academy,畫院待詔
+9,14,imperial summons,徵辟
+10,15,direct recruitment into military service,募入軍伍
+11,16,To be Deleted: edict of grace,待刪除(内容多種，未知所屬，故臨時保留)。
+12,20,emperor or king (dynastic founder),開國君主
+13,21,enfeoffment,封土建藩(始封)
+14,22,tribute student: by grace,貢生: 恩貢
+15,24,investiture as imperial concubine,冊封爲妃嬪
+16,26,examination: general,科舉 (籠統)
+17,27,examination: child prodigy exam,科舉制舉: 童子舉
+18,28,examination: decree exams (general),科舉: 制舉 (籠統)
+19,29,examination: jinshi or zhuke (facilitated degree),科舉: 特奏名進士、特奏名諸科 、大挑
+20,32,examination: failed decree exam,科舉: 舉制科不第
+21,33,examination: failed jinshi or zhuke exams,科舉: 舉進士、諸科不第
+22,34,examination: fiscal intendent exam (caoshi),科舉: 漕試舉人
+23,36,examination: jinshi (general),科舉: 進士(籠統)
+24,37,examination: jinshi (eight conducts),科舉: 進士(八行科)
+25,39,examination: juren (prefect/provincial graduates),科舉: 鄉貢舉人
+26,42,examination: law (mingfa),科舉: 明法
+27,43,examination: medical,科舉: 醫科
+28,44,examination: military jinshi (wuju),科舉: 武舉進士
+29,46,examination: military juren (wuju),科舉: 武舉人
+30,47,school: licentiate,學校: 生員(庠生)
+31,48,"examination: various subjects(zhuke) (mingjing, mingfa excluded)",科舉: 正奏名諸科(不含明經、明法)
+32,50,school: degree granted to top Upper Hall students,學校: 上舍及第
+33,52,xiucai (before the Song),科舉制舉: 秀才(宋及以前)
+34,54,examination or school: degree granted by grace,科舉學校: 恩賜出身、特賜出身等
+35,57,"granted honorific title (b/c advanced age, righteous conducts, literary talents, etc.)",以耆行等賜爵
+36,59,yin privilege: on death of,恩蔭: 遺表蔭補
+37,60,yin privilege: on retirement of,恩蔭: 致仕蔭補
+38,62,yin privilege: when relative killed for dynastic cause,恩蔭: 死事蔭補
+39,64,rank or office by inheritance,世襲(替)
+40,69,investiture as empress,冊封爲皇后
+41,70,investiture as heir apparent,立儲
+42,72,other affinal relations with imperial family,其他與皇室聯姻關係
+43,73,marriage to imperial princess,尚宗女 = 駙馬
+44,74,grace given to imperial clan,宗子該恩
+45,77,military merit: military service or distinction in battle,軍員轉補
+46,78,school: military university degree,學校: 武學博士
+47,80,office because returned to allegiance,歸明歸正補官
+48,83,office granted for literary or artistic skill,以文學、文藝補官
+49,90,religion: ordination as monk,得度
+50,91,military merit: organizing a militia and other merits,軍功補官
+51,92,personal declaration,割據自立
+52,94,honorific title based on merit of relative,封贈
+53,96,7 specials: presentation of writings to the throne,上書獻頌
+54,101,recommendation,"薦舉 (保任,保舉)"
+55,105,repealed independence of local regime and swore allegience to new dynasty,納土授官
+56,107,employed as secretary,辟爲幕僚
+57,109,tribute student: general,"貢生 = 貢監生(籠統) (明清賓貢,功貢)"
+58,110,Imperial Academy student: general,監生(籠統)
+59,111,tribute student: annual routine,貢生: 歲貢
+60,112,succession,繼位
+61,113,succession through assassination,弑君自立
+62,114,surrender when dynasty changes,易代變節
+63,116,specialized techniques (fangji),以方技進
+64,118,yin privilege: general,恩蔭(籠統)
+65,124,examination: jinshi (from Imperial Academy graduates),科舉: 國子監進士
+66,130,examination: literary exams,科舉: 詞科
+67,132,7 specials: general,雜色補授 (籠統)
+68,135,promotion from irregular status officials in Guangnan,攝官轉正
+69,137,office (not degree) granted by special grace,特賜補官、准赦文除授等
+70,138,yin privilege: on Emperor's birthday,恩蔭: 聖節蔭補
+71,139,military merit: general,軍功補授(籠統)(軍功)
+72,140,military merit: recruitment from demobilized military men,揀汰軍人補授
+73,141,military merit: recruitment of rebels who returned to allegiance,招降補官
+74,142,military merit: recruitment from baojia leaders,保甲補官
+75,143,military merit: recognition of unofficial appointment,借補入官
+76,144,7 specials: son-in-law of imperial clansmen (who once passed the juren exam),宗室女夫曾得解者
+77,145,7 specials: son-in-law and relative of imperial affine,戚里女夫及捧香
+78,146,7 specials: affine of official above the 5th mourning grade,異姓恩澤
+79,147,7 specials: son-in-law of one who died in the battlefield,陣亡人女夫
+80,149,7 specials: accompanying diplomat to foreign court,隨奉使補官
+81,150,7 specials: grace to clerks with reduced tenure years,吏人特恩減年
+82,152,tribute student: selected,貢生: 拔貢
+83,153,tribute student: distinguished,貢生: 選貢(優貢 after 1628)
+84,154,tribute student: appended,貢生: 副貢
+85,155,tribute student: by purchase,"貢生: 納貢(例貢,增貢,捐貢)"
+86,156,Imperial Academy student: as juren,監生: 舉監
+87,157,Imperial Academy student: by yin privilege,監生: 蔭監(含明代官生、恩生，或清代恩廕生、難廕生)
+88,158,Imperial Academy student: by purchase,監生: 例監(附監生)
+89,159,Imperial Academy student: by grace,監生: 恩監
+90,160,Imperial Academy student: distinguished,監生: 優監
+91,161,examination: mingjing,科舉: 明經
+92,162,religion: granted religious titles,賜師號
+93,163,yin privilege: others,其他蔭補(確定非聖節、大禮、致仕、遺表、死事蔭補)
+94,164,others,其他
+95,166,office granted for calligraphic skill,書藝補官
+96,168,examination: quasi-departmental examination in Sichuan,科舉: 四川類省試
+97,169,student at the National University,太學生
+98,170,Roster of Lesser Scholastics,科舉: 明通榜
+99,171,supplementary student at county school,縣學附生
+100,172,government school student,官學生
+101,173,county school student,縣學生員
+102,174,(Qing) special examination: for filial and honest,恩科孝廉
+103,175,admitted to the Imperial Academy due to exceptional conduct,以優行貢太學
+104,176,"tribute student by purchase, second class",副貢生
+105,177,"tribute student by purchase, third class",附貢生
+106,178,honorable failure in the provincial exams,副車
+107,179,provincial graduate by special examination,恩科鄉試舉人
+108,180,stipend student,廩生
+109,181,Archivist,領催
+110,182,"Tribute Student by Purchase, First Class",廩貢生
+111,183,Imperial Academy student: First Class,廩監生
+112,184,Supplementary Student,附生
+113,185,Provincial Graduate by Imperial Grace,欽賜舉人
+114,186,Provincial Graduate in Translation,繙譯舉人
+115,187,Metropolitan Graduate in Translation,繙譯進士
+116,188,On the Supplementary List of Graduates,副榜
+117,189,Student by Inheritance from a Rank 2 Official,二品廕生
+118,190,Bannerman Appointed to the Imperial Guard,挑補拜唐阿
+119,191,Added Student,增廣生; 增廣生員
+120,192,Civil Licentiate,文生員
+121,193,Military Licentiate,武生員
+122,194,Imperial Clan,宗室
+123,195,Qing Imperial House,覺羅
+124,196,Student at a charitable school,義學生
+125,197,Student by yin privilege from a Rank 1 Official,一品廕生
+126,198,Student by yin privilege from a Rank 3 Official,三品廕生
+127,199,Graduate for Excellence,優貢生
+128,200,Banner soldier,馬甲
+129,201,Guardsman,護軍
+130,202,Vanguard Brigade,前鋒
+131,203,Consort Family,外戚
+132,204,Mongol Prince,外藩蒙古王公
+133,205,Bannerman,披甲
+134,206,Commoner Registered to a Banner,民人
+135,207,buyi,布衣
+136,208,Banner support trooper,幼丁
+137,209,Imperial Guardsman,親軍
+138,210,Local government militaman,鄉勇
+139,211,Document Translator,筆帖式
+140,212,Elegant Scholar (National University student),俊秀
+141,213,Foreign University student/graduate,外國大學生
+142,214,Ritual Performer,樂舞生;佾生
+143,215,Secretary of the Grand Secretariat,內閣中書
+144,216,Enrolled in an Academy,書院
+145,217,specialzed school graduate,專門學校
+146,218,Unassigned Bannerman,閑散
+147,219,Hanlin and Heir Apparent's Household Administration Promotion Examination,大考翰詹
+148,220,Examination for Instructorship,考取教習
+149,221,Promotion Examination within Bureaucracy (Qing: general),清朝: 考取官位
+150,222,Statecraft Examination,經濟特科
+151,223,Religion: Baptism as a Christian,宗教: 受洗
+152,224,Relgion: Becomes a Lama,宗教: 做喇嘛
+153,225,Recommended for or Appointed to Office for various qualities (non-examination),"以茂才,才行,武功,廉仁等科舉/授官 （非制科）"
+154,226,Decree examination: Erudite and Literary,科舉制舉: 博學鴻詞/博學宏詞科
+155,227,Decree examination: xia bi cheng zhang ke,科舉制舉: 下筆成章科
+156,228,Decree examination: ba ke,科舉制舉: 八科
+157,229,Ministry of Personnel examination (Sui-Tang),吏部試 (隋唐)
+158,230,Decree examination: da li ke,科舉制舉: 大禮科
+159,231,Decree examination: xiao lian,科舉制舉: 孝廉
+160,232,Examination: literary compositions,科舉: 宏詞科
+161,233,Decree examination: she ce,科舉制舉: 射策
+162,234,Decree examination: you su ke,科舉制舉: 幽素科
+163,235,Decree examination: shou bi jun ba ke,科舉制舉: 手筆俊拔科
+164,236,Decree examination: shou bi jun ba chao yue liu bei ke,科舉制舉: 手筆俊拔超越流輩科
+165,237,Decree examination: cai shi jian mao ming yu ti yong ke,科舉制舉: 才識兼茂明於體用科
+166,238,Decree examination: wen ci qing li ke,科舉制舉: 文辭清麗科
+167,239,Decree examination: wen ci ya li ke,科舉制舉: 文辭雅麗科
+168,240,Examination: legal judgments,科舉: 拔萃科；書判拔萃科
+169,241,Decree examination: zhi yan ji jian ke,科舉制舉: 直言極諫科
+170,242,Decree examination: jue lun ke,科舉制舉: 絕倫科
+171,243,Decree examination: lin nan bu gu xun jie ning bang ke,科舉制舉: 臨難不顧徇節寧邦科
+172,244,Decree examination: mao cai yi deng ke,科舉制舉: 茂才異等科
+173,245,Decree examination: mao cai yi xing ke,科舉制舉: 茂才異行科
+174,246,Decree examination: wan yan ke,科舉制舉: 萬言科
+175,247,Decree examination: zao si qing hua ke,科舉制舉: 藻思清華科
+176,248,Decree examination: xian liang fang zheng ke,科舉制舉: 賢良方正科
+177,249,Decree examination: xian liang fang zheng neng zhi yan ji jian ke,科舉制舉: 賢良方正能直言極諫科
+178,250,Decree examination: chao ba qun lei ke,科舉制舉: 超拔群類科
+179,251,Decree examination: jun mou yue zhong ke,科舉制舉: 軍謀越衆科
+180,252,Examination: Kaiyuan Ritual Code,科舉: 開元禮科
+181,253,Examination: Three Histories,科舉: 三史
+182,254,Examination: Nine Classics,科舉: 九經
+183,255,Examination: Five Classics,科舉: 五經
+184,256,Decree examination: tong wu jing ke,科舉制舉: 通五經科
+185,257,Decree examination: wu jing xiu cai ke,科舉制舉: 五經秀才科
+186,258,Decree examination: bo xue san shi ke,科舉制舉: 博學三史科
+187,259,Decree examination: bo tong fen dian ke,科舉制舉: 博通墳典科
+188,260,Decree examination: bo tong fen dian da yu jiao hua ke,科舉制舉: 博通墳典達於教化科
+189,261,Decree examination: bo tong wen ci ke,科舉制舉: 博通文詞科
+190,262,Decree examination: zhe ren qi shi ke,科舉制舉: 哲人奇士科
+191,263,Decree examination: si zi ke,科舉制舉: 四子科
+192,264,Decree examination: tian xia qi yi ke,科舉制舉: 天下奇佚科
+193,265,Decree examination: xiao ti lian jie ke,科舉制舉: 孝悌廉潔科
+194,266,Decree examination: xiao ti lian rang ke,科舉制舉: 孝悌廉讓科
+195,267,Examination: Thorough Learning,科舉: 學究科
+196,268,Decree examination: ping pan ru deng,科舉制舉: 平判入等
+197,269,Decree examination: lian ke,科舉制舉: 廉科
+198,270,Decree examination: zhi lie qiu shuang ke,科舉制舉: 志烈秋霜科
+199,271,Decree examination: cai ke zai bai li ke,科舉制舉: 才可宰百里科
+200,272,Decree examination: cai ying guan yue ke,科舉制舉: 才膺管樂科
+201,273,Decree examination: cai gao wei da shen ji xia liao ke,科舉制舉: 才高未達沈跡下僚科
+202,274,Decree examination: wen yi jing guo ke,科舉制舉: 文以經國科
+203,275,Decree examination: wen ke yi jing bang ke,科舉制舉: 文可以經邦科
+204,276,Decree examination: wen tan ci chang ke,科舉制舉: 文壇詞場科
+205,277,Decree examination: wen xue you shan ke,科舉制舉: 文學優贍科
+206,278,Decree examination: wen yi you chang ke,科舉制舉: 文藝優長科
+207,279,Decree examination: wen zao hong li ke,科舉制舉: 文藻宏麗科
+208,280,Decree examination: wen zao liu yu ke,科舉制舉: 文藻流譽科
+209,281,Decree examination: wen ci xiu yi ke,科舉制舉: 文詞秀逸科
+210,282,Decree examination: ming liang jing,科舉制舉: 明兩經
+211,283,Decree examination: ming yu zheng li ke,科舉制舉: 明於政理科
+212,284,Decree examination: zhi mou jiang shuai ke,科舉制舉: 智謀將帥科
+213,285,Decree examination: jing xue you shen ke,科舉制舉: 經學優深科
+214,286,Decree examination: you dao ke,科舉制舉: 有道科
+215,287,Decree examination: cai kan jing bang ke,科舉制舉: 材堪經邦科
+216,288,Decree examination: wu ju ke,科舉制舉: 武舉科
+217,289,Decree examination: wu zu an bian ke,科舉制舉: 武足安邊科
+218,290,Decree examination: dong xiao xuan jing ke,科舉制舉: 洞曉玄經科
+219,291,Decree examination: qing lian shou jie zheng shu ke cheng kan xian ling ke,科舉制舉: 清廉守節政術可稱堪縣令科
+220,292,Decree examination: mu zai ke,科舉制舉: 牧宰科
+221,293,Decree examination: bai pian,科舉制舉: 百篇
+222,294,Decree examination: liang cai yi deng ke,科舉制舉: 良才異等科
+223,295,Decree examination: ying cai jie chu ye ao da jing ke,科舉制舉: 英才傑出業奥大經科
+224,296,Decree examination: ying cai jie chu ke,科舉制舉: 英材傑出科
+225,297,Decree examination: cang qi xia liao ke,科舉制舉: 藏器下僚科
+226,298,Decree examination: ci shan wen chang ke,科舉制舉: 詞擅文場科
+227,299,Decree examination: ci zao hong li zhi ju,科舉制舉: 詞藻宏麗制舉
+228,300,Decree examination: xiang ming zheng shu ke yi li ren ke,科舉制舉: 詳明政術可以理人科
+229,301,Decree examination: feng jian zhu wen ke,科舉制舉: 諷諫主文科
+230,302,Decree examination: ci dan wen lü ke,科舉制舉: 辭殫文律科
+231,303,Decree examination: dao mou yi lü ke,科舉制舉: 道侔伊呂科
+232,304,Decree examination: yin ju qiu yuan bu qiu wen da ke,科舉制舉: 隠居丘園不求聞達科
+233,305,Decree examination: tao hui xian cai,科舉制舉: 韜晦賢才
+234,306,Decree examination: feng ya gu diao ke,科舉制舉: 風雅古調科
+235,307,Decree examination: gao cai shen lun cao ze zi ju ke,科舉制舉: 高才沈淪草澤自舉科
+236,308,Decree examination: ba cui chu lei ke,科舉制舉: 拔萃出類科
+237,309,Decree examination: jun mou hong yuan ke,科舉制舉: 軍謀宏遠科
+238,310,Decree examination: recommended for/summoned to,科舉制舉: 舉或詔
+239,311,"Passed Scholar (passed Metropolitan, not yet Palace, Exam)",科舉: 考上會試/貢士
+240,312,soldier,行伍
+241,313,preparing for military studentship,武童
+242,314,preparing for a civil studentship,文童/儒童
+243,315,Boxue hongru Exam Kangxi 18,博學鴻儒
+244,316,Imperial Prince,皇子/親王
+245,317,Student by yin privilege from a Rank 5 Official,五品廕生
+246,318,Student by yin privilege from a Rank 6 Official,六品廕生
+247,319,recommendation as xiao lian fang zheng (est. 1722),舉為孝廉方正
+248,320,prefectural school student,州、府學生
+249,321,Various military roles,出身軍職
+250,322,Imperial Household Department (Qing),內務府 （清朝）
+251,323,Student at/Graduate of Public or Private Domestic Universities,於國內公立私立大學就學、畢業
+252,324,school student,庠生
+253,325,prefecture school student,郡庠生
+254,326,county school student,邑庠生
+255,328,examination: military gongshi,武貢士
+256,329,the imperial examination on current politics,策試
+257,330,"Recommendation, by special grace, to the Classical Studies Section",特恩保舉經學科
+258,332,Licentiate in Translation,翻譯生員
+259,334,Examination: Jinshi (Law And Administration),法政科進士
+260,335,Imperial Academy Student: Sacrificer (Sage'S Descendant),奉祀生(祠生)
+261,336,Guest In Community Drinking Ceremony,鄉賓
+262,337,Principal Guest In Community Drinking Ceremony,大賓
+263,339,Attendent Guest In Community Drinking Ceremony,介賓
+264,340,special examination for imperial clan - extend benevolence examination,宗室選試: 量試
+265,341,special examination for imperial clan - special enrollment,宗室選試: 取應
+266,342,granted name and title,賜名;賜名授官
+267,343,Examination: Literary and Erudite,詞學兼茂科
+268,345,No translation yet,科舉: 中正榜

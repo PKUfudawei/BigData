@@ -1,0 +1,11 @@
+index,c_occasion_code,c_occasion_desc,c_occasion_desc_chn,c_sortorder
+0,0,unknown,未詳,1
+1,1,birthday,生日,2
+2,2,promotion,升遷,3
+3,3,demotion,降黜,4
+4,4,appointment to a position out of the capital,外放,5
+5,5,retirement,致仕,6
+6,6,departure,離別,7
+7,7,death,死亡,8
+8,8,sacrifice,祭奠,9
+9,9,completion of a new building,新建築物落成,10
