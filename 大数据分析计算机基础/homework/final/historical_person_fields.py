@@ -4,7 +4,7 @@ import pandas as pd
 
 def fields_of_person_dimension(output: str):
     """
-    从./字段含义.csv中读取字段意义, 并根据所有的表格内容分析得到与历史人物相关字段含义及其表格
+    从./字段含义.csv中读取字段含义, 并根据所有的表格内容分析得到与历史人物相关字段含义及其表格
     """
     tables = {}
     table_names = []

@@ -20,7 +20,7 @@ def family_name_word_cloud(output: str):
     with open(output, 'w', encoding='utf-8') as f:
         df.to_csv(f, index=False)
     print(f"已将数量前500的姓氏及其数量储存到{output}中")
-    print("已将词云生成到./姓氏词云.jpg中")
+    print("已将词云生成到./images/姓氏词云.jpg中")
 
 
 def gender_number_per_dynasty(output: str):
