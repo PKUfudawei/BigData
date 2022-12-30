@@ -50,7 +50,7 @@ def iter_association(personids, network, edge_color, assoc_type: str='03'):
 
 def plot_assocation_network(graph, name):
     """
-    根据社交关系网络图, 利用Fruchterman-Reingold力导向算法定位节点, 使得节点分布尽量四散均匀, 提高观看美观度
+    根据社交关系网络图, 利用Fruchterman-Reingold力导向算法定位节点, 该算法模拟网络的力导向表示，将边缘视为弹簧保持节点关闭，同时将节点视为排斥对象，有时称为反重力。模拟一直持续到位置接近平衡。使得节点分布尽量四散均匀, 提高美观度
     """
     plt.rcParams['font.sans-serif'] = ['SimHei']
     
