@@ -3,6 +3,9 @@ import pandas as pd
 
 
 def fields_of_person_dimension(output: str):
+    """
+    从./字段含义.csv中读取字段意义, 并根据所有的表格内容分析得到与历史人物相关字段含义及其表格
+    """
     tables = {}
     table_names = []
     for f in os.listdir('./parquet'):
@@ -24,6 +27,7 @@ def fields_of_person_dimension(output: str):
     })
     with open(output, 'w', encoding='utf-8') as f:
         df.to_csv(f, index=False, header=True)
+    print("已分析完和历史人物相关的所有字段及相关表格, 结果储存到./人物字段.csv中")
         
 
 def main(output: str):
@@ -31,4 +35,4 @@ def main(output: str):
 
   
 if __name__ == "__main__":
-    main(output='./人物维度.csv')
+    main(output='./人物字段.csv')

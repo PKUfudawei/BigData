@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 
 
 def analyze_table_relationship(output: str):
+    """
+    利用主键和外键定义分析不同表之间的表间关系, 结果储存到./表间关系.csv中
+    """
     tables = {}
     table_names = []
     for f in os.listdir('./parquet'):
@@ -60,6 +63,9 @@ def analyze_table_relationship(output: str):
         
 
 def plot_table_relationship(csv: str):
+    """
+    根据分析出的./表间关系.csv画出表间关系网络图, 绿色边表示一对一, 蓝色边表示一对多, 红色边表示多对多, 储存到./images/表间关系.pdf中
+    """
     df = pd.read_csv(csv)
     G = nx.DiGraph()
     for _, row in df.iterrows():
@@ -69,12 +75,14 @@ def plot_table_relationship(csv: str):
             G.add_edge(row['表一'], row['表二'], color='blue')
         elif row['表间关系'] == '多对多':
             G.add_edge(row['表一'], row['表二'], color='red')
+            G.add_edge(row['表二'], row['表一'], color='red')
             
     plt.figure(figsize=(20, 16))
     ax=plt.gca()
     nx.draw_circular(G, node_color='white', edge_color=[G.edges[i]['color'] for i in G.edges], with_labels = True, font_size=8, node_size=30, ax=ax, alpha=0.7)
-    plt.savefig("table_relationship.pdf", bbox_inches='tight')
-    plt.show()
+    plt.savefig("./images/表间关系.pdf", bbox_inches='tight')
+    print("已存为./images/表间关系.pdf")
+    # plt.show()
 
 
 def main(csv: str):
