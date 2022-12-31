@@ -1,8 +1,10 @@
 # 项目说明: 中国历代人物传记资料库分析
 
+### 小组成员: 付大为、田源
+
 - 数据库下载地址: [latest.7z](https://github.com/cbdb-project/cbdb_sqlite/blob/master/latest.7z)
 - 已下载好的数据库位置`latest.db`
-- 题目概述: 下载Harvard University的 [CBDB](https://projects.iq.harvard.edu/cbdb)数据库，结合网络上各种文献，分析该数据库结构，各个字段（属性）含义。可在地图上显示多人迁移路径，人际关系等多种应用。至少达到如下目标：
+- 题目概述: 下载Harvard University的[CBDB](https://projects.iq.harvard.edu/cbdb)数据库，结合网络上各种文献，分析该数据库结构，各个字段（属性）含义。可在地图上显示多人迁移路径，人际关系等多种应用。至少达到如下目标：
 
 ## 逐题解决
 
