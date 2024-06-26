@@ -217,8 +217,6 @@ numerical_test = df_test[[f for f in df_test_features.corr().columns]].values
 numerical_test = z_scaler.fit_transform(numerical_test)
 ```
 
-随后随着Tree Number上升进入饱和状态, 在Tree Number>60后甚至Accuracy略微下降, 可以认为是模型过大出现了过拟合现象.
-
 ### 3.2 分类特征编码——使用 OneHotEncoder
 
 对于Cabin，我们只关心船舱的首字母
@@ -306,7 +304,7 @@ train_and_predict(model_name='xgboost', classifier=xgb.XGBClassifier())
 
 我们将三种模型的结果提交到kaggle进行检验, 得到**测试集**上准确率结果如下
 
-![16991686856121_.pic](https://p.ipic.vip/7dwnpb.jpg)
+![16991686856121_.pic](/Users/DaweiFu/Desktop/result.png)
 
 # 结果分析
 

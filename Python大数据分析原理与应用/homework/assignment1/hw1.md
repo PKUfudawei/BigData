@@ -4,7 +4,7 @@
 
 ## 1. 读取患者的检查样本数据，并补全缺失数据（均值填充即可），之后划分训练样本和测试样本，搭建逻辑回归模型，并计算在测试集上预测的准确率。
 
-导入第三方库并读取样本数据: 
+导入第三方库并读取样本数据:
 
 ```python
 import pandas as pd
@@ -16,7 +16,7 @@ from sklearn.model_selection import train_test_split
 df = pd.read_csv('./breast_cancer.csv')
 ```
 
-补全缺失数据(均值填充): 
+补全缺失数据(均值填充):
 
 ```python
 df.fillna({k: df.mean(skipna=True)[k] for k in df.columns if df[k].isnull().any()}, inplace=True)
@@ -70,7 +70,9 @@ pd.DataFrame(data={'预测不患癌症': cm[:, 0], '预测患癌症': cm[:, 1]},
 
 ## 3.  输出逻辑回归模型的参数k0-k30，对每一个**测试样本**计算对应的 y 和 f(y) 值，画出 y 与 f(y) 的散点图，其中正样本以红色表示，负样本以蓝色表示。（正/负样本指数据集中的真实正/负样本）
 
-$$y=k_0+k_1x_1+k_2x_2+\cdots+k_{30}x_{30}\\f(y)=\frac{1}{1+e^{-y}}$$ 
+$$
+y=k_0+k_1x_1+k_2x_2+\cdots+k_{30}x_{30}\\f(y)=\frac{1}{1+e^{-y}}
+$$
 
 首先查看fitting后的model参数
 
@@ -104,3 +106,7 @@ fig.show()
 fig.write_image('./scatter.pdf')
 ```
 
+$$
+
+
+$$
